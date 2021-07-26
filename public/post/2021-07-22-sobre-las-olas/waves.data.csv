@@ -1,0 +1,28 @@
+"wave","type","hospital.stats"
+"Primera","Casos",19728
+"Primera","Hospitalizados",8766
+"Primera","UCI",1196
+"Primera","Intubados",2328
+"Primera","Fallecimientos",4310
+"Primera","% Hospitalizados",0.444343065693431
+"Primera","% UCI",0.0606244931062449
+"Primera","% Intubados",0.118004866180049
+"Primera","% Fallecimientos",0.218471208434712
+"Segunda","Casos",279570
+"Segunda","Hospitalizados",47194
+"Segunda","UCI",4153
+"Segunda","Intubados",4715
+"Segunda","Fallecimientos",22412
+"Segunda","% Hospitalizados",0.168809242765676
+"Segunda","% UCI",0.014854955825017
+"Segunda","% Intubados",0.0168651858210824
+"Segunda","% Fallecimientos",0.0801659691669349
+"Tercera","Casos",166516
+"Tercera","Hospitalizados",16709
+"Tercera","UCI",1250
+"Tercera","Intubados",1707
+"Tercera","Fallecimientos",5127
+"Tercera","% Hospitalizados",0.100344711619304
+"Tercera","% UCI",0.00750678613466574
+"Tercera","% Intubados",0.0102512671454995
+"Tercera","% Fallecimientos",0.030789834009945

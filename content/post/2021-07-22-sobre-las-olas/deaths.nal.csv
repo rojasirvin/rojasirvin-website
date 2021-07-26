@@ -1,0 +1,1492 @@
+"date","wave","wave.day","type","deaths.stat"
+2020-03-02,"Primera",1,"Casos",0
+2020-03-02,"Primera",1,"Media móvil de 7 días",NA
+2020-03-02,"Primera",1,"Índice (día 1 = 100)",NA
+2020-03-03,"Primera",2,"Casos",1
+2020-03-03,"Primera",2,"Media móvil de 7 días",NA
+2020-03-03,"Primera",2,"Índice (día 1 = 100)",NA
+2020-03-04,"Primera",3,"Casos",0
+2020-03-04,"Primera",3,"Media móvil de 7 días",NA
+2020-03-04,"Primera",3,"Índice (día 1 = 100)",NA
+2020-03-05,"Primera",4,"Casos",0
+2020-03-05,"Primera",4,"Media móvil de 7 días",0.142857142857143
+2020-03-05,"Primera",4,"Índice (día 1 = 100)",100
+2020-03-06,"Primera",5,"Casos",0
+2020-03-06,"Primera",5,"Media móvil de 7 días",0.142857142857143
+2020-03-06,"Primera",5,"Índice (día 1 = 100)",100
+2020-03-07,"Primera",6,"Casos",0
+2020-03-07,"Primera",6,"Media móvil de 7 días",0
+2020-03-07,"Primera",6,"Índice (día 1 = 100)",0
+2020-03-08,"Primera",7,"Casos",0
+2020-03-08,"Primera",7,"Media móvil de 7 días",0
+2020-03-08,"Primera",7,"Índice (día 1 = 100)",0
+2020-03-09,"Primera",8,"Casos",0
+2020-03-09,"Primera",8,"Media móvil de 7 días",0
+2020-03-09,"Primera",8,"Índice (día 1 = 100)",0
+2020-03-10,"Primera",9,"Casos",0
+2020-03-10,"Primera",9,"Media móvil de 7 días",0.142857142857143
+2020-03-10,"Primera",9,"Índice (día 1 = 100)",100
+2020-03-11,"Primera",10,"Casos",0
+2020-03-11,"Primera",10,"Media móvil de 7 días",0.142857142857143
+2020-03-11,"Primera",10,"Índice (día 1 = 100)",100
+2020-03-12,"Primera",11,"Casos",0
+2020-03-12,"Primera",11,"Media móvil de 7 días",0.142857142857143
+2020-03-12,"Primera",11,"Índice (día 1 = 100)",100
+2020-03-13,"Primera",12,"Casos",1
+2020-03-13,"Primera",12,"Media móvil de 7 días",0.142857142857143
+2020-03-13,"Primera",12,"Índice (día 1 = 100)",100
+2020-03-14,"Primera",13,"Casos",0
+2020-03-14,"Primera",13,"Media móvil de 7 días",0.428571428571429
+2020-03-14,"Primera",13,"Índice (día 1 = 100)",300
+2020-03-15,"Primera",14,"Casos",0
+2020-03-15,"Primera",14,"Media móvil de 7 días",0.857142857142857
+2020-03-15,"Primera",14,"Índice (día 1 = 100)",600
+2020-03-16,"Primera",15,"Casos",0
+2020-03-16,"Primera",15,"Media móvil de 7 días",0.857142857142857
+2020-03-16,"Primera",15,"Índice (día 1 = 100)",600
+2020-03-17,"Primera",16,"Casos",2
+2020-03-17,"Primera",16,"Media móvil de 7 días",0.857142857142857
+2020-03-17,"Primera",16,"Índice (día 1 = 100)",600
+2020-03-18,"Primera",17,"Casos",3
+2020-03-18,"Primera",17,"Media móvil de 7 días",0.857142857142857
+2020-03-18,"Primera",17,"Índice (día 1 = 100)",600
+2020-03-19,"Primera",18,"Casos",0
+2020-03-19,"Primera",18,"Media móvil de 7 días",1.14285714285714
+2020-03-19,"Primera",18,"Índice (día 1 = 100)",800
+2020-03-20,"Primera",19,"Casos",1
+2020-03-20,"Primera",19,"Media móvil de 7 días",1.28571428571429
+2020-03-20,"Primera",19,"Índice (día 1 = 100)",900
+2020-03-21,"Primera",20,"Casos",0
+2020-03-21,"Primera",20,"Media móvil de 7 días",1.42857142857143
+2020-03-21,"Primera",20,"Índice (día 1 = 100)",1000
+2020-03-22,"Primera",21,"Casos",2
+2020-03-22,"Primera",21,"Media móvil de 7 días",1.28571428571429
+2020-03-22,"Primera",21,"Índice (día 1 = 100)",900
+2020-03-23,"Primera",22,"Casos",1
+2020-03-23,"Primera",22,"Media móvil de 7 días",2.42857142857143
+2020-03-23,"Primera",22,"Índice (día 1 = 100)",1700
+2020-03-24,"Primera",23,"Casos",3
+2020-03-24,"Primera",23,"Media móvil de 7 días",3.57142857142857
+2020-03-24,"Primera",23,"Índice (día 1 = 100)",2500
+2020-03-25,"Primera",24,"Casos",2
+2020-03-25,"Primera",24,"Media móvil de 7 días",5.71428571428571
+2020-03-25,"Primera",24,"Índice (día 1 = 100)",4000
+2020-03-26,"Primera",25,"Casos",8
+2020-03-26,"Primera",25,"Media móvil de 7 días",6.71428571428571
+2020-03-26,"Primera",25,"Índice (día 1 = 100)",4700
+2020-03-27,"Primera",26,"Casos",9
+2020-03-27,"Primera",26,"Media móvil de 7 días",8.57142857142857
+2020-03-27,"Primera",26,"Índice (día 1 = 100)",6000
+2020-03-28,"Primera",27,"Casos",15
+2020-03-28,"Primera",27,"Media móvil de 7 días",11.8571428571429
+2020-03-28,"Primera",27,"Índice (día 1 = 100)",8300
+2020-03-29,"Primera",28,"Casos",9
+2020-03-29,"Primera",28,"Media móvil de 7 días",14.7142857142857
+2020-03-29,"Primera",28,"Índice (día 1 = 100)",10300
+2020-03-30,"Primera",29,"Casos",14
+2020-03-30,"Primera",29,"Media móvil de 7 días",17.4285714285714
+2020-03-30,"Primera",29,"Índice (día 1 = 100)",12200
+2020-03-31,"Primera",30,"Casos",26
+2020-03-31,"Primera",30,"Media móvil de 7 días",21
+2020-03-31,"Primera",30,"Índice (día 1 = 100)",14700
+2020-04-01,"Primera",31,"Casos",22
+2020-04-01,"Primera",31,"Media móvil de 7 días",24.4285714285714
+2020-04-01,"Primera",31,"Índice (día 1 = 100)",17100
+2020-04-02,"Primera",32,"Casos",27
+2020-04-02,"Primera",32,"Media móvil de 7 días",27.8571428571429
+2020-04-02,"Primera",32,"Índice (día 1 = 100)",19500
+2020-04-03,"Primera",33,"Casos",34
+2020-04-03,"Primera",33,"Media móvil de 7 días",34.1428571428571
+2020-04-03,"Primera",33,"Índice (día 1 = 100)",23900
+2020-04-04,"Primera",34,"Casos",39
+2020-04-04,"Primera",34,"Media móvil de 7 días",39.2857142857143
+2020-04-04,"Primera",34,"Índice (día 1 = 100)",27500
+2020-04-05,"Primera",35,"Casos",33
+2020-04-05,"Primera",35,"Media móvil de 7 días",43.2857142857143
+2020-04-05,"Primera",35,"Índice (día 1 = 100)",30300
+2020-04-06,"Primera",36,"Casos",58
+2020-04-06,"Primera",36,"Media móvil de 7 días",48.2857142857143
+2020-04-06,"Primera",36,"Índice (día 1 = 100)",33800
+2020-04-07,"Primera",37,"Casos",62
+2020-04-07,"Primera",37,"Media móvil de 7 días",54.5714285714286
+2020-04-07,"Primera",37,"Índice (día 1 = 100)",38200
+2020-04-08,"Primera",38,"Casos",50
+2020-04-08,"Primera",38,"Media móvil de 7 días",60.7142857142857
+2020-04-08,"Primera",38,"Índice (día 1 = 100)",42500
+2020-04-09,"Primera",39,"Casos",62
+2020-04-09,"Primera",39,"Media móvil de 7 días",68.4285714285714
+2020-04-09,"Primera",39,"Índice (día 1 = 100)",47900
+2020-04-10,"Primera",40,"Casos",78
+2020-04-10,"Primera",40,"Media móvil de 7 días",74.5714285714286
+2020-04-10,"Primera",40,"Índice (día 1 = 100)",52200
+2020-04-11,"Primera",41,"Casos",82
+2020-04-11,"Primera",41,"Media móvil de 7 días",81.8571428571429
+2020-04-11,"Primera",41,"Índice (día 1 = 100)",57300
+2020-04-12,"Primera",42,"Casos",87
+2020-04-12,"Primera",42,"Media móvil de 7 días",91.4285714285714
+2020-04-12,"Primera",42,"Índice (día 1 = 100)",64000
+2020-04-13,"Primera",43,"Casos",101
+2020-04-13,"Primera",43,"Media móvil de 7 días",97.8571428571429
+2020-04-13,"Primera",43,"Índice (día 1 = 100)",68500
+2020-04-14,"Primera",44,"Casos",113
+2020-04-14,"Primera",44,"Media móvil de 7 días",107
+2020-04-14,"Primera",44,"Índice (día 1 = 100)",74900
+2020-04-15,"Primera",45,"Casos",117
+2020-04-15,"Primera",45,"Media móvil de 7 días",114.857142857143
+2020-04-15,"Primera",45,"Índice (día 1 = 100)",80400
+2020-04-16,"Primera",46,"Casos",107
+2020-04-16,"Primera",46,"Media móvil de 7 días",128.285714285714
+2020-04-16,"Primera",46,"Índice (día 1 = 100)",89800
+2020-04-17,"Primera",47,"Casos",142
+2020-04-17,"Primera",47,"Media móvil de 7 días",144
+2020-04-17,"Primera",47,"Índice (día 1 = 100)",100800
+2020-04-18,"Primera",48,"Casos",137
+2020-04-18,"Primera",48,"Media móvil de 7 días",158.714285714286
+2020-04-18,"Primera",48,"Índice (día 1 = 100)",111100
+2020-04-19,"Primera",49,"Casos",181
+2020-04-19,"Primera",49,"Media móvil de 7 días",172.571428571429
+2020-04-19,"Primera",49,"Índice (día 1 = 100)",120800
+2020-04-20,"Primera",50,"Casos",211
+2020-04-20,"Primera",50,"Media móvil de 7 días",190.285714285714
+2020-04-20,"Primera",50,"Índice (día 1 = 100)",133200
+2020-04-21,"Primera",51,"Casos",216
+2020-04-21,"Primera",51,"Media móvil de 7 días",207.714285714286
+2020-04-21,"Primera",51,"Índice (día 1 = 100)",145400
+2020-04-22,"Primera",52,"Casos",214
+2020-04-22,"Primera",52,"Media móvil de 7 días",229.142857142857
+2020-04-22,"Primera",52,"Índice (día 1 = 100)",160400
+2020-04-23,"Primera",53,"Casos",231
+2020-04-23,"Primera",53,"Media móvil de 7 días",247.285714285714
+2020-04-23,"Primera",53,"Índice (día 1 = 100)",173100
+2020-04-24,"Primera",54,"Casos",264
+2020-04-24,"Primera",54,"Media móvil de 7 días",257.285714285714
+2020-04-24,"Primera",54,"Índice (día 1 = 100)",180100
+2020-04-25,"Primera",55,"Casos",287
+2020-04-25,"Primera",55,"Media móvil de 7 días",272.285714285714
+2020-04-25,"Primera",55,"Índice (día 1 = 100)",190600
+2020-04-26,"Primera",56,"Casos",308
+2020-04-26,"Primera",56,"Media móvil de 7 días",296.428571428571
+2020-04-26,"Primera",56,"Índice (día 1 = 100)",207500
+2020-04-27,"Primera",57,"Casos",281
+2020-04-27,"Primera",57,"Media móvil de 7 días",313.428571428571
+2020-04-27,"Primera",57,"Índice (día 1 = 100)",219400
+2020-04-28,"Primera",58,"Casos",321
+2020-04-28,"Primera",58,"Media móvil de 7 días",333.857142857143
+2020-04-28,"Primera",58,"Índice (día 1 = 100)",233700
+2020-04-29,"Primera",59,"Casos",383
+2020-04-29,"Primera",59,"Media móvil de 7 días",343.857142857143
+2020-04-29,"Primera",59,"Índice (día 1 = 100)",240700
+2020-04-30,"Primera",60,"Casos",350
+2020-04-30,"Primera",60,"Media móvil de 7 días",352.285714285714
+2020-04-30,"Primera",60,"Índice (día 1 = 100)",246600
+2020-05-01,"Primera",61,"Casos",407
+2020-05-01,"Primera",61,"Media móvil de 7 días",377.571428571429
+2020-05-01,"Primera",61,"Índice (día 1 = 100)",264300
+2020-05-02,"Primera",62,"Casos",357
+2020-05-02,"Primera",62,"Media móvil de 7 días",396
+2020-05-02,"Primera",62,"Índice (día 1 = 100)",277200
+2020-05-03,"Primera",63,"Casos",367
+2020-05-03,"Primera",63,"Media móvil de 7 días",400
+2020-05-03,"Primera",63,"Índice (día 1 = 100)",280000
+2020-05-04,"Primera",64,"Casos",458
+2020-05-04,"Primera",64,"Media móvil de 7 días",407.857142857143
+2020-05-04,"Primera",64,"Índice (día 1 = 100)",285500
+2020-05-05,"Primera",65,"Casos",450
+2020-05-05,"Primera",65,"Media móvil de 7 días",412.428571428571
+2020-05-05,"Primera",65,"Índice (día 1 = 100)",288700
+2020-05-06,"Primera",66,"Casos",411
+2020-05-06,"Primera",66,"Media móvil de 7 días",421
+2020-05-06,"Primera",66,"Índice (día 1 = 100)",294700
+2020-05-07,"Primera",67,"Casos",405
+2020-05-07,"Primera",67,"Media móvil de 7 días",433
+2020-05-07,"Primera",67,"Índice (día 1 = 100)",303100
+2020-05-08,"Primera",68,"Casos",439
+2020-05-08,"Primera",68,"Media móvil de 7 días",433.285714285714
+2020-05-08,"Primera",68,"Índice (día 1 = 100)",303300
+2020-05-09,"Primera",69,"Casos",417
+2020-05-09,"Primera",69,"Media móvil de 7 días",438.285714285714
+2020-05-09,"Primera",69,"Índice (día 1 = 100)",306800
+2020-05-10,"Primera",70,"Casos",451
+2020-05-10,"Primera",70,"Media móvil de 7 días",450.142857142857
+2020-05-10,"Primera",70,"Índice (día 1 = 100)",315100
+2020-05-11,"Primera",71,"Casos",460
+2020-05-11,"Primera",71,"Media móvil de 7 días",470
+2020-05-11,"Primera",71,"Índice (día 1 = 100)",329000
+2020-05-12,"Primera",72,"Casos",485
+2020-05-12,"Primera",72,"Media móvil de 7 días",486.571428571429
+2020-05-12,"Primera",72,"Índice (día 1 = 100)",340600
+2020-05-13,"Primera",73,"Casos",494
+2020-05-13,"Primera",73,"Media móvil de 7 días",503.285714285714
+2020-05-13,"Primera",73,"Índice (día 1 = 100)",352300
+2020-05-14,"Primera",74,"Casos",544
+2020-05-14,"Primera",74,"Media móvil de 7 días",522.142857142857
+2020-05-14,"Primera",74,"Índice (día 1 = 100)",365500
+2020-05-15,"Primera",75,"Casos",555
+2020-05-15,"Primera",75,"Media móvil de 7 días",540.285714285714
+2020-05-15,"Primera",75,"Índice (día 1 = 100)",378200
+2020-05-16,"Primera",76,"Casos",534
+2020-05-16,"Primera",76,"Media móvil de 7 días",553.714285714286
+2020-05-16,"Primera",76,"Índice (día 1 = 100)",387600
+2020-05-17,"Primera",77,"Casos",583
+2020-05-17,"Primera",77,"Media móvil de 7 días",564.142857142857
+2020-05-17,"Primera",77,"Índice (día 1 = 100)",394900
+2020-05-18,"Primera",78,"Casos",587
+2020-05-18,"Primera",78,"Media móvil de 7 días",568
+2020-05-18,"Primera",78,"Índice (día 1 = 100)",397600
+2020-05-19,"Primera",79,"Casos",579
+2020-05-19,"Primera",79,"Media móvil de 7 días",567.428571428571
+2020-05-19,"Primera",79,"Índice (día 1 = 100)",397200
+2020-05-20,"Primera",80,"Casos",567
+2020-05-20,"Primera",80,"Media móvil de 7 días",568
+2020-05-20,"Primera",80,"Índice (día 1 = 100)",397600
+2020-05-21,"Primera",81,"Casos",571
+2020-05-21,"Primera",81,"Media móvil de 7 días",570.714285714286
+2020-05-21,"Primera",81,"Índice (día 1 = 100)",399500
+2020-05-22,"Primera",82,"Casos",551
+2020-05-22,"Primera",82,"Media móvil de 7 días",575.857142857143
+2020-05-22,"Primera",82,"Índice (día 1 = 100)",403100
+2020-05-23,"Primera",83,"Casos",538
+2020-05-23,"Primera",83,"Media móvil de 7 días",580.571428571429
+2020-05-23,"Primera",83,"Índice (día 1 = 100)",406400
+2020-05-24,"Primera",84,"Casos",602
+2020-05-24,"Primera",84,"Media móvil de 7 días",584.285714285714
+2020-05-24,"Primera",84,"Índice (día 1 = 100)",409000
+2020-05-25,"Primera",85,"Casos",623
+2020-05-25,"Primera",85,"Media móvil de 7 días",591.714285714286
+2020-05-25,"Primera",85,"Índice (día 1 = 100)",414200
+2020-05-26,"Primera",86,"Casos",612
+2020-05-26,"Primera",86,"Media móvil de 7 días",594.857142857143
+2020-05-26,"Primera",86,"Índice (día 1 = 100)",416400
+2020-05-27,"Primera",87,"Casos",593
+2020-05-27,"Primera",87,"Media móvil de 7 días",604.714285714286
+2020-05-27,"Primera",87,"Índice (día 1 = 100)",423300
+2020-05-28,"Primera",88,"Casos",623
+2020-05-28,"Primera",88,"Media móvil de 7 días",608.571428571429
+2020-05-28,"Primera",88,"Índice (día 1 = 100)",426000
+2020-05-29,"Primera",89,"Casos",573
+2020-05-29,"Primera",89,"Media móvil de 7 días",617.714285714286
+2020-05-29,"Primera",89,"Índice (día 1 = 100)",432400
+2020-05-30,"Primera",90,"Casos",607
+2020-05-30,"Primera",90,"Media móvil de 7 días",623
+2020-05-30,"Primera",90,"Índice (día 1 = 100)",436100
+2020-05-31,"Primera",91,"Casos",629
+2020-05-31,"Primera",91,"Media móvil de 7 días",634.285714285714
+2020-05-31,"Primera",91,"Índice (día 1 = 100)",444000
+2020-06-01,"Primera",92,"Casos",687
+2020-06-01,"Primera",92,"Media móvil de 7 días",638.714285714286
+2020-06-01,"Primera",92,"Índice (día 1 = 100)",447100
+2020-06-02,"Primera",93,"Casos",649
+2020-06-02,"Primera",93,"Media móvil de 7 días",641.857142857143
+2020-06-02,"Primera",93,"Índice (día 1 = 100)",449300
+2020-06-03,"Primera",94,"Casos",672
+2020-06-03,"Primera",94,"Media móvil de 7 días",649.571428571429
+2020-06-03,"Primera",94,"Índice (día 1 = 100)",454700
+2020-06-04,"Primera",95,"Casos",654
+2020-06-04,"Primera",95,"Media móvil de 7 días",657.428571428571
+2020-06-04,"Primera",95,"Índice (día 1 = 100)",460200
+2020-06-05,"Primera",96,"Casos",595
+2020-06-05,"Primera",96,"Media móvil de 7 días",664.571428571429
+2020-06-05,"Primera",96,"Índice (día 1 = 100)",465200
+2020-06-06,"Primera",97,"Casos",661
+2020-06-06,"Primera",97,"Media móvil de 7 días",670.428571428571
+2020-06-06,"Primera",97,"Índice (día 1 = 100)",469300
+2020-06-07,"Primera",98,"Casos",684
+2020-06-07,"Primera",98,"Media móvil de 7 días",675.142857142857
+2020-06-07,"Primera",98,"Índice (día 1 = 100)",472600
+2020-06-08,"Primera",99,"Casos",737
+2020-06-08,"Primera",99,"Media móvil de 7 días",677.428571428571
+2020-06-08,"Primera",99,"Índice (día 1 = 100)",474200
+2020-06-09,"Primera",100,"Casos",690
+2020-06-09,"Primera",100,"Media móvil de 7 días",696.571428571429
+2020-06-09,"Primera",100,"Índice (día 1 = 100)",487600
+2020-06-10,"Primera",101,"Casos",705
+2020-06-10,"Primera",101,"Media móvil de 7 días",701.142857142857
+2020-06-10,"Primera",101,"Índice (día 1 = 100)",490800
+2020-06-11,"Primera",102,"Casos",670
+2020-06-11,"Primera",102,"Media móvil de 7 días",705.571428571429
+2020-06-11,"Primera",102,"Índice (día 1 = 100)",493900
+2020-06-12,"Primera",103,"Casos",729
+2020-06-12,"Primera",103,"Media móvil de 7 días",702.142857142857
+2020-06-12,"Primera",103,"Índice (día 1 = 100)",491500
+2020-06-13,"Primera",104,"Casos",693
+2020-06-13,"Primera",104,"Media móvil de 7 días",713.857142857143
+2020-06-13,"Primera",104,"Índice (día 1 = 100)",499700
+2020-06-14,"Primera",105,"Casos",715
+2020-06-14,"Primera",105,"Media móvil de 7 días",720.714285714286
+2020-06-14,"Primera",105,"Índice (día 1 = 100)",504500
+2020-06-15,"Primera",106,"Casos",713
+2020-06-15,"Primera",106,"Media móvil de 7 días",721.571428571429
+2020-06-15,"Primera",106,"Índice (día 1 = 100)",505100
+2020-06-16,"Primera",107,"Casos",772
+2020-06-16,"Primera",107,"Media móvil de 7 días",710.428571428571
+2020-06-16,"Primera",107,"Índice (día 1 = 100)",497300
+2020-06-17,"Primera",108,"Casos",753
+2020-06-17,"Primera",108,"Media móvil de 7 días",699
+2020-06-17,"Primera",108,"Índice (día 1 = 100)",489300
+2020-06-18,"Primera",109,"Casos",676
+2020-06-18,"Primera",109,"Media móvil de 7 días",695.857142857143
+2020-06-18,"Primera",109,"Índice (día 1 = 100)",487100
+2020-06-19,"Primera",110,"Casos",651
+2020-06-19,"Primera",110,"Media móvil de 7 días",689.285714285714
+2020-06-19,"Primera",110,"Índice (día 1 = 100)",482500
+2020-06-20,"Primera",111,"Casos",613
+2020-06-20,"Primera",111,"Media móvil de 7 días",670.714285714286
+2020-06-20,"Primera",111,"Índice (día 1 = 100)",469500
+2020-06-21,"Primera",112,"Casos",693
+2020-06-21,"Primera",112,"Media móvil de 7 días",655
+2020-06-21,"Primera",112,"Índice (día 1 = 100)",458500
+2020-06-22,"Primera",113,"Casos",667
+2020-06-22,"Primera",113,"Media móvil de 7 días",647.857142857143
+2020-06-22,"Primera",113,"Índice (día 1 = 100)",453500
+2020-06-23,"Primera",114,"Casos",642
+2020-06-23,"Primera",114,"Media móvil de 7 días",650.142857142857
+2020-06-23,"Primera",114,"Índice (día 1 = 100)",455100
+2020-06-24,"Primera",115,"Casos",643
+2020-06-24,"Primera",115,"Media móvil de 7 días",662.428571428571
+2020-06-24,"Primera",115,"Índice (día 1 = 100)",463700
+2020-06-25,"Primera",116,"Casos",626
+2020-06-25,"Primera",116,"Media móvil de 7 días",661.857142857143
+2020-06-25,"Primera",116,"Índice (día 1 = 100)",463300
+2020-06-26,"Primera",117,"Casos",667
+2020-06-26,"Primera",117,"Media móvil de 7 días",674.142857142857
+2020-06-26,"Primera",117,"Índice (día 1 = 100)",471900
+2020-06-27,"Primera",118,"Casos",699
+2020-06-27,"Primera",118,"Media móvil de 7 días",684.428571428571
+2020-06-27,"Primera",118,"Índice (día 1 = 100)",479100
+2020-06-28,"Primera",119,"Casos",689
+2020-06-28,"Primera",119,"Media móvil de 7 días",691.571428571429
+2020-06-28,"Primera",119,"Índice (día 1 = 100)",484100
+2020-06-29,"Primera",120,"Casos",753
+2020-06-29,"Primera",120,"Media móvil de 7 días",701.714285714286
+2020-06-29,"Primera",120,"Índice (día 1 = 100)",491200
+2020-06-30,"Primera",121,"Casos",714
+2020-06-30,"Primera",121,"Media móvil de 7 días",706.285714285714
+2020-06-30,"Primera",121,"Índice (día 1 = 100)",494400
+2020-07-01,"Primera",122,"Casos",693
+2020-07-01,"Primera",122,"Media móvil de 7 días",711.571428571429
+2020-07-01,"Primera",122,"Índice (día 1 = 100)",498100
+2020-07-02,"Primera",123,"Casos",697
+2020-07-02,"Primera",123,"Media móvil de 7 días",720.571428571429
+2020-07-02,"Primera",123,"Índice (día 1 = 100)",504400
+2020-07-03,"Primera",124,"Casos",699
+2020-07-03,"Primera",124,"Media móvil de 7 días",730.714285714286
+2020-07-03,"Primera",124,"Índice (día 1 = 100)",511500
+2020-07-04,"Primera",125,"Casos",736
+2020-07-04,"Primera",125,"Media móvil de 7 días",746.142857142857
+2020-07-04,"Primera",125,"Índice (día 1 = 100)",522300
+2020-07-05,"Primera",126,"Casos",752
+2020-07-05,"Primera",126,"Media móvil de 7 días",752.285714285714
+2020-07-05,"Primera",126,"Índice (día 1 = 100)",526600
+2020-07-06,"Primera",127,"Casos",824
+2020-07-06,"Primera",127,"Media móvil de 7 días",761.714285714286
+2020-07-06,"Primera",127,"Índice (día 1 = 100)",533200
+2020-07-07,"Primera",128,"Casos",822
+2020-07-07,"Primera",128,"Media móvil de 7 días",765.857142857143
+2020-07-07,"Primera",128,"Índice (día 1 = 100)",536100
+2020-07-08,"Primera",129,"Casos",736
+2020-07-08,"Primera",129,"Media móvil de 7 días",766.285714285714
+2020-07-08,"Primera",129,"Índice (día 1 = 100)",536400
+2020-07-09,"Primera",130,"Casos",763
+2020-07-09,"Primera",130,"Media móvil de 7 días",766.714285714286
+2020-07-09,"Primera",130,"Índice (día 1 = 100)",536700
+2020-07-10,"Primera",131,"Casos",728
+2020-07-10,"Primera",131,"Media móvil de 7 días",767.142857142857
+2020-07-10,"Primera",131,"Índice (día 1 = 100)",537000
+2020-07-11,"Primera",132,"Casos",739
+2020-07-11,"Primera",132,"Media móvil de 7 días",764.285714285714
+2020-07-11,"Primera",132,"Índice (día 1 = 100)",535000
+2020-07-12,"Primera",133,"Casos",755
+2020-07-12,"Primera",133,"Media móvil de 7 días",773.714285714286
+2020-07-12,"Primera",133,"Índice (día 1 = 100)",541600
+2020-07-13,"Primera",134,"Casos",827
+2020-07-13,"Primera",134,"Media móvil de 7 días",780.857142857143
+2020-07-13,"Primera",134,"Índice (día 1 = 100)",546600
+2020-07-14,"Primera",135,"Casos",802
+2020-07-14,"Primera",135,"Media móvil de 7 días",786
+2020-07-14,"Primera",135,"Índice (día 1 = 100)",550200
+2020-07-15,"Primera",136,"Casos",802
+2020-07-15,"Primera",136,"Media móvil de 7 días",787.285714285714
+2020-07-15,"Primera",136,"Índice (día 1 = 100)",551100
+2020-07-16,"Primera",137,"Casos",813
+2020-07-16,"Primera",137,"Media móvil de 7 días",794.285714285714
+2020-07-16,"Primera",137,"Índice (día 1 = 100)",556000
+2020-07-17,"Primera",138,"Casos",764
+2020-07-17,"Primera",138,"Media móvil de 7 días",790.571428571429
+2020-07-17,"Primera",138,"Índice (día 1 = 100)",553400
+2020-07-18,"Primera",139,"Casos",748
+2020-07-18,"Primera",139,"Media móvil de 7 días",795.714285714286
+2020-07-18,"Primera",139,"Índice (día 1 = 100)",557000
+2020-07-19,"Primera",140,"Casos",804
+2020-07-19,"Primera",140,"Media móvil de 7 días",788.142857142857
+2020-07-19,"Primera",140,"Índice (día 1 = 100)",551700
+2020-07-20,"Primera",141,"Casos",801
+2020-07-20,"Primera",141,"Media móvil de 7 días",783.857142857143
+2020-07-20,"Primera",141,"Índice (día 1 = 100)",548700
+2020-07-21,"Primera",142,"Casos",838
+2020-07-21,"Primera",142,"Media móvil de 7 días",779.142857142857
+2020-07-21,"Primera",142,"Índice (día 1 = 100)",545400
+2020-07-22,"Primera",143,"Casos",749
+2020-07-22,"Primera",143,"Media móvil de 7 días",783.142857142857
+2020-07-22,"Primera",143,"Índice (día 1 = 100)",548200
+2020-07-23,"Primera",144,"Casos",783
+2020-07-23,"Primera",144,"Media móvil de 7 días",780.285714285714
+2020-07-23,"Primera",144,"Índice (día 1 = 100)",546200
+2020-07-24,"Primera",145,"Casos",731
+2020-07-24,"Primera",145,"Media móvil de 7 días",780.714285714286
+2020-07-24,"Primera",145,"Índice (día 1 = 100)",546500
+2020-07-25,"Primera",146,"Casos",776
+2020-07-25,"Primera",146,"Media móvil de 7 días",772.142857142857
+2020-07-25,"Primera",146,"Índice (día 1 = 100)",540500
+2020-07-26,"Primera",147,"Casos",784
+2020-07-26,"Primera",147,"Media móvil de 7 días",762.857142857143
+2020-07-26,"Primera",147,"Índice (día 1 = 100)",534000
+2020-07-27,"Primera",148,"Casos",804
+2020-07-27,"Primera",148,"Media móvil de 7 días",757.857142857143
+2020-07-27,"Primera",148,"Índice (día 1 = 100)",530500
+2020-07-28,"Primera",149,"Casos",778
+2020-07-28,"Primera",149,"Media móvil de 7 días",749.714285714286
+2020-07-28,"Primera",149,"Índice (día 1 = 100)",524800
+2020-07-29,"Primera",150,"Casos",684
+2020-07-29,"Primera",150,"Media móvil de 7 días",743.571428571429
+2020-07-29,"Primera",150,"Índice (día 1 = 100)",520500
+2020-07-30,"Primera",151,"Casos",748
+2020-07-30,"Primera",151,"Media móvil de 7 días",730.571428571429
+2020-07-30,"Primera",151,"Índice (día 1 = 100)",511400
+2020-07-31,"Primera",152,"Casos",674
+2020-07-31,"Primera",152,"Media móvil de 7 días",723.428571428571
+2020-07-31,"Primera",152,"Índice (día 1 = 100)",506400
+2020-08-01,"Primera",153,"Casos",733
+2020-08-01,"Primera",153,"Media móvil de 7 días",723.142857142857
+2020-08-01,"Primera",153,"Índice (día 1 = 100)",506200
+2020-08-02,"Primera",154,"Casos",693
+2020-08-02,"Primera",154,"Media móvil de 7 días",727.857142857143
+2020-08-02,"Primera",154,"Índice (día 1 = 100)",509500
+2020-08-03,"Primera",155,"Casos",754
+2020-08-03,"Primera",155,"Media móvil de 7 días",719.571428571429
+2020-08-03,"Primera",155,"Índice (día 1 = 100)",503700
+2020-08-04,"Primera",156,"Casos",776
+2020-08-04,"Primera",156,"Media móvil de 7 días",715.142857142857
+2020-08-04,"Primera",156,"Índice (día 1 = 100)",500600
+2020-08-05,"Primera",157,"Casos",717
+2020-08-05,"Primera",157,"Media móvil de 7 días",708
+2020-08-05,"Primera",157,"Índice (día 1 = 100)",495600
+2020-08-06,"Primera",158,"Casos",690
+2020-08-06,"Primera",158,"Media móvil de 7 días",701.857142857143
+2020-08-06,"Primera",158,"Índice (día 1 = 100)",491300
+2020-08-07,"Primera",159,"Casos",643
+2020-08-07,"Primera",159,"Media móvil de 7 días",690.285714285714
+2020-08-07,"Primera",159,"Índice (día 1 = 100)",483200
+2020-08-08,"Primera",160,"Casos",683
+2020-08-08,"Primera",160,"Media móvil de 7 días",678.857142857143
+2020-08-08,"Primera",160,"Índice (día 1 = 100)",475200
+2020-08-09,"Primera",161,"Casos",650
+2020-08-09,"Primera",161,"Media móvil de 7 días",664.571428571429
+2020-08-09,"Primera",161,"Índice (día 1 = 100)",465200
+2020-08-10,"Primera",162,"Casos",673
+2020-08-10,"Primera",162,"Media móvil de 7 días",653.428571428571
+2020-08-10,"Primera",162,"Índice (día 1 = 100)",457400
+2020-08-11,"Primera",163,"Casos",696
+2020-08-11,"Primera",163,"Media móvil de 7 días",644
+2020-08-11,"Primera",163,"Índice (día 1 = 100)",450800
+2020-08-12,"Primera",164,"Casos",617
+2020-08-12,"Primera",164,"Media móvil de 7 días",630
+2020-08-12,"Primera",164,"Índice (día 1 = 100)",441000
+2020-08-13,"Primera",165,"Casos",612
+2020-08-13,"Primera",165,"Media móvil de 7 días",619
+2020-08-13,"Primera",165,"Índice (día 1 = 100)",433300
+2020-08-14,"Primera",166,"Casos",577
+2020-08-14,"Primera",166,"Media móvil de 7 días",612.142857142857
+2020-08-14,"Primera",166,"Índice (día 1 = 100)",428500
+2020-08-15,"Primera",167,"Casos",585
+2020-08-15,"Primera",167,"Media móvil de 7 días",593.428571428571
+2020-08-15,"Primera",167,"Índice (día 1 = 100)",415400
+2020-08-16,"Primera",168,"Casos",573
+2020-08-16,"Primera",168,"Media móvil de 7 días",589
+2020-08-16,"Primera",168,"Índice (día 1 = 100)",412300
+2020-08-17,"Primera",169,"Casos",625
+2020-08-17,"Primera",169,"Media móvil de 7 días",581.714285714286
+2020-08-17,"Primera",169,"Índice (día 1 = 100)",407200
+2020-08-18,"Primera",170,"Casos",565
+2020-08-18,"Primera",170,"Media móvil de 7 días",578.428571428571
+2020-08-18,"Primera",170,"Índice (día 1 = 100)",404900
+2020-08-19,"Primera",171,"Casos",586
+2020-08-19,"Primera",171,"Media móvil de 7 días",576
+2020-08-19,"Primera",171,"Índice (día 1 = 100)",403200
+2020-08-20,"Primera",172,"Casos",561
+2020-08-20,"Primera",172,"Media móvil de 7 días",568.857142857143
+2020-08-20,"Primera",172,"Índice (día 1 = 100)",398200
+2020-08-21,"Primera",173,"Casos",554
+2020-08-21,"Primera",173,"Media móvil de 7 días",556.857142857143
+2020-08-21,"Primera",173,"Índice (día 1 = 100)",389800
+2020-08-22,"Primera",174,"Casos",568
+2020-08-22,"Primera",174,"Media móvil de 7 días",554
+2020-08-22,"Primera",174,"Índice (día 1 = 100)",387800
+2020-08-23,"Primera",175,"Casos",523
+2020-08-23,"Primera",175,"Media móvil de 7 días",544.571428571429
+2020-08-23,"Primera",175,"Índice (día 1 = 100)",381200
+2020-08-24,"Primera",176,"Casos",541
+2020-08-24,"Primera",176,"Media móvil de 7 días",534.285714285714
+2020-08-24,"Primera",176,"Índice (día 1 = 100)",374000
+2020-08-25,"Primera",177,"Casos",545
+2020-08-25,"Primera",177,"Media móvil de 7 días",530.714285714286
+2020-08-25,"Primera",177,"Índice (día 1 = 100)",371500
+2020-08-26,"Primera",178,"Casos",520
+2020-08-26,"Primera",178,"Media móvil de 7 días",522.571428571429
+2020-08-26,"Primera",178,"Índice (día 1 = 100)",365800
+2020-08-27,"Primera",179,"Casos",489
+2020-08-27,"Primera",179,"Media móvil de 7 días",522.571428571429
+2020-08-27,"Primera",179,"Índice (día 1 = 100)",365800
+2020-08-28,"Primera",180,"Casos",529
+2020-08-28,"Primera",180,"Media móvil de 7 días",523.142857142857
+2020-08-28,"Primera",180,"Índice (día 1 = 100)",366200
+2020-08-29,"Primera",181,"Casos",511
+2020-08-29,"Primera",181,"Media móvil de 7 días",517
+2020-08-29,"Primera",181,"Índice (día 1 = 100)",361900
+2020-08-30,"Primera",182,"Casos",523
+2020-08-30,"Primera",182,"Media móvil de 7 días",512.428571428571
+2020-08-30,"Primera",182,"Índice (día 1 = 100)",358700
+2020-08-31,"Primera",183,"Casos",545
+2020-08-31,"Primera",183,"Media móvil de 7 días",512.571428571429
+2020-08-31,"Primera",183,"Índice (día 1 = 100)",358800
+2020-09-01,"Primera",184,"Casos",502
+2020-09-01,"Primera",184,"Media móvil de 7 días",505.142857142857
+2020-09-01,"Primera",184,"Índice (día 1 = 100)",353600
+2020-09-02,"Primera",185,"Casos",488
+2020-09-02,"Primera",185,"Media móvil de 7 días",497.285714285714
+2020-09-02,"Primera",185,"Índice (día 1 = 100)",348100
+2020-09-03,"Primera",186,"Casos",490
+2020-09-03,"Primera",186,"Media móvil de 7 días",487.857142857143
+2020-09-03,"Primera",186,"Índice (día 1 = 100)",341500
+2020-09-04,"Primera",187,"Casos",477
+2020-09-04,"Primera",187,"Media móvil de 7 días",479.571428571429
+2020-09-04,"Primera",187,"Índice (día 1 = 100)",335700
+2020-09-05,"Primera",188,"Casos",456
+2020-09-05,"Primera",188,"Media móvil de 7 días",468.428571428571
+2020-09-05,"Primera",188,"Índice (día 1 = 100)",327900
+2020-09-06,"Primera",189,"Casos",457
+2020-09-06,"Primera",189,"Media móvil de 7 días",467
+2020-09-06,"Primera",189,"Índice (día 1 = 100)",326900
+2020-09-07,"Primera",190,"Casos",487
+2020-09-07,"Primera",190,"Media móvil de 7 días",459
+2020-09-07,"Primera",190,"Índice (día 1 = 100)",321300
+2020-09-08,"Primera",191,"Casos",424
+2020-09-08,"Primera",191,"Media móvil de 7 días",453.428571428571
+2020-09-08,"Primera",191,"Índice (día 1 = 100)",317400
+2020-09-09,"Primera",192,"Casos",478
+2020-09-09,"Primera",192,"Media móvil de 7 días",454.714285714286
+2020-09-09,"Primera",192,"Índice (día 1 = 100)",318300
+2020-09-10,"Primera",193,"Casos",434
+2020-09-10,"Primera",193,"Media móvil de 7 días",446.571428571429
+2020-09-10,"Primera",193,"Índice (día 1 = 100)",312600
+2020-09-11,"Primera",194,"Casos",438
+2020-09-11,"Primera",194,"Media móvil de 7 días",441.285714285714
+2020-09-11,"Primera",194,"Índice (día 1 = 100)",308900
+2020-09-12,"Primera",195,"Casos",465
+2020-09-12,"Primera",195,"Media móvil de 7 días",443.428571428571
+2020-09-12,"Primera",195,"Índice (día 1 = 100)",310400
+2020-09-13,"Primera",196,"Casos",400
+2020-09-13,"Primera",196,"Media móvil de 7 días",434.857142857143
+2020-09-13,"Primera",196,"Índice (día 1 = 100)",304400
+2020-09-14,"Primera",197,"Casos",450
+2020-09-14,"Primera",197,"Media móvil de 7 días",429.714285714286
+2020-09-14,"Primera",197,"Índice (día 1 = 100)",300800
+2020-09-15,"Primera",198,"Casos",439
+2020-09-15,"Primera",198,"Media móvil de 7 días",419.571428571429
+2020-09-15,"Primera",198,"Índice (día 1 = 100)",293700
+2020-09-16,"Primera",199,"Casos",418
+2020-09-16,"Primera",199,"Media móvil de 7 días",410.142857142857
+2020-09-16,"Primera",199,"Índice (día 1 = 100)",287100
+2020-09-17,"Primera",200,"Casos",398
+2020-09-17,"Primera",200,"Media móvil de 7 días",413.428571428571
+2020-09-17,"Primera",200,"Índice (día 1 = 100)",289400
+2020-09-18,"Primera",201,"Casos",367
+2020-09-18,"Primera",201,"Media móvil de 7 días",407.428571428571
+2020-09-18,"Primera",201,"Índice (día 1 = 100)",285200
+2020-09-19,"Primera",202,"Casos",399
+2020-09-19,"Primera",202,"Media móvil de 7 días",405.714285714286
+2020-09-19,"Primera",202,"Índice (día 1 = 100)",284000
+2020-09-20,"Segunda",1,"Casos",423
+2020-09-20,"Segunda",1,"Media móvil de 7 días",402.428571428571
+2020-09-20,"Segunda",1,"Índice (día 1 = 100)",100
+2020-09-21,"Segunda",2,"Casos",408
+2020-09-21,"Segunda",2,"Media móvil de 7 días",403.857142857143
+2020-09-21,"Segunda",2,"Índice (día 1 = 100)",100.354987575435
+2020-09-22,"Segunda",3,"Casos",427
+2020-09-22,"Segunda",3,"Media móvil de 7 días",404
+2020-09-22,"Segunda",3,"Índice (día 1 = 100)",100.390486332978
+2020-09-23,"Segunda",4,"Casos",395
+2020-09-23,"Segunda",4,"Media móvil de 7 días",401.857142857143
+2020-09-23,"Segunda",4,"Índice (día 1 = 100)",99.858004969826
+2020-09-24,"Segunda",5,"Casos",408
+2020-09-24,"Segunda",5,"Media móvil de 7 días",393
+2020-09-24,"Segunda",5,"Índice (día 1 = 100)",97.6570820021299
+2020-09-25,"Segunda",6,"Casos",368
+2020-09-25,"Segunda",6,"Media móvil de 7 días",388.285714285714
+2020-09-25,"Segunda",6,"Índice (día 1 = 100)",96.4856230031949
+2020-09-26,"Segunda",7,"Casos",384
+2020-09-26,"Segunda",7,"Media móvil de 7 días",380.571428571429
+2020-09-26,"Segunda",7,"Índice (día 1 = 100)",94.5686900958466
+2020-09-27,"Segunda",8,"Casos",361
+2020-09-27,"Segunda",8,"Media móvil de 7 días",374.857142857143
+2020-09-27,"Segunda",8,"Índice (día 1 = 100)",93.1487397941072
+2020-09-28,"Segunda",9,"Casos",375
+2020-09-28,"Segunda",9,"Media móvil de 7 días",368.285714285714
+2020-09-28,"Segunda",9,"Índice (día 1 = 100)",91.5157969471068
+2020-09-29,"Segunda",10,"Casos",373
+2020-09-29,"Segunda",10,"Media móvil de 7 días",367.571428571429
+2020-09-29,"Segunda",10,"Índice (día 1 = 100)",91.3383031593894
+2020-09-30,"Segunda",11,"Casos",355
+2020-09-30,"Segunda",11,"Media móvil de 7 días",364.571428571429
+2020-09-30,"Segunda",11,"Índice (día 1 = 100)",90.5928292509762
+2020-10-01,"Segunda",12,"Casos",362
+2020-10-01,"Segunda",12,"Media móvil de 7 días",362.428571428571
+2020-10-01,"Segunda",12,"Índice (día 1 = 100)",90.0603478878239
+2020-10-02,"Segunda",13,"Casos",363
+2020-10-02,"Segunda",13,"Media móvil de 7 días",361.571428571429
+2020-10-02,"Segunda",13,"Índice (día 1 = 100)",89.847355342563
+2020-10-03,"Segunda",14,"Casos",363
+2020-10-03,"Segunda",14,"Media móvil de 7 días",359.857142857143
+2020-10-03,"Segunda",14,"Índice (día 1 = 100)",89.4213702520412
+2020-10-04,"Segunda",15,"Casos",346
+2020-10-04,"Segunda",15,"Media móvil de 7 días",358.714285714286
+2020-10-04,"Segunda",15,"Índice (día 1 = 100)",89.1373801916933
+2020-10-05,"Segunda",16,"Casos",369
+2020-10-05,"Segunda",16,"Media móvil de 7 días",357.428571428571
+2020-10-05,"Segunda",16,"Índice (día 1 = 100)",88.8178913738019
+2020-10-06,"Segunda",17,"Casos",361
+2020-10-06,"Segunda",17,"Media móvil de 7 días",351.571428571429
+2020-10-06,"Segunda",17,"Índice (día 1 = 100)",87.362442314519
+2020-10-07,"Segunda",18,"Casos",347
+2020-10-07,"Segunda",18,"Media móvil de 7 días",354.142857142857
+2020-10-07,"Segunda",18,"Índice (día 1 = 100)",88.0014199503017
+2020-10-08,"Segunda",19,"Casos",353
+2020-10-08,"Segunda",19,"Media móvil de 7 días",356
+2020-10-08,"Segunda",19,"Índice (día 1 = 100)",88.4629037983671
+2020-10-09,"Segunda",20,"Casos",322
+2020-10-09,"Segunda",20,"Media móvil de 7 días",363
+2020-10-09,"Segunda",20,"Índice (día 1 = 100)",90.2023429179979
+2020-10-10,"Segunda",21,"Casos",381
+2020-10-10,"Segunda",21,"Media móvil de 7 días",366.142857142857
+2020-10-10,"Segunda",21,"Índice (día 1 = 100)",90.9833155839546
+2020-10-11,"Segunda",22,"Casos",359
+2020-10-11,"Segunda",22,"Media móvil de 7 días",369.428571428571
+2020-10-11,"Segunda",22,"Índice (día 1 = 100)",91.7997870074547
+2020-10-12,"Segunda",23,"Casos",418
+2020-10-12,"Segunda",23,"Media móvil de 7 días",374.714285714286
+2020-10-12,"Segunda",23,"Índice (día 1 = 100)",93.1132410365637
+2020-10-13,"Segunda",24,"Casos",383
+2020-10-13,"Segunda",24,"Media móvil de 7 días",381.285714285714
+2020-10-13,"Segunda",24,"Índice (día 1 = 100)",94.7461838835641
+2020-10-14,"Segunda",25,"Casos",370
+2020-10-14,"Segunda",25,"Media móvil de 7 días",383.142857142857
+2020-10-14,"Segunda",25,"Índice (día 1 = 100)",95.2076677316294
+2020-10-15,"Segunda",26,"Casos",390
+2020-10-15,"Segunda",26,"Media móvil de 7 días",388.714285714286
+2020-10-15,"Segunda",26,"Índice (día 1 = 100)",96.5921192758253
+2020-10-16,"Segunda",27,"Casos",368
+2020-10-16,"Segunda",27,"Media móvil de 7 días",396.142857142857
+2020-10-16,"Segunda",27,"Índice (día 1 = 100)",98.4380546680866
+2020-10-17,"Segunda",28,"Casos",394
+2020-10-17,"Segunda",28,"Media móvil de 7 días",403.428571428571
+2020-10-17,"Segunda",28,"Índice (día 1 = 100)",100.248491302804
+2020-10-18,"Segunda",29,"Casos",398
+2020-10-18,"Segunda",29,"Media móvil de 7 días",417.857142857143
+2020-10-18,"Segunda",29,"Índice (día 1 = 100)",103.833865814696
+2020-10-19,"Segunda",30,"Casos",470
+2020-10-19,"Segunda",30,"Media móvil de 7 días",427.571428571429
+2020-10-19,"Segunda",30,"Índice (día 1 = 100)",106.247781327654
+2020-10-20,"Segunda",31,"Casos",434
+2020-10-20,"Segunda",31,"Media móvil de 7 días",439.714285714286
+2020-10-20,"Segunda",31,"Índice (día 1 = 100)",109.26517571885
+2020-10-21,"Segunda",32,"Casos",471
+2020-10-21,"Segunda",32,"Media móvil de 7 días",446.285714285714
+2020-10-21,"Segunda",32,"Índice (día 1 = 100)",110.89811856585
+2020-10-22,"Segunda",33,"Casos",458
+2020-10-22,"Segunda",33,"Media móvil de 7 días",458.857142857143
+2020-10-22,"Segunda",33,"Índice (día 1 = 100)",114.022009229677
+2020-10-23,"Segunda",34,"Casos",453
+2020-10-23,"Segunda",34,"Media móvil de 7 días",462.285714285714
+2020-10-23,"Segunda",34,"Índice (día 1 = 100)",114.873979410721
+2020-10-24,"Segunda",35,"Casos",440
+2020-10-24,"Segunda",35,"Media móvil de 7 días",466
+2020-10-24,"Segunda",35,"Índice (día 1 = 100)",115.796947106851
+2020-10-25,"Segunda",36,"Casos",486
+2020-10-25,"Segunda",36,"Media móvil de 7 días",466.857142857143
+2020-10-25,"Segunda",36,"Índice (día 1 = 100)",116.009939652112
+2020-10-26,"Segunda",37,"Casos",494
+2020-10-26,"Segunda",37,"Media móvil de 7 días",471.285714285714
+2020-10-26,"Segunda",37,"Índice (día 1 = 100)",117.11040113596
+2020-10-27,"Segunda",38,"Casos",460
+2020-10-27,"Segunda",38,"Media móvil de 7 días",473
+2020-10-27,"Segunda",38,"Índice (día 1 = 100)",117.536386226482
+2020-10-28,"Segunda",39,"Casos",477
+2020-10-28,"Segunda",39,"Media móvil de 7 días",474.285714285714
+2020-10-28,"Segunda",39,"Índice (día 1 = 100)",117.855875044373
+2020-10-29,"Segunda",40,"Casos",489
+2020-10-29,"Segunda",40,"Media móvil de 7 días",470.142857142857
+2020-10-29,"Segunda",40,"Índice (día 1 = 100)",116.826411075612
+2020-10-30,"Segunda",41,"Casos",465
+2020-10-30,"Segunda",41,"Media móvil de 7 días",472.428571428571
+2020-10-30,"Segunda",41,"Índice (día 1 = 100)",117.394391196308
+2020-10-31,"Segunda",42,"Casos",449
+2020-10-31,"Segunda",42,"Media móvil de 7 días",476.857142857143
+2020-10-31,"Segunda",42,"Índice (día 1 = 100)",118.494852680156
+2020-11-01,"Segunda",43,"Casos",457
+2020-11-01,"Segunda",43,"Media móvil de 7 días",478.571428571429
+2020-11-01,"Segunda",43,"Índice (día 1 = 100)",118.920837770678
+2020-11-02,"Segunda",44,"Casos",510
+2020-11-02,"Segunda",44,"Media móvil de 7 días",482.142857142857
+2020-11-02,"Segunda",44,"Índice (día 1 = 100)",119.808306709265
+2020-11-03,"Segunda",45,"Casos",491
+2020-11-03,"Segunda",45,"Media móvil de 7 días",494
+2020-11-03,"Segunda",45,"Índice (día 1 = 100)",122.754703585375
+2020-11-04,"Segunda",46,"Casos",489
+2020-11-04,"Segunda",46,"Media móvil de 7 días",496.857142857143
+2020-11-04,"Segunda",46,"Índice (día 1 = 100)",123.464678736244
+2020-11-05,"Segunda",47,"Casos",514
+2020-11-05,"Segunda",47,"Media móvil de 7 días",502.142857142857
+2020-11-05,"Segunda",47,"Índice (día 1 = 100)",124.778132765353
+2020-11-06,"Segunda",48,"Casos",548
+2020-11-06,"Segunda",48,"Media móvil de 7 días",502.714285714286
+2020-11-06,"Segunda",48,"Índice (día 1 = 100)",124.920127795527
+2020-11-07,"Segunda",49,"Casos",469
+2020-11-07,"Segunda",49,"Media móvil de 7 días",501.285714285714
+2020-11-07,"Segunda",49,"Índice (día 1 = 100)",124.565140220092
+2020-11-08,"Segunda",50,"Casos",494
+2020-11-08,"Segunda",50,"Media móvil de 7 días",504.285714285714
+2020-11-08,"Segunda",50,"Índice (día 1 = 100)",125.310614128505
+2020-11-09,"Segunda",51,"Casos",514
+2020-11-09,"Segunda",51,"Media móvil de 7 días",507.571428571429
+2020-11-09,"Segunda",51,"Índice (día 1 = 100)",126.127085552006
+2020-11-10,"Segunda",52,"Casos",481
+2020-11-10,"Segunda",52,"Media móvil de 7 días",501.714285714286
+2020-11-10,"Segunda",52,"Índice (día 1 = 100)",124.671636492723
+2020-11-11,"Segunda",53,"Casos",510
+2020-11-11,"Segunda",53,"Media móvil de 7 días",504.571428571429
+2020-11-11,"Segunda",53,"Índice (día 1 = 100)",125.381611643592
+2020-11-12,"Segunda",54,"Casos",537
+2020-11-12,"Segunda",54,"Media móvil de 7 días",506.428571428571
+2020-11-12,"Segunda",54,"Índice (día 1 = 100)",125.843095491658
+2020-11-13,"Segunda",55,"Casos",507
+2020-11-13,"Segunda",55,"Media móvil de 7 días",505.571428571429
+2020-11-13,"Segunda",55,"Índice (día 1 = 100)",125.630102946397
+2020-11-14,"Segunda",56,"Casos",489
+2020-11-14,"Segunda",56,"Media móvil de 7 días",515.428571428571
+2020-11-14,"Segunda",56,"Índice (día 1 = 100)",128.079517216897
+2020-11-15,"Segunda",57,"Casos",507
+2020-11-15,"Segunda",57,"Media móvil de 7 días",518.142857142857
+2020-11-15,"Segunda",57,"Índice (día 1 = 100)",128.753993610224
+2020-11-16,"Segunda",58,"Casos",508
+2020-11-16,"Segunda",58,"Media móvil de 7 días",511
+2020-11-16,"Segunda",58,"Índice (día 1 = 100)",126.979055733049
+2020-11-17,"Segunda",59,"Casos",550
+2020-11-17,"Segunda",59,"Media móvil de 7 días",519.571428571429
+2020-11-17,"Segunda",59,"Índice (día 1 = 100)",129.108981185658
+2020-11-18,"Segunda",60,"Casos",529
+2020-11-18,"Segunda",60,"Media móvil de 7 días",529.285714285714
+2020-11-18,"Segunda",60,"Índice (día 1 = 100)",131.522896698616
+2020-11-19,"Segunda",61,"Casos",487
+2020-11-19,"Segunda",61,"Media móvil de 7 días",545.142857142857
+2020-11-19,"Segunda",61,"Índice (día 1 = 100)",135.463258785942
+2020-11-20,"Segunda",62,"Casos",567
+2020-11-20,"Segunda",62,"Media móvil de 7 días",552.428571428571
+2020-11-20,"Segunda",62,"Índice (día 1 = 100)",137.27369542066
+2020-11-21,"Segunda",63,"Casos",557
+2020-11-21,"Segunda",63,"Media móvil de 7 días",554.428571428571
+2020-11-21,"Segunda",63,"Índice (día 1 = 100)",137.770678026269
+2020-11-22,"Segunda",64,"Casos",618
+2020-11-22,"Segunda",64,"Media móvil de 7 días",557.571428571429
+2020-11-22,"Segunda",64,"Índice (día 1 = 100)",138.551650692226
+2020-11-23,"Segunda",65,"Casos",559
+2020-11-23,"Segunda",65,"Media móvil de 7 días",569.142857142857
+2020-11-23,"Segunda",65,"Índice (día 1 = 100)",141.427050053248
+2020-11-24,"Segunda",66,"Casos",564
+2020-11-24,"Segunda",66,"Media móvil de 7 días",576.285714285714
+2020-11-24,"Segunda",66,"Índice (día 1 = 100)",143.201987930422
+2020-11-25,"Segunda",67,"Casos",551
+2020-11-25,"Segunda",67,"Media móvil de 7 días",576.571428571429
+2020-11-25,"Segunda",67,"Índice (día 1 = 100)",143.272985445509
+2020-11-26,"Segunda",68,"Casos",568
+2020-11-26,"Segunda",68,"Media móvil de 7 días",570
+2020-11-26,"Segunda",68,"Índice (día 1 = 100)",141.640042598509
+2020-11-27,"Segunda",69,"Casos",617
+2020-11-27,"Segunda",69,"Media móvil de 7 días",581
+2020-11-27,"Segunda",69,"Índice (día 1 = 100)",144.373446929357
+2020-11-28,"Segunda",70,"Casos",559
+2020-11-28,"Segunda",70,"Media móvil de 7 días",594.428571428571
+2020-11-28,"Segunda",70,"Índice (día 1 = 100)",147.710330138445
+2020-11-29,"Segunda",71,"Casos",572
+2020-11-29,"Segunda",71,"Media móvil de 7 días",602.571428571429
+2020-11-29,"Segunda",71,"Índice (día 1 = 100)",149.733759318424
+2020-11-30,"Segunda",72,"Casos",636
+2020-11-30,"Segunda",72,"Media móvil de 7 días",605.857142857143
+2020-11-30,"Segunda",72,"Índice (día 1 = 100)",150.550230741924
+2020-12-01,"Segunda",73,"Casos",658
+2020-12-01,"Segunda",73,"Media móvil de 7 días",601.142857142857
+2020-12-01,"Segunda",73,"Índice (día 1 = 100)",149.378771742989
+2020-12-02,"Segunda",74,"Casos",608
+2020-12-02,"Segunda",74,"Media móvil de 7 días",612.428571428571
+2020-12-02,"Segunda",74,"Índice (día 1 = 100)",152.183173588924
+2020-12-03,"Segunda",75,"Casos",591
+2020-12-03,"Segunda",75,"Media móvil de 7 días",621.428571428571
+2020-12-03,"Segunda",75,"Índice (día 1 = 100)",154.419595314164
+2020-12-04,"Segunda",76,"Casos",584
+2020-12-04,"Segunda",76,"Media móvil de 7 días",626.142857142857
+2020-12-04,"Segunda",76,"Índice (día 1 = 100)",155.591054313099
+2020-12-05,"Segunda",77,"Casos",638
+2020-12-05,"Segunda",77,"Media móvil de 7 días",621.714285714286
+2020-12-05,"Segunda",77,"Índice (día 1 = 100)",154.490592829251
+2020-12-06,"Segunda",78,"Casos",635
+2020-12-06,"Segunda",78,"Media móvil de 7 días",632.857142857143
+2020-12-06,"Segunda",78,"Índice (día 1 = 100)",157.259495917643
+2020-12-07,"Segunda",79,"Casos",669
+2020-12-07,"Segunda",79,"Media móvil de 7 días",643.714285714286
+2020-12-07,"Segunda",79,"Índice (día 1 = 100)",159.957401490948
+2020-12-08,"Segunda",80,"Casos",627
+2020-12-08,"Segunda",80,"Media móvil de 7 días",659.142857142857
+2020-12-08,"Segunda",80,"Índice (día 1 = 100)",163.791267305644
+2020-12-09,"Segunda",81,"Casos",686
+2020-12-09,"Segunda",81,"Media móvil de 7 días",671.285714285714
+2020-12-09,"Segunda",81,"Índice (día 1 = 100)",166.808661696841
+2020-12-10,"Segunda",82,"Casos",667
+2020-12-10,"Segunda",82,"Media móvil de 7 días",681.142857142857
+2020-12-10,"Segunda",82,"Índice (día 1 = 100)",169.258075967341
+2020-12-11,"Segunda",83,"Casos",692
+2020-12-11,"Segunda",83,"Media móvil de 7 días",690.714285714286
+2020-12-11,"Segunda",83,"Índice (día 1 = 100)",171.636492722755
+2020-12-12,"Segunda",84,"Casos",723
+2020-12-12,"Segunda",84,"Media móvil de 7 días",708
+2020-12-12,"Segunda",84,"Índice (día 1 = 100)",175.931842385516
+2020-12-13,"Segunda",85,"Casos",704
+2020-12-13,"Segunda",85,"Media móvil de 7 días",714.428571428571
+2020-12-13,"Segunda",85,"Índice (día 1 = 100)",177.529286474973
+2020-12-14,"Segunda",86,"Casos",736
+2020-12-14,"Segunda",86,"Media móvil de 7 días",724.142857142857
+2020-12-14,"Segunda",86,"Índice (día 1 = 100)",179.94320198793
+2020-12-15,"Segunda",87,"Casos",748
+2020-12-15,"Segunda",87,"Media móvil de 7 días",733.285714285714
+2020-12-15,"Segunda",87,"Índice (día 1 = 100)",182.215122470714
+2020-12-16,"Segunda",88,"Casos",731
+2020-12-16,"Segunda",88,"Media móvil de 7 días",743.285714285714
+2020-12-16,"Segunda",88,"Índice (día 1 = 100)",184.700035498758
+2020-12-17,"Segunda",89,"Casos",735
+2020-12-17,"Segunda",89,"Media móvil de 7 días",753
+2020-12-17,"Segunda",89,"Índice (día 1 = 100)",187.113951011715
+2020-12-18,"Segunda",90,"Casos",756
+2020-12-18,"Segunda",90,"Media móvil de 7 días",774.142857142857
+2020-12-18,"Segunda",90,"Índice (día 1 = 100)",192.36776712815
+2020-12-19,"Segunda",91,"Casos",793
+2020-12-19,"Segunda",91,"Media móvil de 7 días",781.571428571429
+2020-12-19,"Segunda",91,"Índice (día 1 = 100)",194.213702520412
+2020-12-20,"Segunda",92,"Casos",772
+2020-12-20,"Segunda",92,"Media móvil de 7 días",794.571428571429
+2020-12-20,"Segunda",92,"Índice (día 1 = 100)",197.444089456869
+2020-12-21,"Segunda",93,"Casos",884
+2020-12-21,"Segunda",93,"Media móvil de 7 días",808.285714285714
+2020-12-21,"Segunda",93,"Índice (día 1 = 100)",200.851970181044
+2020-12-22,"Segunda",94,"Casos",800
+2020-12-22,"Segunda",94,"Media móvil de 7 días",819.142857142857
+2020-12-22,"Segunda",94,"Índice (día 1 = 100)",203.549875754349
+2020-12-23,"Segunda",95,"Casos",822
+2020-12-23,"Segunda",95,"Media móvil de 7 días",830.714285714286
+2020-12-23,"Segunda",95,"Índice (día 1 = 100)",206.425275115371
+2020-12-24,"Segunda",96,"Casos",831
+2020-12-24,"Segunda",96,"Media móvil de 7 días",849.428571428571
+2020-12-24,"Segunda",96,"Índice (día 1 = 100)",211.075612353568
+2020-12-25,"Segunda",97,"Casos",832
+2020-12-25,"Segunda",97,"Media móvil de 7 días",860.142857142857
+2020-12-25,"Segunda",97,"Índice (día 1 = 100)",213.738019169329
+2020-12-26,"Segunda",98,"Casos",874
+2020-12-26,"Segunda",98,"Media móvil de 7 días",882.285714285714
+2020-12-26,"Segunda",98,"Índice (día 1 = 100)",219.240326588569
+2020-12-27,"Segunda",99,"Casos",903
+2020-12-27,"Segunda",99,"Media móvil de 7 días",898.142857142857
+2020-12-27,"Segunda",99,"Índice (día 1 = 100)",223.180688675896
+2020-12-28,"Segunda",100,"Casos",959
+2020-12-28,"Segunda",100,"Media móvil de 7 días",905.571428571429
+2020-12-28,"Segunda",100,"Índice (día 1 = 100)",225.026624068158
+2020-12-29,"Segunda",101,"Casos",955
+2020-12-29,"Segunda",101,"Media móvil de 7 días",926.142857142857
+2020-12-29,"Segunda",101,"Índice (día 1 = 100)",230.13844515442
+2020-12-30,"Segunda",102,"Casos",933
+2020-12-30,"Segunda",102,"Media móvil de 7 días",942
+2020-12-30,"Segunda",102,"Índice (día 1 = 100)",234.078807241747
+2020-12-31,"Segunda",103,"Casos",883
+2020-12-31,"Segunda",103,"Media móvil de 7 días",957.571428571429
+2020-12-31,"Segunda",103,"Índice (día 1 = 100)",237.948171813987
+2021-01-01,"Segunda",104,"Casos",976
+2021-01-01,"Segunda",104,"Media móvil de 7 días",977.142857142857
+2021-01-01,"Segunda",104,"Índice (día 1 = 100)",242.811501597444
+2021-01-02,"Segunda",105,"Casos",985
+2021-01-02,"Segunda",105,"Media móvil de 7 días",989.142857142857
+2021-01-02,"Segunda",105,"Índice (día 1 = 100)",245.793397231097
+2021-01-03,"Segunda",106,"Casos",1012
+2021-01-03,"Segunda",106,"Media móvil de 7 días",1019.14285714286
+2021-01-03,"Segunda",106,"Índice (día 1 = 100)",253.248136315229
+2021-01-04,"Segunda",107,"Casos",1096
+2021-01-04,"Segunda",107,"Media móvil de 7 días",1042.14285714286
+2021-01-04,"Segunda",107,"Índice (día 1 = 100)",258.96343627973
+2021-01-05,"Segunda",108,"Casos",1039
+2021-01-05,"Segunda",108,"Media móvil de 7 días",1069.85714285714
+2021-01-05,"Segunda",108,"Índice (día 1 = 100)",265.850195243166
+2021-01-06,"Segunda",109,"Casos",1143
+2021-01-06,"Segunda",109,"Media móvil de 7 días",1089.14285714286
+2021-01-06,"Segunda",109,"Índice (día 1 = 100)",270.642527511537
+2021-01-07,"Segunda",110,"Casos",1044
+2021-01-07,"Segunda",110,"Media móvil de 7 días",1113.14285714286
+2021-01-07,"Segunda",110,"Índice (día 1 = 100)",276.606318778843
+2021-01-08,"Segunda",111,"Casos",1170
+2021-01-08,"Segunda",111,"Media móvil de 7 días",1138.28571428571
+2021-01-08,"Segunda",111,"Índice (día 1 = 100)",282.854100106496
+2021-01-09,"Segunda",112,"Casos",1120
+2021-01-09,"Segunda",112,"Media móvil de 7 días",1162
+2021-01-09,"Segunda",112,"Índice (día 1 = 100)",288.746893858715
+2021-01-10,"Segunda",113,"Casos",1180
+2021-01-10,"Segunda",113,"Media móvil de 7 días",1171.14285714286
+2021-01-10,"Segunda",113,"Índice (día 1 = 100)",291.018814341498
+2021-01-11,"Segunda",114,"Casos",1272
+2021-01-11,"Segunda",114,"Media móvil de 7 días",1197.71428571429
+2021-01-11,"Segunda",114,"Índice (día 1 = 100)",297.621583244586
+2021-01-12,"Segunda",115,"Casos",1205
+2021-01-12,"Segunda",115,"Media móvil de 7 días",1210.85714285714
+2021-01-12,"Segunda",115,"Índice (día 1 = 100)",300.887468938587
+2021-01-13,"Segunda",116,"Casos",1207
+2021-01-13,"Segunda",116,"Media móvil de 7 días",1229
+2021-01-13,"Segunda",116,"Índice (día 1 = 100)",305.39581114661
+2021-01-14,"Segunda",117,"Casos",1230
+2021-01-14,"Segunda",117,"Media móvil de 7 días",1255.42857142857
+2021-01-14,"Segunda",117,"Índice (día 1 = 100)",311.963081292155
+2021-01-15,"Segunda",118,"Casos",1262
+2021-01-15,"Segunda",118,"Media móvil de 7 días",1269.28571428571
+2021-01-15,"Segunda",118,"Índice (día 1 = 100)",315.406460773873
+2021-01-16,"Segunda",119,"Casos",1247
+2021-01-16,"Segunda",119,"Media móvil de 7 días",1297.42857142857
+2021-01-16,"Segunda",119,"Índice (día 1 = 100)",322.39971600994
+2021-01-17,"Segunda",120,"Casos",1365
+2021-01-17,"Segunda",120,"Media móvil de 7 días",1331.85714285714
+2021-01-17,"Segunda",120,"Índice (día 1 = 100)",330.95491657792
+2021-01-18,"Segunda",121,"Casos",1369
+2021-01-18,"Segunda",121,"Media móvil de 7 días",1351.57142857143
+2021-01-18,"Segunda",121,"Índice (día 1 = 100)",335.853745118921
+2021-01-19,"Segunda",122,"Casos",1402
+2021-01-19,"Segunda",122,"Media móvil de 7 días",1363.14285714286
+2021-01-19,"Segunda",122,"Índice (día 1 = 100)",338.729144479943
+2021-01-20,"Segunda",123,"Casos",1448
+2021-01-20,"Segunda",123,"Media móvil de 7 días",1371.42857142857
+2021-01-20,"Segunda",123,"Índice (día 1 = 100)",340.788072417465
+2021-01-21,"Segunda",124,"Casos",1368
+2021-01-21,"Segunda",124,"Media móvil de 7 días",1374
+2021-01-21,"Segunda",124,"Índice (día 1 = 100)",341.427050053248
+2021-01-22,"Segunda",125,"Casos",1343
+2021-01-22,"Segunda",125,"Media móvil de 7 días",1380.85714285714
+2021-01-22,"Segunda",125,"Índice (día 1 = 100)",343.130990415335
+2021-01-23,"Segunda",126,"Casos",1305
+2021-01-23,"Segunda",126,"Media móvil de 7 días",1375.85714285714
+2021-01-23,"Segunda",126,"Índice (día 1 = 100)",341.888533901313
+2021-01-24,"Segunda",127,"Casos",1383
+2021-01-24,"Segunda",127,"Media móvil de 7 días",1352
+2021-01-24,"Segunda",127,"Índice (día 1 = 100)",335.960241391551
+2021-01-25,"Segunda",128,"Casos",1417
+2021-01-25,"Segunda",128,"Media móvil de 7 días",1328.28571428571
+2021-01-25,"Segunda",128,"Índice (día 1 = 100)",330.067447639333
+2021-01-26,"Segunda",129,"Casos",1367
+2021-01-26,"Segunda",129,"Media móvil de 7 días",1309.14285714286
+2021-01-26,"Segunda",129,"Índice (día 1 = 100)",325.310614128506
+2021-01-27,"Segunda",130,"Casos",1281
+2021-01-27,"Segunda",130,"Media móvil de 7 días",1294.14285714286
+2021-01-27,"Segunda",130,"Índice (día 1 = 100)",321.583244586439
+2021-01-28,"Segunda",131,"Casos",1202
+2021-01-28,"Segunda",131,"Media móvil de 7 días",1258.28571428571
+2021-01-28,"Segunda",131,"Índice (día 1 = 100)",312.673056443024
+2021-01-29,"Segunda",132,"Casos",1209
+2021-01-29,"Segunda",132,"Media móvil de 7 días",1231.71428571429
+2021-01-29,"Segunda",132,"Índice (día 1 = 100)",306.070287539936
+2021-01-30,"Segunda",133,"Casos",1200
+2021-01-30,"Segunda",133,"Media móvil de 7 días",1207.28571428571
+2021-01-30,"Segunda",133,"Índice (día 1 = 100)",300
+2021-01-31,"Segunda",134,"Casos",1132
+2021-01-31,"Segunda",134,"Media móvil de 7 días",1181.71428571429
+2021-01-31,"Segunda",134,"Índice (día 1 = 100)",293.645722399716
+2021-02-01,"Segunda",135,"Casos",1231
+2021-02-01,"Segunda",135,"Media móvil de 7 días",1158.14285714286
+2021-02-01,"Segunda",135,"Índice (día 1 = 100)",287.788427405041
+2021-02-02,"Segunda",136,"Casos",1196
+2021-02-02,"Segunda",136,"Media móvil de 7 días",1127.71428571429
+2021-02-02,"Segunda",136,"Índice (día 1 = 100)",280.227192048278
+2021-02-03,"Segunda",137,"Casos",1102
+2021-02-03,"Segunda",137,"Media móvil de 7 días",1098.71428571429
+2021-02-03,"Segunda",137,"Índice (día 1 = 100)",273.020944266951
+2021-02-04,"Segunda",138,"Casos",1037
+2021-02-04,"Segunda",138,"Media móvil de 7 días",1067
+2021-02-04,"Segunda",138,"Índice (día 1 = 100)",265.140220092297
+2021-02-05,"Segunda",139,"Casos",996
+2021-02-05,"Segunda",139,"Media móvil de 7 días",1036.71428571429
+2021-02-05,"Segunda",139,"Índice (día 1 = 100)",257.614483493078
+2021-02-06,"Segunda",140,"Casos",997
+2021-02-06,"Segunda",140,"Media móvil de 7 días",997
+2021-02-06,"Segunda",140,"Índice (día 1 = 100)",247.745828895989
+2021-02-07,"Segunda",141,"Casos",910
+2021-02-07,"Segunda",141,"Media móvil de 7 días",960.857142857143
+2021-02-07,"Segunda",141,"Índice (día 1 = 100)",238.764643237487
+2021-02-08,"Segunda",142,"Casos",1019
+2021-02-08,"Segunda",142,"Media móvil de 7 días",938
+2021-02-08,"Segunda",142,"Índice (día 1 = 100)",233.084842030529
+2021-02-09,"Segunda",143,"Casos",918
+2021-02-09,"Segunda",143,"Media móvil de 7 días",911.428571428571
+2021-02-09,"Segunda",143,"Índice (día 1 = 100)",226.482073127441
+2021-02-10,"Segunda",144,"Casos",849
+2021-02-10,"Segunda",144,"Media móvil de 7 días",873.285714285714
+2021-02-10,"Segunda",144,"Índice (día 1 = 100)",217.00390486333
+2021-02-11,"Segunda",145,"Casos",877
+2021-02-11,"Segunda",145,"Media móvil de 7 días",848.857142857143
+2021-02-11,"Segunda",145,"Índice (día 1 = 100)",210.933617323394
+2021-02-12,"Segunda",146,"Casos",810
+2021-02-12,"Segunda",146,"Media móvil de 7 días",814.142857142857
+2021-02-12,"Segunda",146,"Índice (día 1 = 100)",202.307419240327
+2021-02-13,"Segunda",147,"Casos",730
+2021-02-13,"Segunda",147,"Media móvil de 7 días",787.142857142857
+2021-02-13,"Segunda",147,"Índice (día 1 = 100)",195.598154064608
+2021-02-14,"Segunda",148,"Casos",739
+2021-02-14,"Segunda",148,"Media móvil de 7 días",768
+2021-02-14,"Segunda",148,"Índice (día 1 = 100)",190.841320553781
+2021-02-15,"Segunda",149,"Casos",776
+2021-02-15,"Segunda",149,"Media móvil de 7 días",736.571428571429
+2021-02-15,"Segunda",149,"Índice (día 1 = 100)",183.031593894214
+2021-02-16,"Segunda",150,"Casos",729
+2021-02-16,"Segunda",150,"Media móvil de 7 días",717
+2021-02-16,"Segunda",150,"Índice (día 1 = 100)",178.168264110756
+2021-02-17,"Segunda",151,"Casos",715
+2021-02-17,"Segunda",151,"Media móvil de 7 días",695.714285714286
+2021-02-17,"Segunda",151,"Índice (día 1 = 100)",172.878949236777
+2021-02-18,"Segunda",152,"Casos",657
+2021-02-18,"Segunda",152,"Media móvil de 7 días",688
+2021-02-18,"Segunda",152,"Índice (día 1 = 100)",170.962016329428
+2021-02-19,"Segunda",153,"Casos",673
+2021-02-19,"Segunda",153,"Media móvil de 7 días",677.285714285714
+2021-02-19,"Segunda",153,"Índice (día 1 = 100)",168.299609513667
+2021-02-20,"Segunda",154,"Casos",581
+2021-02-20,"Segunda",154,"Media móvil de 7 días",654.428571428571
+2021-02-20,"Segunda",154,"Índice (día 1 = 100)",162.619808306709
+2021-02-21,"Segunda",155,"Casos",685
+2021-02-21,"Segunda",155,"Media móvil de 7 días",634.428571428571
+2021-02-21,"Segunda",155,"Índice (día 1 = 100)",157.649982250621
+2021-02-22,"Segunda",156,"Casos",701
+2021-02-22,"Segunda",156,"Media móvil de 7 días",620.714285714286
+2021-02-22,"Segunda",156,"Índice (día 1 = 100)",154.242101526447
+2021-02-23,"Segunda",157,"Casos",569
+2021-02-23,"Segunda",157,"Media móvil de 7 días",602.571428571429
+2021-02-23,"Segunda",157,"Índice (día 1 = 100)",149.733759318424
+2021-02-24,"Segunda",158,"Casos",575
+2021-02-24,"Segunda",158,"Media móvil de 7 días",598.857142857143
+2021-02-24,"Segunda",158,"Índice (día 1 = 100)",148.810791622293
+2021-02-25,"Segunda",159,"Casos",561
+2021-02-25,"Segunda",159,"Media móvil de 7 días",579.571428571429
+2021-02-25,"Segunda",159,"Índice (día 1 = 100)",144.018459353923
+2021-02-26,"Segunda",160,"Casos",546
+2021-02-26,"Segunda",160,"Media móvil de 7 días",558.857142857143
+2021-02-26,"Segunda",160,"Índice (día 1 = 100)",138.871139510117
+2021-02-27,"Segunda",161,"Casos",555
+2021-02-27,"Segunda",161,"Media móvil de 7 días",552.428571428571
+2021-02-27,"Segunda",161,"Índice (día 1 = 100)",137.27369542066
+2021-02-28,"Segunda",162,"Casos",550
+2021-02-28,"Segunda",162,"Media móvil de 7 días",539.285714285714
+2021-02-28,"Segunda",162,"Índice (día 1 = 100)",134.00780972666
+2021-03-01,"Segunda",163,"Casos",556
+2021-03-01,"Segunda",163,"Media móvil de 7 días",528.857142857143
+2021-03-01,"Segunda",163,"Índice (día 1 = 100)",131.416400425985
+2021-03-02,"Segunda",164,"Casos",524
+2021-03-02,"Segunda",164,"Media móvil de 7 días",522.571428571429
+2021-03-02,"Segunda",164,"Índice (día 1 = 100)",129.854455094072
+2021-03-03,"Segunda",165,"Casos",483
+2021-03-03,"Segunda",165,"Media móvil de 7 días",509
+2021-03-03,"Segunda",165,"Índice (día 1 = 100)",126.482073127441
+2021-03-04,"Segunda",166,"Casos",488
+2021-03-04,"Segunda",166,"Media móvil de 7 días",496.142857142857
+2021-03-04,"Segunda",166,"Índice (día 1 = 100)",123.287184948527
+2021-03-05,"Segunda",167,"Casos",502
+2021-03-05,"Segunda",167,"Media móvil de 7 días",487.857142857143
+2021-03-05,"Segunda",167,"Índice (día 1 = 100)",121.228257011005
+2021-03-06,"Segunda",168,"Casos",460
+2021-03-06,"Segunda",168,"Media móvil de 7 días",474.857142857143
+2021-03-06,"Segunda",168,"Índice (día 1 = 100)",117.997870074547
+2021-03-07,"Segunda",169,"Casos",460
+2021-03-07,"Segunda",169,"Media móvil de 7 días",475.714285714286
+2021-03-07,"Segunda",169,"Índice (día 1 = 100)",118.210862619808
+2021-03-08,"Segunda",170,"Casos",498
+2021-03-08,"Segunda",170,"Media móvil de 7 días",471.285714285714
+2021-03-08,"Segunda",170,"Índice (día 1 = 100)",117.11040113596
+2021-03-09,"Segunda",171,"Casos",433
+2021-03-09,"Segunda",171,"Media móvil de 7 días",456
+2021-03-09,"Segunda",171,"Índice (día 1 = 100)",113.312034078807
+2021-03-10,"Segunda",172,"Casos",489
+2021-03-10,"Segunda",172,"Media móvil de 7 días",448.428571428571
+2021-03-10,"Segunda",172,"Índice (día 1 = 100)",111.430599929002
+2021-03-11,"Segunda",173,"Casos",457
+2021-03-11,"Segunda",173,"Media móvil de 7 días",446.571428571429
+2021-03-11,"Segunda",173,"Índice (día 1 = 100)",110.969116080937
+2021-03-12,"Segunda",174,"Casos",395
+2021-03-12,"Segunda",174,"Media móvil de 7 días",429.571428571429
+2021-03-12,"Segunda",174,"Índice (día 1 = 100)",106.744763933262
+2021-03-13,"Segunda",175,"Casos",407
+2021-03-13,"Segunda",175,"Media móvil de 7 días",421.714285714286
+2021-03-13,"Segunda",175,"Índice (día 1 = 100)",104.792332268371
+2021-03-14,"Segunda",176,"Casos",447
+2021-03-14,"Segunda",176,"Media móvil de 7 días",406.714285714286
+2021-03-14,"Segunda",176,"Índice (día 1 = 100)",101.064962726305
+2021-03-15,"Segunda",177,"Casos",379
+2021-03-15,"Segunda",177,"Media móvil de 7 días",391.714285714286
+2021-03-15,"Segunda",177,"Índice (día 1 = 100)",97.3375931842386
+2021-03-16,"Segunda",178,"Casos",378
+2021-03-16,"Segunda",178,"Media móvil de 7 días",387
+2021-03-16,"Segunda",178,"Índice (día 1 = 100)",96.1661341853035
+2021-03-17,"Segunda",179,"Casos",384
+2021-03-17,"Segunda",179,"Media móvil de 7 días",375.428571428571
+2021-03-17,"Segunda",179,"Índice (día 1 = 100)",93.2907348242811
+2021-03-18,"Segunda",180,"Casos",352
+2021-03-18,"Segunda",180,"Media móvil de 7 días",363.428571428571
+2021-03-18,"Segunda",180,"Índice (día 1 = 100)",90.3088391906283
+2021-03-19,"Segunda",181,"Casos",362
+2021-03-19,"Segunda",181,"Media móvil de 7 días",358.428571428571
+2021-03-19,"Segunda",181,"Índice (día 1 = 100)",89.0663826766063
+2021-03-20,"Segunda",182,"Casos",326
+2021-03-20,"Segunda",182,"Media móvil de 7 días",358.714285714286
+2021-03-20,"Segunda",182,"Índice (día 1 = 100)",89.1373801916933
+2021-03-21,"Segunda",183,"Casos",363
+2021-03-21,"Segunda",183,"Media móvil de 7 días",349.571428571429
+2021-03-21,"Segunda",183,"Índice (día 1 = 100)",86.8654597089102
+2021-03-22,"Segunda",184,"Casos",344
+2021-03-22,"Segunda",184,"Media móvil de 7 días",339.428571428571
+2021-03-22,"Segunda",184,"Índice (día 1 = 100)",84.3450479233227
+2021-03-23,"Segunda",185,"Casos",380
+2021-03-23,"Segunda",185,"Media móvil de 7 días",326.714285714286
+2021-03-23,"Segunda",185,"Índice (día 1 = 100)",81.1856585019524
+2021-03-24,"Segunda",186,"Casos",320
+2021-03-24,"Segunda",186,"Media móvil de 7 días",322.714285714286
+2021-03-24,"Segunda",186,"Índice (día 1 = 100)",80.1916932907348
+2021-03-25,"Segunda",187,"Casos",281
+2021-03-25,"Segunda",187,"Media móvil de 7 días",318
+2021-03-25,"Segunda",187,"Índice (día 1 = 100)",79.0202342917998
+2021-03-26,"Segunda",188,"Casos",273
+2021-03-26,"Segunda",188,"Media móvil de 7 días",315
+2021-03-26,"Segunda",188,"Índice (día 1 = 100)",78.2747603833866
+2021-03-27,"Segunda",189,"Casos",298
+2021-03-27,"Segunda",189,"Media móvil de 7 días",304.285714285714
+2021-03-27,"Segunda",189,"Índice (día 1 = 100)",75.6123535676251
+2021-03-28,"Segunda",190,"Casos",330
+2021-03-28,"Segunda",190,"Media móvil de 7 días",300.428571428571
+2021-03-28,"Segunda",190,"Índice (día 1 = 100)",74.653887113951
+2021-03-29,"Segunda",191,"Casos",323
+2021-03-29,"Segunda",191,"Media móvil de 7 días",299.857142857143
+2021-03-29,"Segunda",191,"Índice (día 1 = 100)",74.5118920837771
+2021-03-30,"Segunda",192,"Casos",305
+2021-03-30,"Segunda",192,"Media móvil de 7 días",301.285714285714
+2021-03-30,"Segunda",192,"Índice (día 1 = 100)",74.8668796592119
+2021-03-31,"Segunda",193,"Casos",293
+2021-03-31,"Segunda",193,"Media móvil de 7 días",299.571428571429
+2021-03-31,"Segunda",193,"Índice (día 1 = 100)",74.4408945686901
+2021-04-01,"Segunda",194,"Casos",277
+2021-04-01,"Segunda",194,"Media móvil de 7 días",288.428571428571
+2021-04-01,"Segunda",194,"Índice (día 1 = 100)",71.6719914802982
+2021-04-02,"Segunda",195,"Casos",283
+2021-04-02,"Segunda",195,"Media móvil de 7 días",284.428571428571
+2021-04-02,"Segunda",195,"Índice (día 1 = 100)",70.6780262690806
+2021-04-03,"Segunda",196,"Casos",286
+2021-04-03,"Segunda",196,"Media móvil de 7 días",278.285714285714
+2021-04-03,"Segunda",196,"Índice (día 1 = 100)",69.1515796947107
+2021-04-04,"Segunda",197,"Casos",252
+2021-04-04,"Segunda",197,"Media móvil de 7 días",278.571428571429
+2021-04-04,"Segunda",197,"Índice (día 1 = 100)",69.2225772097976
+2021-04-05,"Segunda",198,"Casos",295
+2021-04-05,"Segunda",198,"Media móvil de 7 días",278.714285714286
+2021-04-05,"Segunda",198,"Índice (día 1 = 100)",69.2580759673411
+2021-04-06,"Segunda",199,"Casos",262
+2021-04-06,"Segunda",199,"Media móvil de 7 días",275.857142857143
+2021-04-06,"Segunda",199,"Índice (día 1 = 100)",68.5481008164714
+2021-04-07,"Segunda",200,"Casos",295
+2021-04-07,"Segunda",200,"Media móvil de 7 días",271.428571428571
+2021-04-07,"Segunda",200,"Índice (día 1 = 100)",67.4476393326234
+2021-04-08,"Segunda",201,"Casos",278
+2021-04-08,"Segunda",201,"Media móvil de 7 días",270.428571428571
+2021-04-08,"Segunda",201,"Índice (día 1 = 100)",67.199148029819
+2021-04-09,"Segunda",202,"Casos",263
+2021-04-09,"Segunda",202,"Media móvil de 7 días",263.142857142857
+2021-04-09,"Segunda",202,"Índice (día 1 = 100)",65.3887113951012
+2021-04-10,"Segunda",203,"Casos",255
+2021-04-10,"Segunda",203,"Media móvil de 7 días",265.857142857143
+2021-04-10,"Segunda",203,"Índice (día 1 = 100)",66.0631877884274
+2021-04-11,"Segunda",204,"Casos",245
+2021-04-11,"Segunda",204,"Media móvil de 7 días",258.857142857143
+2021-04-11,"Segunda",204,"Índice (día 1 = 100)",64.3237486687966
+2021-04-12,"Segunda",205,"Casos",244
+2021-04-12,"Segunda",205,"Media móvil de 7 días",256.142857142857
+2021-04-12,"Segunda",205,"Índice (día 1 = 100)",63.6492722754704
+2021-04-13,"Segunda",206,"Casos",281
+2021-04-13,"Segunda",206,"Media móvil de 7 días",252.571428571429
+2021-04-13,"Segunda",206,"Índice (día 1 = 100)",62.7618033368832
+2021-04-14,"Segunda",207,"Casos",246
+2021-04-14,"Segunda",207,"Media móvil de 7 días",250.857142857143
+2021-04-14,"Segunda",207,"Índice (día 1 = 100)",62.3358182463614
+2021-04-15,"Segunda",208,"Casos",259
+2021-04-15,"Segunda",208,"Media móvil de 7 días",244.428571428571
+2021-04-15,"Segunda",208,"Índice (día 1 = 100)",60.7383741569045
+2021-04-16,"Segunda",209,"Casos",238
+2021-04-16,"Segunda",209,"Media móvil de 7 días",241
+2021-04-16,"Segunda",209,"Índice (día 1 = 100)",59.8864039758608
+2021-04-17,"Segunda",210,"Casos",243
+2021-04-17,"Segunda",210,"Media móvil de 7 días",233.285714285714
+2021-04-17,"Segunda",210,"Índice (día 1 = 100)",57.9694710685126
+2021-04-18,"Segunda",211,"Casos",200
+2021-04-18,"Segunda",211,"Media móvil de 7 días",229.428571428571
+2021-04-18,"Segunda",211,"Índice (día 1 = 100)",57.0110046148385
+2021-04-19,"Segunda",212,"Casos",220
+2021-04-19,"Segunda",212,"Media móvil de 7 días",219.285714285714
+2021-04-19,"Segunda",212,"Índice (día 1 = 100)",54.490592829251
+2021-04-20,"Segunda",213,"Casos",227
+2021-04-20,"Segunda",213,"Media móvil de 7 días",213.142857142857
+2021-04-20,"Segunda",213,"Índice (día 1 = 100)",52.9641462548811
+2021-04-21,"Segunda",214,"Casos",219
+2021-04-21,"Segunda",214,"Media móvil de 7 días",206.714285714286
+2021-04-21,"Segunda",214,"Índice (día 1 = 100)",51.3667021654242
+2021-04-22,"Segunda",215,"Casos",188
+2021-04-22,"Segunda",215,"Media móvil de 7 días",205.142857142857
+2021-04-22,"Segunda",215,"Índice (día 1 = 100)",50.9762158324459
+2021-04-23,"Segunda",216,"Casos",195
+2021-04-23,"Segunda",216,"Media móvil de 7 días",202.857142857143
+2021-04-23,"Segunda",216,"Índice (día 1 = 100)",50.4082357117501
+2021-04-24,"Segunda",217,"Casos",198
+2021-04-24,"Segunda",217,"Media móvil de 7 días",196.571428571429
+2021-04-24,"Segunda",217,"Índice (día 1 = 100)",48.8462903798367
+2021-04-25,"Segunda",218,"Casos",189
+2021-04-25,"Segunda",218,"Media móvil de 7 días",192.142857142857
+2021-04-25,"Segunda",218,"Índice (día 1 = 100)",47.7458288959886
+2021-04-26,"Segunda",219,"Casos",204
+2021-04-26,"Segunda",219,"Media móvil de 7 días",193
+2021-04-26,"Segunda",219,"Índice (día 1 = 100)",47.9588214412496
+2021-04-27,"Segunda",220,"Casos",183
+2021-04-27,"Segunda",220,"Media móvil de 7 días",186.285714285714
+2021-04-27,"Segunda",220,"Índice (día 1 = 100)",46.2903798367057
+2021-04-28,"Segunda",221,"Casos",188
+2021-04-28,"Segunda",221,"Media móvil de 7 días",181.285714285714
+2021-04-28,"Segunda",221,"Índice (día 1 = 100)",45.0479233226837
+2021-04-29,"Segunda",222,"Casos",194
+2021-04-29,"Segunda",222,"Media móvil de 7 días",179.428571428571
+2021-04-29,"Segunda",222,"Índice (día 1 = 100)",44.5864394746184
+2021-04-30,"Segunda",223,"Casos",148
+2021-04-30,"Segunda",223,"Media móvil de 7 días",173.285714285714
+2021-04-30,"Segunda",223,"Índice (día 1 = 100)",43.0599929002485
+2021-05-01,"Segunda",224,"Casos",163
+2021-05-01,"Segunda",224,"Media móvil de 7 días",167.285714285714
+2021-05-01,"Segunda",224,"Índice (día 1 = 100)",41.5690450834221
+2021-05-02,"Segunda",225,"Casos",176
+2021-05-02,"Segunda",225,"Media móvil de 7 días",164
+2021-05-02,"Segunda",225,"Índice (día 1 = 100)",40.7525736599219
+2021-05-03,"Segunda",226,"Casos",161
+2021-05-03,"Segunda",226,"Media móvil de 7 días",156.857142857143
+2021-05-03,"Segunda",226,"Índice (día 1 = 100)",38.9776357827476
+2021-05-04,"Segunda",227,"Casos",141
+2021-05-04,"Segunda",227,"Media móvil de 7 días",153.571428571429
+2021-05-04,"Segunda",227,"Índice (día 1 = 100)",38.1611643592474
+2021-05-05,"Segunda",228,"Casos",165
+2021-05-05,"Segunda",228,"Media móvil de 7 días",147.285714285714
+2021-05-05,"Segunda",228,"Índice (día 1 = 100)",36.599219027334
+2021-05-06,"Segunda",229,"Casos",144
+2021-05-06,"Segunda",229,"Media móvil de 7 días",142
+2021-05-06,"Segunda",229,"Índice (día 1 = 100)",35.2857649982251
+2021-05-07,"Segunda",230,"Casos",125
+2021-05-07,"Segunda",230,"Media móvil de 7 días",141.142857142857
+2021-05-07,"Segunda",230,"Índice (día 1 = 100)",35.0727724529641
+2021-05-08,"Segunda",231,"Casos",119
+2021-05-08,"Segunda",231,"Media móvil de 7 días",137.857142857143
+2021-05-08,"Segunda",231,"Índice (día 1 = 100)",34.256301029464
+2021-05-09,"Segunda",232,"Casos",139
+2021-05-09,"Segunda",232,"Media móvil de 7 días",132.142857142857
+2021-05-09,"Segunda",232,"Índice (día 1 = 100)",32.8363507277245
+2021-05-10,"Segunda",233,"Casos",155
+2021-05-10,"Segunda",233,"Media móvil de 7 días",125.285714285714
+2021-05-10,"Segunda",233,"Índice (día 1 = 100)",31.1324103656372
+2021-05-11,"Segunda",234,"Casos",118
+2021-05-11,"Segunda",234,"Media móvil de 7 días",124.857142857143
+2021-05-11,"Segunda",234,"Índice (día 1 = 100)",31.0259140930067
+2021-05-12,"Segunda",235,"Casos",125
+2021-05-12,"Segunda",235,"Media móvil de 7 días",121.857142857143
+2021-05-12,"Segunda",235,"Índice (día 1 = 100)",30.2804401845935
+2021-05-13,"Segunda",236,"Casos",96
+2021-05-13,"Segunda",236,"Media móvil de 7 días",117.571428571429
+2021-05-13,"Segunda",236,"Índice (día 1 = 100)",29.215477458289
+2021-05-14,"Tercera",1,"Casos",122
+2021-05-14,"Tercera",1,"Media móvil de 7 días",112
+2021-05-14,"Tercera",1,"Índice (día 1 = 100)",100
+2021-05-15,"Tercera",2,"Casos",98
+2021-05-15,"Tercera",2,"Media móvil de 7 días",112.142857142857
+2021-05-15,"Tercera",2,"Índice (día 1 = 100)",100.127551020408
+2021-05-16,"Tercera",3,"Casos",109
+2021-05-16,"Tercera",3,"Media móvil de 7 días",110.428571428571
+2021-05-16,"Tercera",3,"Índice (día 1 = 100)",98.5969387755102
+2021-05-17,"Tercera",4,"Casos",116
+2021-05-17,"Tercera",4,"Media móvil de 7 días",110.142857142857
+2021-05-17,"Tercera",4,"Índice (día 1 = 100)",98.3418367346939
+2021-05-18,"Tercera",5,"Casos",119
+2021-05-18,"Tercera",5,"Media móvil de 7 días",106.142857142857
+2021-05-18,"Tercera",5,"Índice (día 1 = 100)",94.7704081632653
+2021-05-19,"Tercera",6,"Casos",113
+2021-05-19,"Tercera",6,"Media móvil de 7 días",103.571428571429
+2021-05-19,"Tercera",6,"Índice (día 1 = 100)",92.4744897959184
+2021-05-20,"Tercera",7,"Casos",94
+2021-05-20,"Tercera",7,"Media móvil de 7 días",104.142857142857
+2021-05-20,"Tercera",7,"Índice (día 1 = 100)",92.984693877551
+2021-05-21,"Tercera",8,"Casos",94
+2021-05-21,"Tercera",8,"Media móvil de 7 días",102.285714285714
+2021-05-21,"Tercera",8,"Índice (día 1 = 100)",91.3265306122449
+2021-05-22,"Tercera",9,"Casos",80
+2021-05-22,"Tercera",9,"Media móvil de 7 días",100.142857142857
+2021-05-22,"Tercera",9,"Índice (día 1 = 100)",89.4132653061224
+2021-05-23,"Tercera",10,"Casos",113
+2021-05-23,"Tercera",10,"Media móvil de 7 días",97
+2021-05-23,"Tercera",10,"Índice (día 1 = 100)",86.6071428571429
+2021-05-24,"Tercera",11,"Casos",103
+2021-05-24,"Tercera",11,"Media móvil de 7 días",97.2857142857143
+2021-05-24,"Tercera",11,"Índice (día 1 = 100)",86.8622448979592
+2021-05-25,"Tercera",12,"Casos",104
+2021-05-25,"Tercera",12,"Media móvil de 7 días",97.1428571428571
+2021-05-25,"Tercera",12,"Índice (día 1 = 100)",86.734693877551
+2021-05-26,"Tercera",13,"Casos",91
+2021-05-26,"Tercera",13,"Media móvil de 7 días",97.8571428571429
+2021-05-26,"Tercera",13,"Índice (día 1 = 100)",87.3724489795918
+2021-05-27,"Tercera",14,"Casos",96
+2021-05-27,"Tercera",14,"Media móvil de 7 días",94.5714285714286
+2021-05-27,"Tercera",14,"Índice (día 1 = 100)",84.4387755102041
+2021-05-28,"Tercera",15,"Casos",93
+2021-05-28,"Tercera",15,"Media móvil de 7 días",94.5714285714286
+2021-05-28,"Tercera",15,"Índice (día 1 = 100)",84.4387755102041
+2021-05-29,"Tercera",16,"Casos",85
+2021-05-29,"Tercera",16,"Media móvil de 7 días",92.4285714285714
+2021-05-29,"Tercera",16,"Índice (día 1 = 100)",82.5255102040816
+2021-05-30,"Tercera",17,"Casos",90
+2021-05-30,"Tercera",17,"Media móvil de 7 días",91.4285714285714
+2021-05-30,"Tercera",17,"Índice (día 1 = 100)",81.6326530612245
+2021-05-31,"Tercera",18,"Casos",103
+2021-05-31,"Tercera",18,"Media móvil de 7 días",86.7142857142857
+2021-05-31,"Tercera",18,"Índice (día 1 = 100)",77.4234693877551
+2021-06-01,"Tercera",19,"Casos",89
+2021-06-01,"Tercera",19,"Media móvil de 7 días",85.8571428571429
+2021-06-01,"Tercera",19,"Índice (día 1 = 100)",76.6581632653061
+2021-06-02,"Tercera",20,"Casos",84
+2021-06-02,"Tercera",20,"Media móvil de 7 días",87.1428571428571
+2021-06-02,"Tercera",20,"Índice (día 1 = 100)",77.8061224489796
+2021-06-03,"Tercera",21,"Casos",63
+2021-06-03,"Tercera",21,"Media móvil de 7 días",85.8571428571429
+2021-06-03,"Tercera",21,"Índice (día 1 = 100)",76.6581632653061
+2021-06-04,"Tercera",22,"Casos",87
+2021-06-04,"Tercera",22,"Media móvil de 7 días",84.7142857142857
+2021-06-04,"Tercera",22,"Índice (día 1 = 100)",75.6377551020408
+2021-06-05,"Tercera",23,"Casos",94
+2021-06-05,"Tercera",23,"Media móvil de 7 días",85.7142857142857
+2021-06-05,"Tercera",23,"Índice (día 1 = 100)",76.530612244898
+2021-06-06,"Tercera",24,"Casos",81
+2021-06-06,"Tercera",24,"Media móvil de 7 días",86.4285714285714
+2021-06-06,"Tercera",24,"Índice (día 1 = 100)",77.1683673469388
+2021-06-07,"Tercera",25,"Casos",95
+2021-06-07,"Tercera",25,"Media móvil de 7 días",88.8571428571429
+2021-06-07,"Tercera",25,"Índice (día 1 = 100)",79.3367346938776
+2021-06-08,"Tercera",26,"Casos",96
+2021-06-08,"Tercera",26,"Media móvil de 7 días",91.4285714285714
+2021-06-08,"Tercera",26,"Índice (día 1 = 100)",81.6326530612245
+2021-06-09,"Tercera",27,"Casos",89
+2021-06-09,"Tercera",27,"Media móvil de 7 días",87.7142857142857
+2021-06-09,"Tercera",27,"Índice (día 1 = 100)",78.3163265306122
+2021-06-10,"Tercera",28,"Casos",80
+2021-06-10,"Tercera",28,"Media móvil de 7 días",87.2857142857143
+2021-06-10,"Tercera",28,"Índice (día 1 = 100)",77.9336734693878
+2021-06-11,"Tercera",29,"Casos",105
+2021-06-11,"Tercera",29,"Media móvil de 7 días",86.4285714285714
+2021-06-11,"Tercera",29,"Índice (día 1 = 100)",77.1683673469388
+2021-06-12,"Tercera",30,"Casos",68
+2021-06-12,"Tercera",30,"Media móvil de 7 días",85.5714285714286
+2021-06-12,"Tercera",30,"Índice (día 1 = 100)",76.4030612244898
+2021-06-13,"Tercera",31,"Casos",78
+2021-06-13,"Tercera",31,"Media móvil de 7 días",85.7142857142857
+2021-06-13,"Tercera",31,"Índice (día 1 = 100)",76.530612244898
+2021-06-14,"Tercera",32,"Casos",89
+2021-06-14,"Tercera",32,"Media móvil de 7 días",87.4285714285714
+2021-06-14,"Tercera",32,"Índice (día 1 = 100)",78.0612244897959
+2021-06-15,"Tercera",33,"Casos",90
+2021-06-15,"Tercera",33,"Media móvil de 7 días",85.2857142857143
+2021-06-15,"Tercera",33,"Índice (día 1 = 100)",76.1479591836735
+2021-06-16,"Tercera",34,"Casos",90
+2021-06-16,"Tercera",34,"Media móvil de 7 días",86.8571428571429
+2021-06-16,"Tercera",34,"Índice (día 1 = 100)",77.5510204081633
+2021-06-17,"Tercera",35,"Casos",92
+2021-06-17,"Tercera",35,"Media móvil de 7 días",91.7142857142857
+2021-06-17,"Tercera",35,"Índice (día 1 = 100)",81.8877551020408
+2021-06-18,"Tercera",36,"Casos",90
+2021-06-18,"Tercera",36,"Media móvil de 7 días",93.8571428571429
+2021-06-18,"Tercera",36,"Índice (día 1 = 100)",83.8010204081633
+2021-06-19,"Tercera",37,"Casos",79
+2021-06-19,"Tercera",37,"Media móvil de 7 días",94.8571428571429
+2021-06-19,"Tercera",37,"Índice (día 1 = 100)",84.6938775510204
+2021-06-20,"Tercera",38,"Casos",112
+2021-06-20,"Tercera",38,"Media móvil de 7 días",95.5714285714286
+2021-06-20,"Tercera",38,"Índice (día 1 = 100)",85.3316326530612
+2021-06-21,"Tercera",39,"Casos",104
+2021-06-21,"Tercera",39,"Media móvil de 7 días",96
+2021-06-21,"Tercera",39,"Índice (día 1 = 100)",85.7142857142857
+2021-06-22,"Tercera",40,"Casos",97
+2021-06-22,"Tercera",40,"Media móvil de 7 días",98.2857142857143
+2021-06-22,"Tercera",40,"Índice (día 1 = 100)",87.7551020408163
+2021-06-23,"Tercera",41,"Casos",95
+2021-06-23,"Tercera",41,"Media móvil de 7 días",102
+2021-06-23,"Tercera",41,"Índice (día 1 = 100)",91.0714285714286
+2021-06-24,"Tercera",42,"Casos",95
+2021-06-24,"Tercera",42,"Media móvil de 7 días",101.714285714286
+2021-06-24,"Tercera",42,"Índice (día 1 = 100)",90.8163265306122
+2021-06-25,"Tercera",43,"Casos",106
+2021-06-25,"Tercera",43,"Media móvil de 7 días",103.714285714286
+2021-06-25,"Tercera",43,"Índice (día 1 = 100)",92.6020408163265
+2021-06-26,"Tercera",44,"Casos",105
+2021-06-26,"Tercera",44,"Media móvil de 7 días",106.714285714286
+2021-06-26,"Tercera",44,"Índice (día 1 = 100)",95.280612244898
+2021-06-27,"Tercera",45,"Casos",110
+2021-06-27,"Tercera",45,"Media móvil de 7 días",110.142857142857
+2021-06-27,"Tercera",45,"Índice (día 1 = 100)",98.3418367346939
+2021-06-28,"Tercera",46,"Casos",118
+2021-06-28,"Tercera",46,"Media móvil de 7 días",114.571428571429
+2021-06-28,"Tercera",46,"Índice (día 1 = 100)",102.295918367347
+2021-06-29,"Tercera",47,"Casos",118
+2021-06-29,"Tercera",47,"Media móvil de 7 días",116.714285714286
+2021-06-29,"Tercera",47,"Índice (día 1 = 100)",104.209183673469
+2021-06-30,"Tercera",48,"Casos",119
+2021-06-30,"Tercera",48,"Media móvil de 7 días",116.857142857143
+2021-06-30,"Tercera",48,"Índice (día 1 = 100)",104.336734693878
+2021-07-01,"Tercera",49,"Casos",126
+2021-07-01,"Tercera",49,"Media móvil de 7 días",120.857142857143
+2021-07-01,"Tercera",49,"Índice (día 1 = 100)",107.908163265306
+2021-07-02,"Tercera",50,"Casos",121
+2021-07-02,"Tercera",50,"Media móvil de 7 días",122.142857142857
+2021-07-02,"Tercera",50,"Índice (día 1 = 100)",109.05612244898
+2021-07-03,"Tercera",51,"Casos",106
+2021-07-03,"Tercera",51,"Media móvil de 7 días",127.714285714286
+2021-07-03,"Tercera",51,"Índice (día 1 = 100)",114.030612244898
+2021-07-04,"Tercera",52,"Casos",138
+2021-07-04,"Tercera",52,"Media móvil de 7 días",131.857142857143
+2021-07-04,"Tercera",52,"Índice (día 1 = 100)",117.729591836735
+2021-07-05,"Tercera",53,"Casos",127
+2021-07-05,"Tercera",53,"Media móvil de 7 días",131.714285714286
+2021-07-05,"Tercera",53,"Índice (día 1 = 100)",117.602040816327
+2021-07-06,"Tercera",54,"Casos",157
+2021-07-06,"Tercera",54,"Media móvil de 7 días",131.571428571429
+2021-07-06,"Tercera",54,"Índice (día 1 = 100)",117.474489795918
+2021-07-07,"Tercera",55,"Casos",148
+2021-07-07,"Tercera",55,"Media móvil de 7 días",135.714285714286
+2021-07-07,"Tercera",55,"Índice (día 1 = 100)",121.173469387755
+2021-07-08,"Tercera",56,"Casos",125
+2021-07-08,"Tercera",56,"Media móvil de 7 días",137.285714285714
+2021-07-08,"Tercera",56,"Índice (día 1 = 100)",122.576530612245
+2021-07-09,"Tercera",57,"Casos",120
+2021-07-09,"Tercera",57,"Media móvil de 7 días",NA
+2021-07-09,"Tercera",57,"Índice (día 1 = 100)",NA
+2021-07-10,"Tercera",58,"Casos",135
+2021-07-10,"Tercera",58,"Media móvil de 7 días",NA
+2021-07-10,"Tercera",58,"Índice (día 1 = 100)",NA
+2021-07-11,"Tercera",59,"Casos",149
+2021-07-11,"Tercera",59,"Media móvil de 7 días",NA
+2021-07-11,"Tercera",59,"Índice (día 1 = 100)",NA

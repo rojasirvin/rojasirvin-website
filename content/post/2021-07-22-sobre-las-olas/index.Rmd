@@ -1,0 +1,320 @@
+---
+title: "Sobre las olas de contagio de covid-19 en México"
+author: "Irvin Rojas"
+date: 2021-07-26
+categories: ["Datos"]
+tags: ["covid-19", "vacunas"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+```{r work, cache=TRUE, include=FALSE}
+options(scipen=999)
+
+library(pacman)
+#library(RcppRoll)
+library(earlyR)
+library(EpiModel)
+library(incidence)
+library(readr)
+library(janitor)
+library(pmdplyr)
+library(RcppRoll)
+library(EpiEstim)
+library(lubridate)
+library(gam)
+library(scales)
+
+
+p_load(tidyverse, foreign, readstata13, lubridate, countrycode, rgeos, sf, ggrepel)
+
+cases.sintomas.nal <- read_csv("cases.sintomas.nal.csv",
+                     locale = locale(encoding = "latin1"))   %>% 
+  clean_names() %>% 
+  rename(wave.day=wave_day,
+         cases.stat=cases_stat)
+
+deaths.nal <- read_csv("deaths.nal.csv",
+                     locale = locale(encoding = "latin1"))   %>% 
+  clean_names() %>% 
+  rename(wave.day=wave_day,
+         deaths.stat=deaths_stat)
+
+waves.data <- read_csv("waves.data.csv",
+                     locale = locale(encoding = "latin1"))   %>% 
+  clean_names() %>% 
+  rename(hospital.stats=hospital_stats)
+
+##Enter todays date. Corresponding data must be in the datos folder
+mm <- "07"
+dd <- "25"
+yyyy <- "2021"
+
+todaysdate <- date(paste(yyyy,mm,dd,sep="-"))
+todaysdate.m.14 <- todaysdate-14
+second.wave.starts <- "2020-09-20"
+third.wave.starts <- "2021-05-14"
+
+titledate.curva <- paste0("Casos confirmados diarios de COVID-19 al ",format(todaysdate,"%d de %B de %Y") )
+
+
+
+
+#Epidemic curve with waves
+fig.curve <- cases.sintomas.nal %>% 
+  filter(type=="Media móvil de 7 días" | type=="Spline (df=33)") %>% 
+  filter(date<todaysdate.m.14-7) %>% 
+  ggplot() +
+  geom_line(aes(x=date, y=cases.stat, color=type, linetype=type))+
+  scale_colour_manual(values=c("black", "brown"))+
+  scale_linetype_manual(values=c("solid","dashed"))+
+  geom_vline(xintercept = as.Date(second.wave.starts), color="black", linetype="dotted")+
+  geom_vline(xintercept = as.Date(third.wave.starts), color="black", linetype="dotted")+
+  geom_text(aes(x=as.Date(second.wave.starts)+1, label="Segunda ola", y=15200), color="black", size=2, hjust="left")+
+  geom_text(aes(x=as.Date(third.wave.starts)+1, label="Tercera ola", y=15200), color="black", size=2, hjust="left")+
+  geom_text(aes(x=as.Date(second.wave.starts)+1, label="20 de septiembre de 2020", y=14500), color="black", size=2, hjust="left")+
+  geom_text(aes(x=as.Date(third.wave.starts)+1, label="14 de mayo de 2021", y=14500), color="black", size=2, hjust="left")+
+  xlab("Fecha de inicio de síntomas")+
+  ylab("Número de casos")+
+  scale_x_date(date_labels = "%b",
+               limits = as.Date(c("2020-03-03",as.character(todaysdate-7))),
+               date_breaks = "1 month")+
+  scale_y_continuous(limits = c(0,NA),
+                     breaks = seq(0, 15000, by = 3000))+
+  geom_vline(xintercept = as.numeric(as.Date("2021-01-01")), color="black", linetype="dashed", size=0.5)+
+  geom_text(aes(x=as.Date("2020-11-30"), label="2020", y=0), color="black", size=2)+
+  geom_text(aes(x=as.Date("2021-02-01"), label="2021", y=0), color="black", size=2)+
+  labs(title = titledate.curva,
+       caption="Fuente: elaborado por @rojasirvin con datos de la Secretaria de Salud.\nNota: se emplean datos hasta el 11 de julio de 2021 para estimar la media móvil y el spline.")+
+  labs(color  = "Casos", linetype = "Casos") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, size=8),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.justification = c(0, 1),
+        legend.position = c(0, 1),
+        legend.text = element_text(size = 8),
+        legend.background = element_rect(fill = NA, color = NA),
+        legend.title=element_text(size=10))
+#ggsave(file="./figures_cities_followup/curva_nacional_waves_07222021.png",
+#       width = 20,height = 10,units="cm")
+
+
+
+#Waves curve - cases
+fig.cases <- cases.sintomas.nal %>% 
+  filter(wave!="Primera") %>% 
+  filter(type=="Media móvil de 7 días") %>% 
+  filter(wave.day>=1 & wave.day<50) %>% 
+  ggplot(aes(x=wave.day, y=cases.stat, color=wave, linetype=wave)) +
+  geom_line(aes(x=wave.day, y=cases.stat, linetype=wave), size=1.5)+
+  xlab("Días después del inicio de la ola")+
+  ylab("Número de casos")+
+  scale_y_continuous(limits = c(1000,NA),
+                     breaks = seq(1000, 8000, by = 1000))+
+  scale_x_continuous(limits = c(0,50),
+                     breaks = seq(0, 50, by = 10))+
+  scale_colour_manual(values=c("magenta2", "magenta4"))+
+  scale_linetype_manual(values=c("solid","solid"))+
+  geom_vline(xintercept = 0, color="black", linetype="dotted")+
+  geom_text(aes(x=2, label="20 de septiembre de 2020", y=5300), color="black", size=2, hjust="left")+
+  geom_text(aes(x=2, label="14 de mayo de 2021", y=2600), color="black", size=2, hjust="left")+
+  annotate(geom = "curve", x = 2, y = 5100, xend = 1, yend = 4900, 
+           curvature = .3, arrow = arrow(length = unit(2, "mm"))) +
+  annotate(geom = "curve", x = 2, y = 2500, xend = 1, yend = 2200, 
+           curvature = .3, arrow = arrow(length = unit(2, "mm"))) +
+  labs(title = "Casos confirmados diarios de COVID-19",
+       subtitle = "Después del inicio de la segunda y tercera olas de contagio",
+       caption="Fuente: elaborado por @rojasirvin con datos de la Secretaria de Salud.\nNota: el número de casos es la media móvil de casos de siete días.")+
+  labs(color  = "Ola", linetype = "Ola") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, size=8),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.justification = c(0, 1),
+        legend.position = c(.8, .23),
+        legend.text = element_text(size = 8),
+        legend.background = element_rect(fill = NA, color = NA),
+        legend.title=element_text(size=10))
+#ggsave(file="./figures_cities_followup/cases_nacional_waves_07222021.png",
+#       width = 12,height = 15,units="cm")
+
+#Index of cases
+fig.cases.index <- cases.sintomas.nal %>% 
+  filter(wave!="Primera") %>% 
+  filter(type=="Índice (día 1 = 100)") %>%
+  filter(wave.day>=1 & wave.day<50) %>% 
+  ggplot(aes(x=wave.day, y=cases.stat, color=wave, linetype=wave)) +
+  geom_line(aes(x=wave.day, y=cases.stat, linetype=wave), size=1.5)+
+  xlab("Días después del inicio de la ola")+
+  ylab("Índice (casos confirmados en el día 1 = 100)")+
+  scale_y_continuous(limits = c(75,NA),
+                     breaks = seq(75, 500, by = 25))+
+  scale_x_continuous(limits = c(0,50),
+                     breaks = seq(0, 50, by = 10))+
+  scale_colour_manual(values=c("magenta2", "magenta4"))+
+  scale_linetype_manual(values=c("solid","solid"))+
+    geom_hline(yintercept = 100, color="black", linetype="dotted")+
+  geom_vline(xintercept = 0, color="black", linetype="dotted")+
+  geom_text(aes(x=2, label="Segunda ola: 20 de septiembre de 2020\nTercera ola: 14 de mayo de 2021", y=120), color="black", size=2, hjust="left")+
+  annotate(geom = "curve", x = 1.5, y = 115, xend = 1, yend = 102, 
+           curvature = .3, arrow = arrow(length = unit(2, "mm"))) +
+  labs(title = "Índice de casos confirmados diarios de COVID-19",
+       subtitle = "Después del inicio de la segunda y tercera olas de contagio",
+       caption="Fuente: elaborado por @rojasirvin con datos de la Secretaria de Salud.\nNota: la gráfica muestra el índice de casos respecto al primer día de cada ola.")+
+  labs(color  = "Ola", linetype = "Ola") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, size=8),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.justification = c(0, 1),
+        legend.position = c(.8, .23),
+        legend.text = element_text(size = 8),
+        legend.background = element_rect(fill = NA, color = NA),
+        legend.title=element_text(size=10))
+#ggsave(file="./figures_cities_followup/cases_index_nacional_waves_07222021.png",
+#       width = 12,height = 15,units="cm")
+
+
+
+
+#Waves curve deaths
+fig.deaths <- deaths.nal %>% 
+  filter(wave!="Primera") %>% 
+  filter(type=="Media móvil de 7 días") %>% 
+  filter(wave.day>=1 & wave.day<50) %>% 
+  ggplot(aes(x=wave.day, y=deaths.stat, color=wave, linetype=wave)) +
+  geom_line(aes(x=wave.day, y=deaths.stat, linetype=wave), size=1.5)+
+  xlab("Días después del inicio de la ola")+
+  ylab("Número de fallecimientos")+
+  scale_y_continuous(limits = c(50,NA),
+                     breaks = seq(50, 600, by = 100))+
+  scale_x_continuous(limits = c(0,50),
+                     breaks = seq(0, 50, by = 10))+
+  scale_colour_manual(values=c("chocolate2", "chocolate4"))+
+  scale_linetype_manual(values=c("solid","solid"))+
+  geom_vline(xintercept = 0, color="black", linetype="dotted")+
+  geom_text(aes(x=2, label="20 de septiembre de 2020", y=450), color="black", size=2, hjust="left")+
+  geom_text(aes(x=2, label="14 de mayo de 2021", y=150), color="black", size=2, hjust="left")+
+  annotate(geom = "curve", x = 2, y = 430, xend = 1, yend =415, 
+           curvature = .3, arrow = arrow(length = unit(2, "mm"))) +
+  annotate(geom = "curve", x = 2, y = 130, xend = 1, yend = 115, 
+           curvature = .3, arrow = arrow(length = unit(2, "mm"))) +
+  labs(title = "Fallecimientos diarios de COVID-19",
+       subtitle = "Después del inicio de la segunda y tercera olas de contagio",       caption="Fuente: elaborado por @rojasirvin con datos de la Secretaria de Salud.\nNota: el número de fallecimientos es la media móvil de fallecimientos de siete días.")+
+  labs(color  = "Ola", linetype = "Ola") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, size=8),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.justification = c(0, 1),
+        legend.position = c(.8, .23),
+        legend.text = element_text(size = 8),
+        legend.background = element_rect(fill = NA, color = NA),
+        legend.title=element_text(size=10))
+#ggsave(file="./figures_cities_followup/fallecimientos_nacional_waves_07222021.png",
+#       width = 12,height = 15,units="cm")
+
+#Indice
+fig.deaths.index <- deaths.nal %>% 
+  filter(wave!="Primera") %>% 
+  filter(type=="Índice (día 1 = 100)") %>% 
+  filter(wave.day>=1 & wave.day<50) %>% 
+  ggplot(aes(x=wave.day, y=deaths.stat, color=wave, linetype=wave)) +
+  geom_line(aes(x=wave.day, y=deaths.stat, linetype=wave), size=1.5)+
+  xlab("Días después del inicio de la ola")+
+  ylab("Índice (fallecimientos en el día 1 = 100)")+
+  scale_y_continuous(limits = c(50,150),
+                     breaks = seq(50, 150, by = 25))+
+  scale_x_continuous(limits = c(0,50),
+                     breaks = seq(0, 50, by = 10))+
+  scale_colour_manual(values=c("chocolate2", "chocolate4"))+
+  scale_linetype_manual(values=c("solid","solid"))+
+    geom_hline(yintercept = 100, color="black", linetype="dotted")+
+  geom_vline(xintercept = 0, color="black", linetype="dotted")+
+  geom_text(aes(x=2, label="Segunda ola: 20 de septiembre de 2020\nTercera ola: 14 de mayo de 2021", y=120), color="black", size=2, hjust="left")+
+  annotate(geom = "curve", x = 1.5, y = 115, xend = 1, yend = 102, 
+           curvature = .3, arrow = arrow(length = unit(2, "mm")))+
+  labs(title = "Índice de fallecimientos diarios de COVID-19",
+       subtitle = "Después del inicio de la segunda y tercera olas de contagio",
+       caption="Fuente: elaborado por @rojasirvin con datos de la Secretaria de Salud.\nNota: la gráfica muestra el índice de fallecimientos respecto al primer día de cada ola.")+
+  labs(color  = "Ola", linetype = "Ola") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, size=8),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.justification = c(0, 1),
+        legend.position = c(.8, .23),
+        legend.text = element_text(size = 8),
+        legend.background = element_rect(fill = NA, color = NA),
+        legend.title=element_text(size=10))
+#ggsave(file="./figures_cities_followup/fallecimientos_index_nacional_waves_07222021.png",
+#       width = 12,height = 15,units="cm")
+
+
+
+
+#Gráficas de barras de casos, hospitalizados, icu, intubados----
+fig.waves.data <- waves.data %>% 
+  filter(wave!="Primera" &
+           type %in% c("% Hospitalizados",
+                       "% Intubados",
+                       "% UCI",
+                       "% Fallecimientos")) %>% 
+  ggplot(aes(x=type, y=hospital.stats*100, fill=wave))+
+  geom_bar(stat="identity", position=position_dodge())+
+  xlab("Tipo de paciente")+
+  ylab("% de los casos")+
+  scale_x_discrete(labels = c("Hospitalizados", "Intubados", "UCI", "Fallecimientos"))+
+  geom_text(aes(label=sprintf("%0.2f", round(hospital.stats*100,2))), position=position_dodge(width=0.9), vjust=-0.25, size=3)+
+  labs(title = "Casos de COVID-19 por tipo de paciente",
+       subtitle = "Primeros 50 días después del inicio de la segunda y tercera olas de contagio",
+       caption="Fuente: elaborado por @rojasirvin con datos de la Secretaria de Salud.\nNotas: Segunda ola comienza el 20 de septiembre de 2020 (279,561 casos en los primeros 50 días).\nTercera ola comienza el 14 de mayo de 2021 (166,139 casos en los primeros 50 días).")+
+  labs(fill  = "Ola")+
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
+#ggsave(file="./figures_cities_followup/hospital_waves_07222021.png",
+#       width = 18,height = 15,units="cm")
+
+```
+
+
+
+Los últimos datos oficiales muestran una tendencia creciente de los casos de covid-19 en México y en muchos países del mundo. Si bien este aumento no puede ser ignorado, sí vale la pena comparar no solo el incremento de casos, sino cómo los casos se han desarrollado y cuál ha sido su desenlace.
+
+Usando los datos oficiales de casos al 25 de julio, suavizados con un promedio móvil de siete días, podemos estimar las fechas de inicio de la segunda y tercera oleadas de contagio. Estimé un spline, que permite trazar una curva suave a los datos para así inferir los inicios de las oleadas de contagio. Así, estimo que las fechas de inicio de la segunda y tercera ola son, respectivamente, el 20 de septiembre de 2020 y el 14 de mayo de 2021.
+
+```{r include=T, echo=F, warning=F}
+fig.curve
+```
+
+Para comparar ambas olas, podemos definir la fecha del inicio de cada ola como el periodo inicial, y observar las trayectorias de casos y fallecimientos de acuerdo a los días desde el inicio de la ola respectiva.
+
+Las siguientes dos gráficas muestran un índice del número de casos y del número de fallecimientos, usando el inicio de cada ola como referencia.
+
+El número de casos en la tercera oleada crece aceleradamente, sobre todo después del primer mes del inicio de la tercera ola. Después de 50 días del inicio de la tercera ola, el número de casos es 342\% mayor que al inicio de la misma. En cambio, después de 50 días del inicio de la segunda ola, el número de casos fue 142\% mayor que al inicio de dicha ola.
+
+Este comportamiento ha generado reacciones en la opinión pública llamando a una nueva intervención gubernamental para limitar la movilidad y la actividad económica, con el objetivo de reducir los contagios.
+
+```{r include=T, echo=F, warning=F}
+fig.cases.index
+```
+
+Por otro lado, analizando de manera análoga un índice de fallecimientos, el comportamiento de la tercera ola es muy distinto al de la segunda. En ambos casos, en los primeros 20 días observamos una reducción de los fallecimientos. Pero luego de los primeros 20 días, los fallecimientos comienzan a repuntar. Sin embargo, en el caso de la tercera ola, el crecimiento es menos rápido. Después de 50 días, en la tercera ola el número de fallecimiento es 9\% mayor que al inicio de la misma; mientras que después del inicio de la segunda ola, el número de fallecimientos era 25\% mayor que al inicio de dicha ola.
+
+```{r include=T, echo=F, warning=F}
+fig.deaths.index
+```
+
+Este comportamiento puede ser explicado por el programa de vacunación, que si bien no tiene como objetivo impedir el contagio, sino reducir la probabilidad de que los casos se agraven. Por supuesto, hay otros factores que pueden influir en estas tendencias, como la experiencia adquirida en el manejo de los casos.
+
+Vale la pena enfatizar que estas diferencias en las tendencias no representan un pronóstico de lo que sucederá en el futuro, ni una invitación a relajar las medidas de prevención.
+
+Finalmente, los dos gráficos siguientes muestran las cifras absolutas de casos y fallecimientos diarios, para tener un panorama completo de las tendencias en este par de estadísticas clave para describir el desarrollo de la epidemia.
+
+```{r include=T, echo=F, warning=F}
+fig.cases
+```
+
+
+```{r include=T, echo=F, warning=F}
+fig.deaths
+```

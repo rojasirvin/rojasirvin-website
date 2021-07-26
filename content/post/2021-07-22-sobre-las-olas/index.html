@@ -1,0 +1,26 @@
+---
+title: "Sobre las olas de contagio de covid-19 en México"
+author: "Irvin Rojas"
+date: 2021-07-26
+categories: ["Datos"]
+tags: ["covid-19", "vacunas"]
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<p>Los últimos datos oficiales muestran una tendencia creciente de los casos de covid-19 en México y en muchos países del mundo. Si bien este aumento no puede ser ignorado, sí vale la pena comparar no solo el incremento de casos, sino cómo los casos se han desarrollado y cuál ha sido su desenlace.</p>
+<p>Usando los datos oficiales de casos al 25 de julio, suavizados con un promedio móvil de siete días, podemos estimar las fechas de inicio de la segunda y tercera oleadas de contagio. Estimé un spline, que permite trazar una curva suave a los datos para así inferir los inicios de las oleadas de contagio. Así, estimo que las fechas de inicio de la segunda y tercera ola son, respectivamente, el 20 de septiembre de 2020 y el 14 de mayo de 2021.</p>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<p>Para comparar ambas olas, podemos definir la fecha del inicio de cada ola como el periodo inicial, y observar las trayectorias de casos y fallecimientos de acuerdo a los días desde el inicio de la ola respectiva.</p>
+<p>Las siguientes dos gráficas muestran un índice del número de casos y del número de fallecimientos, usando el inicio de cada ola como referencia.</p>
+<p>El número de casos en la tercera oleada crece aceleradamente, sobre todo después del primer mes del inicio de la tercera ola. Después de 50 días del inicio de la tercera ola, el número de casos es 342% mayor que al inicio de la misma. En cambio, después de 50 días del inicio de la segunda ola, el número de casos fue 142% mayor que al inicio de dicha ola.</p>
+<p>Este comportamiento ha generado reacciones en la opinión pública llamando a una nueva intervención gubernamental para limitar la movilidad y la actividad económica, con el objetivo de reducir los contagios.</p>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<p>Por otro lado, analizando de manera análoga un índice de fallecimientos, el comportamiento de la tercera ola es muy distinto al de la segunda. En ambos casos, en los primeros 20 días observamos una reducción de los fallecimientos. Pero luego de los primeros 20 días, los fallecimientos comienzan a repuntar. Sin embargo, en el caso de la tercera ola, el crecimiento es menos rápido. Después de 50 días, en la tercera ola el número de fallecimiento es 9% mayor que al inicio de la misma; mientras que después del inicio de la segunda ola, el número de fallecimientos era 25% mayor que al inicio de dicha ola.</p>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
+<p>Este comportamiento puede ser explicado por el programa de vacunación, que si bien no tiene como objetivo impedir el contagio, sino reducir la probabilidad de que los casos se agraven. Por supuesto, hay otros factores que pueden influir en estas tendencias, como la experiencia adquirida en el manejo de los casos.</p>
+<p>Vale la pena enfatizar que estas diferencias en las tendencias no representan un pronóstico de lo que sucederá en el futuro, ni una invitación a relajar las medidas de prevención.</p>
+<p>Finalmente, los dos gráficos siguientes muestran las cifras absolutas de casos y fallecimientos diarios, para tener un panorama completo de las tendencias en este par de estadísticas clave para describir el desarrollo de la epidemia.</p>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-4-1.png" width="672" /></p>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>

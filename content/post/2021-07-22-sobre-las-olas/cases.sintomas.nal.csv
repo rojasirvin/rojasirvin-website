@@ -1,0 +1,2486 @@
+"date","wave","wave.day","type","cases.stat"
+2020-03-02,"Primera",1,"Casos",19
+2020-03-02,"Primera",1,"Media móvil de 7 días",NA
+2020-03-02,"Primera",1,"Spline (df=33)",-26.1052246989708
+2020-03-02,"Primera",1,"Cambio en spline",NA
+2020-03-02,"Primera",1,"Índice (día 1 = 100)",NA
+2020-03-03,"Primera",2,"Casos",18
+2020-03-03,"Primera",2,"Media móvil de 7 días",NA
+2020-03-03,"Primera",2,"Spline (df=33)",-12.7063830020857
+2020-03-03,"Primera",2,"Cambio en spline",-0.513262837282277
+2020-03-03,"Primera",2,"Índice (día 1 = 100)",NA
+2020-03-04,"Primera",3,"Casos",15
+2020-03-04,"Primera",3,"Media móvil de 7 días",NA
+2020-03-04,"Primera",3,"Spline (df=33)",0.0413554768250977
+2020-03-04,"Primera",3,"Cambio en spline",-1.00325470094978
+2020-03-04,"Primera",3,"Índice (día 1 = 100)",NA
+2020-03-05,"Primera",4,"Casos",12
+2020-03-05,"Primera",4,"Media móvil de 7 días",18.5714285714286
+2020-03-05,"Primera",4,"Spline (df=33)",12.216703325188
+2020-03-05,"Primera",4,"Cambio en spline",294.407144665635
+2020-03-05,"Primera",4,"Índice (día 1 = 100)",100
+2020-03-06,"Primera",5,"Casos",16
+2020-03-06,"Primera",5,"Media móvil de 7 días",25.7142857142857
+2020-03-06,"Primera",5,"Spline (df=33)",23.8983731304294
+2020-03-06,"Primera",5,"Cambio en spline",0.956204754613021
+2020-03-06,"Primera",5,"Índice (día 1 = 100)",138.461538461538
+2020-03-07,"Primera",6,"Casos",21
+2020-03-07,"Primera",6,"Media móvil de 7 días",31.7142857142857
+2020-03-07,"Primera",6,"Spline (df=33)",35.1650774799758
+2020-03-07,"Primera",6,"Cambio en spline",0.47144231484112
+2020-03-07,"Primera",6,"Índice (día 1 = 100)",170.769230769231
+2020-03-08,"Primera",7,"Casos",29
+2020-03-08,"Primera",7,"Media móvil de 7 días",38.8571428571429
+2020-03-08,"Primera",7,"Spline (df=33)",46.0955289612538
+2020-03-08,"Primera",7,"Cambio en spline",0.310832572102311
+2020-03-08,"Primera",7,"Índice (día 1 = 100)",209.230769230769
+2020-03-09,"Primera",8,"Casos",69
+2020-03-09,"Primera",8,"Media móvil de 7 días",50.5714285714286
+2020-03-09,"Primera",8,"Spline (df=33)",56.7684401616897
+2020-03-09,"Primera",8,"Cambio en spline",0.231538967898755
+2020-03-09,"Primera",8,"Índice (día 1 = 100)",272.307692307692
+2020-03-10,"Primera",9,"Casos",60
+2020-03-10,"Primera",9,"Media móvil de 7 días",64.4285714285714
+2020-03-10,"Primera",9,"Spline (df=33)",67.2625236687099
+2020-03-10,"Primera",9,"Cambio en spline",0.184857703983599
+2020-03-10,"Primera",9,"Índice (día 1 = 100)",346.923076923077
+2020-03-11,"Primera",10,"Casos",65
+2020-03-11,"Primera",10,"Media móvil de 7 días",76.7142857142857
+2020-03-11,"Primera",10,"Spline (df=33)",77.6564920697411
+2020-03-11,"Primera",10,"Cambio en spline",0.154528373812212
+2020-03-11,"Primera",10,"Índice (día 1 = 100)",413.076923076923
+2020-03-12,"Primera",11,"Casos",94
+2020-03-12,"Primera",11,"Media móvil de 7 días",89.4285714285714
+2020-03-12,"Primera",11,"Spline (df=33)",88.0290579522096
+2020-03-12,"Primera",11,"Cambio en spline",0.133569848521527
+2020-03-12,"Primera",11,"Índice (día 1 = 100)",481.538461538461
+2020-03-13,"Primera",12,"Casos",113
+2020-03-13,"Primera",12,"Media móvil de 7 días",100.571428571429
+2020-03-13,"Primera",12,"Spline (df=33)",98.4589339035418
+2020-03-13,"Primera",12,"Cambio en spline",0.118482194333996
+2020-03-13,"Primera",12,"Índice (día 1 = 100)",541.538461538461
+2020-03-14,"Primera",13,"Casos",107
+2020-03-14,"Primera",13,"Media móvil de 7 días",113.285714285714
+2020-03-14,"Primera",13,"Spline (df=33)",109.024832511164
+2020-03-14,"Primera",13,"Cambio en spline",0.107312746428614
+2020-03-14,"Primera",13,"Índice (día 1 = 100)",610
+2020-03-15,"Primera",14,"Casos",118
+2020-03-15,"Primera",14,"Media móvil de 7 días",126
+2020-03-15,"Primera",14,"Spline (df=33)",119.805466362503
+2020-03-15,"Primera",14,"Cambio en spline",0.0988823702181358
+2020-03-15,"Primera",14,"Índice (día 1 = 100)",678.461538461538
+2020-03-16,"Primera",15,"Casos",147
+2020-03-16,"Primera",15,"Media móvil de 7 días",132.285714285714
+2020-03-16,"Primera",15,"Spline (df=33)",130.879548044986
+2020-03-16,"Primera",15,"Cambio en spline",0.0924338598121616
+2020-03-16,"Primera",15,"Índice (día 1 = 100)",712.307692307692
+2020-03-17,"Primera",16,"Casos",149
+2020-03-17,"Primera",16,"Media móvil de 7 días",148.714285714286
+2020-03-17,"Primera",16,"Spline (df=33)",142.325790146038
+2020-03-17,"Primera",16,"Cambio en spline",0.0874563082775749
+2020-03-17,"Primera",16,"Índice (día 1 = 100)",800.769230769231
+2020-03-18,"Primera",17,"Casos",154
+2020-03-18,"Primera",17,"Media móvil de 7 días",156.142857142857
+2020-03-18,"Primera",17,"Spline (df=33)",154.222905253086
+2020-03-18,"Primera",17,"Cambio en spline",0.0835907188348689
+2020-03-18,"Primera",17,"Índice (día 1 = 100)",840.769230769231
+2020-03-19,"Primera",18,"Casos",138
+2020-03-19,"Primera",18,"Media móvil de 7 días",165
+2020-03-19,"Primera",18,"Spline (df=33)",166.659325919756
+2020-03-19,"Primera",18,"Cambio en spline",0.0806392581326466
+2020-03-19,"Primera",18,"Índice (día 1 = 100)",888.461538461538
+2020-03-20,"Primera",19,"Casos",228
+2020-03-20,"Primera",19,"Media móvil de 7 días",181.571428571429
+2020-03-20,"Primera",19,"Spline (df=33)",179.762364564474
+2020-03-20,"Primera",19,"Cambio en spline",0.0786216947200827
+2020-03-20,"Primera",19,"Índice (día 1 = 100)",977.692307692308
+2020-03-21,"Primera",20,"Casos",159
+2020-03-21,"Primera",20,"Media móvil de 7 días",190.142857142857
+2020-03-21,"Primera",20,"Spline (df=33)",193.669053571864
+2020-03-21,"Primera",20,"Cambio en spline",0.0773615158049534
+2020-03-21,"Primera",20,"Índice (día 1 = 100)",1023.84615384615
+2020-03-22,"Primera",21,"Casos",180
+2020-03-22,"Primera",21,"Media móvil de 7 días",204.142857142857
+2020-03-22,"Primera",21,"Spline (df=33)",208.516425326552
+2020-03-22,"Primera",21,"Cambio en spline",0.0766636252971546
+2020-03-22,"Primera",21,"Índice (día 1 = 100)",1099.23076923077
+2020-03-23,"Primera",22,"Casos",263
+2020-03-23,"Primera",22,"Media móvil de 7 días",226.857142857143
+2020-03-23,"Primera",22,"Spline (df=33)",224.441512213163
+2020-03-23,"Primera",22,"Cambio en spline",0.0763732970276592
+2020-03-23,"Primera",22,"Índice (día 1 = 100)",1221.53846153846
+2020-03-24,"Primera",23,"Casos",209
+2020-03-24,"Primera",23,"Media móvil de 7 días",240.285714285714
+2020-03-24,"Primera",23,"Spline (df=33)",241.581346616321
+2020-03-24,"Primera",23,"Cambio en spline",0.0763665965094706
+2020-03-24,"Primera",23,"Índice (día 1 = 100)",1293.84615384615
+2020-03-25,"Primera",24,"Casos",252
+2020-03-25,"Primera",24,"Media móvil de 7 días",261.857142857143
+2020-03-25,"Primera",24,"Spline (df=33)",260.072960920651
+2020-03-25,"Primera",24,"Cambio en spline",0.0765440484678602
+2020-03-25,"Primera",24,"Índice (día 1 = 100)",1410
+2020-03-26,"Primera",25,"Casos",297
+2020-03-26,"Primera",25,"Media móvil de 7 días",279.571428571429
+2020-03-26,"Primera",25,"Spline (df=33)",280.053387510779
+2020-03-26,"Primera",25,"Cambio en spline",0.0768262356817026
+2020-03-26,"Primera",25,"Índice (día 1 = 100)",1505.38461538462
+2020-03-27,"Primera",26,"Casos",322
+2020-03-27,"Primera",26,"Media móvil de 7 días",303
+2020-03-27,"Primera",26,"Spline (df=33)",301.65965877133
+2020-03-27,"Primera",26,"Cambio en spline",0.0771505442322818
+2020-03-27,"Primera",26,"Índice (día 1 = 100)",1631.53846153846
+2020-03-28,"Primera",27,"Casos",310
+2020-03-28,"Primera",27,"Media móvil de 7 días",321.428571428571
+2020-03-28,"Primera",27,"Spline (df=33)",325.028807086928
+2020-03-28,"Primera",27,"Cambio en spline",0.0774685896376785
+2020-03-28,"Primera",27,"Índice (día 1 = 100)",1730.76923076923
+2020-03-29,"Primera",28,"Casos",304
+2020-03-29,"Primera",28,"Media móvil de 7 días",362.857142857143
+2020-03-29,"Primera",28,"Spline (df=33)",350.297864842199
+2020-03-29,"Primera",28,"Cambio en spline",0.0777440559245963
+2020-03-29,"Primera",28,"Índice (día 1 = 100)",1953.84615384615
+2020-03-30,"Primera",29,"Casos",427
+2020-03-30,"Primera",29,"Media móvil de 7 días",389.571428571429
+2020-03-30,"Primera",29,"Spline (df=33)",377.603864421768
+2020-03-30,"Primera",29,"Cambio en spline",0.077950802217619
+2020-03-30,"Primera",29,"Índice (día 1 = 100)",2097.69230769231
+2020-03-31,"Primera",30,"Casos",338
+2020-03-31,"Primera",30,"Media móvil de 7 días",414.857142857143
+2020-03-31,"Primera",30,"Spline (df=33)",407.083838210259
+2020-03-31,"Primera",30,"Cambio en spline",0.0780711654888234
+2020-03-31,"Primera",30,"Índice (día 1 = 100)",2233.84615384615
+2020-04-01,"Primera",31,"Casos",542
+2020-04-01,"Primera",31,"Media móvil de 7 días",441
+2020-04-01,"Primera",31,"Spline (df=33)",438.874818592298
+2020-04-01,"Primera",31,"Cambio en spline",0.0780944301837369
+2020-04-01,"Primera",31,"Índice (día 1 = 100)",2374.61538461538
+2020-04-02,"Primera",32,"Casos",484
+2020-04-02,"Primera",32,"Media móvil de 7 días",467
+2020-04-02,"Primera",32,"Spline (df=33)",473.113837952509
+2020-04-02,"Primera",32,"Cambio en spline",0.0780154565942831
+2020-04-02,"Primera",32,"Índice (día 1 = 100)",2514.61538461538
+2020-04-03,"Primera",33,"Casos",499
+2020-04-03,"Primera",33,"Media móvil de 7 días",500.142857142857
+2020-04-03,"Primera",33,"Spline (df=33)",509.937928675518
+2020-04-03,"Primera",33,"Cambio en spline",0.077833467907792
+2020-04-03,"Primera",33,"Índice (día 1 = 100)",2693.07692307692
+2020-04-04,"Primera",34,"Casos",493
+2020-04-04,"Primera",34,"Media móvil de 7 días",532.857142857143
+2020-04-04,"Primera",34,"Spline (df=33)",549.438031066495
+2020-04-04,"Primera",34,"Cambio en spline",0.0774606087716847
+2020-04-04,"Primera",34,"Índice (día 1 = 100)",2869.23076923077
+2020-04-05,"Primera",35,"Casos",486
+2020-04-05,"Primera",35,"Media móvil de 7 días",556.714285714286
+2020-04-05,"Primera",35,"Spline (df=33)",591.520717112797
+2020-04-05,"Primera",35,"Cambio en spline",0.0765922336402818
+2020-04-05,"Primera",35,"Índice (día 1 = 100)",2997.69230769231
+2020-04-06,"Primera",36,"Casos",659
+2020-04-06,"Primera",36,"Media móvil de 7 días",588.142857142857
+2020-04-06,"Primera",36,"Spline (df=33)",636.046466722323
+2020-04-06,"Primera",36,"Cambio en spline",0.0752733561503233
+2020-04-06,"Primera",36,"Índice (día 1 = 100)",3166.92307692308
+2020-04-07,"Primera",37,"Casos",567
+2020-04-07,"Primera",37,"Media móvil de 7 días",670.285714285714
+2020-04-07,"Primera",37,"Spline (df=33)",682.875759802975
+2020-04-07,"Primera",37,"Cambio en spline",0.0736255848129669
+2020-04-07,"Primera",37,"Índice (día 1 = 100)",3609.23076923077
+2020-04-08,"Primera",38,"Casos",709
+2020-04-08,"Primera",38,"Media móvil de 7 días",715.428571428571
+2020-04-08,"Primera",38,"Spline (df=33)",731.869076262655
+2020-04-08,"Primera",38,"Cambio en spline",0.07174557854245
+2020-04-08,"Primera",38,"Índice (día 1 = 100)",3852.30769230769
+2020-04-09,"Primera",39,"Casos",704
+2020-04-09,"Primera",39,"Media móvil de 7 días",770
+2020-04-09,"Primera",39,"Spline (df=33)",782.886896009263
+2020-04-09,"Primera",39,"Cambio en spline",0.0697089430354595
+2020-04-09,"Primera",39,"Índice (día 1 = 100)",4146.15384615385
+2020-04-10,"Primera",40,"Casos",1074
+2020-04-10,"Primera",40,"Media móvil de 7 días",828.571428571429
+2020-04-10,"Primera",40,"Spline (df=33)",835.7896989507
+2020-04-10,"Primera",40,"Cambio en spline",0.0675740048927979
+2020-04-10,"Primera",40,"Índice (día 1 = 100)",4461.53846153846
+2020-04-11,"Primera",41,"Casos",809
+2020-04-11,"Primera",41,"Media móvil de 7 días",892.857142857143
+2020-04-11,"Primera",41,"Spline (df=33)",890.437964994868
+2020-04-11,"Primera",41,"Cambio en spline",0.0653851873417162
+2020-04-11,"Primera",41,"Índice (día 1 = 100)",4807.69230769231
+2020-04-12,"Primera",42,"Casos",868
+2020-04-12,"Primera",42,"Media móvil de 7 días",961.857142857143
+2020-04-12,"Primera",42,"Spline (df=33)",946.692174049667
+2020-04-12,"Primera",42,"Cambio en spline",0.0631758878959343
+2020-04-12,"Primera",42,"Índice (día 1 = 100)",5179.23076923077
+2020-04-13,"Primera",43,"Casos",1069
+2020-04-13,"Primera",43,"Media móvil de 7 días",1027.42857142857
+2020-04-13,"Primera",43,"Spline (df=33)",1004.412806023
+2020-04-13,"Primera",43,"Cambio en spline",0.0609708557391163
+2020-04-13,"Primera",43,"Índice (día 1 = 100)",5532.30769230769
+2020-04-14,"Primera",44,"Casos",1017
+2020-04-14,"Primera",44,"Media móvil de 7 días",1065.28571428571
+2020-04-14,"Primera",44,"Spline (df=33)",1063.46034082277
+2020-04-14,"Primera",44,"Cambio en spline",0.058788114255101
+2020-04-14,"Primera",44,"Índice (día 1 = 100)",5736.15384615384
+2020-04-15,"Primera",45,"Casos",1192
+2020-04-15,"Primera",45,"Media móvil de 7 días",1150.42857142857
+2020-04-15,"Primera",45,"Spline (df=33)",1123.69525835687
+2020-04-15,"Primera",45,"Cambio en spline",0.0566404925711661
+2020-04-15,"Primera",45,"Índice (día 1 = 100)",6194.61538461538
+2020-04-16,"Primera",46,"Casos",1163
+2020-04-16,"Primera",46,"Media móvil de 7 días",1206.14285714286
+2020-04-16,"Primera",46,"Spline (df=33)",1184.97803853321
+2020-04-16,"Primera",46,"Cambio en spline",0.054536832580347
+2020-04-16,"Primera",46,"Índice (día 1 = 100)",6494.61538461538
+2020-04-17,"Primera",47,"Casos",1339
+2020-04-17,"Primera",47,"Media móvil de 7 días",1349.14285714286
+2020-04-17,"Primera",47,"Spline (df=33)",1247.16916125968
+2020-04-17,"Primera",47,"Cambio en spline",0.0524829327668022
+2020-04-17,"Primera",47,"Índice (día 1 = 100)",7264.61538461538
+2020-04-18,"Primera",48,"Casos",1405
+2020-04-18,"Primera",48,"Media móvil de 7 días",1399.57142857143
+2020-04-18,"Primera",48,"Spline (df=33)",1310.1291064442
+2020-04-18,"Primera",48,"Cambio en spline",0.0504822819070693
+2020-04-18,"Primera",48,"Índice (día 1 = 100)",7536.15384615385
+2020-04-19,"Primera",49,"Casos",1258
+2020-04-19,"Primera",49,"Media móvil de 7 días",1433
+2020-04-19,"Primera",49,"Spline (df=33)",1373.71835399465
+2020-04-19,"Primera",49,"Cambio en spline",0.0485366268390453
+2020-04-19,"Primera",49,"Índice (día 1 = 100)",7716.15384615385
+2020-04-20,"Primera",50,"Casos",2070
+2020-04-20,"Primera",50,"Media móvil de 7 días",1477.57142857143
+2020-04-20,"Primera",50,"Spline (df=33)",1437.82967826361
+2020-04-20,"Primera",50,"Cambio en spline",0.0466699189703082
+2020-04-20,"Primera",50,"Índice (día 1 = 100)",7956.15384615385
+2020-04-21,"Primera",51,"Casos",1370
+2020-04-21,"Primera",51,"Media móvil de 7 días",1535.71428571429
+2020-04-21,"Primera",51,"Spline (df=33)",1502.48503138227
+2020-04-21,"Primera",51,"Cambio en spline",0.0449673240830181
+2020-04-21,"Primera",51,"Índice (día 1 = 100)",8269.23076923077
+2020-04-22,"Primera",52,"Casos",1426
+2020-04-22,"Primera",52,"Media móvil de 7 días",1593.28571428571
+2020-04-22,"Primera",52,"Spline (df=33)",1567.7386599265
+2020-04-22,"Primera",52,"Cambio en spline",0.0434304683116873
+2020-04-22,"Primera",52,"Índice (día 1 = 100)",8579.23076923077
+2020-04-23,"Primera",53,"Casos",1475
+2020-04-23,"Primera",53,"Media móvil de 7 días",1645.28571428571
+2020-04-23,"Primera",53,"Spline (df=33)",1633.64481047217
+2020-04-23,"Primera",53,"Cambio en spline",0.042038990445485
+2020-04-23,"Primera",53,"Índice (día 1 = 100)",8859.23076923077
+2020-04-24,"Primera",54,"Casos",1746
+2020-04-24,"Primera",54,"Media móvil de 7 días",1632.57142857143
+2020-04-24,"Primera",54,"Spline (df=33)",1700.25772959513
+2020-04-24,"Primera",54,"Cambio en spline",0.0407756439441174
+2020-04-24,"Primera",54,"Índice (día 1 = 100)",8790.76923076923
+2020-04-25,"Primera",55,"Casos",1808
+2020-04-25,"Primera",55,"Media móvil de 7 días",1685.14285714286
+2020-04-25,"Primera",55,"Spline (df=33)",1767.63166387127
+2020-04-25,"Primera",55,"Cambio en spline",0.0396257185621949
+2020-04-25,"Primera",55,"Índice (día 1 = 100)",9073.84615384615
+2020-04-26,"Primera",56,"Casos",1622
+2020-04-26,"Primera",56,"Media móvil de 7 días",1704.85714285714
+2020-04-26,"Primera",56,"Spline (df=33)",1835.82085987643
+2020-04-26,"Primera",56,"Cambio en spline",0.0385765866265503
+2020-04-26,"Primera",56,"Índice (día 1 = 100)",9180
+2020-04-27,"Primera",57,"Casos",1981
+2020-04-27,"Primera",57,"Media móvil de 7 días",1801.14285714286
+2020-04-27,"Primera",57,"Spline (df=33)",1904.87956418649
+2020-04-27,"Primera",57,"Cambio en spline",0.0376173437285742
+2020-04-27,"Primera",57,"Índice (día 1 = 100)",9698.46153846154
+2020-04-28,"Primera",58,"Casos",1738
+2020-04-28,"Primera",58,"Media móvil de 7 días",1978.71428571429
+2020-04-28,"Primera",58,"Spline (df=33)",1974.86202337731
+2020-04-28,"Primera",58,"Cambio en spline",0.0367385216926853
+2020-04-28,"Primera",58,"Índice (día 1 = 100)",10654.6153846154
+2020-04-29,"Primera",59,"Casos",1564
+2020-04-29,"Primera",59,"Media móvil de 7 días",2020.14285714286
+2020-04-29,"Primera",59,"Spline (df=33)",2045.82248402475
+2020-04-29,"Primera",59,"Cambio en spline",0.035931857419634
+2020-04-29,"Primera",59,"Índice (día 1 = 100)",10877.6923076923
+2020-04-30,"Primera",60,"Casos",2149
+2020-04-30,"Primera",60,"Media móvil de 7 días",2071.28571428571
+2020-04-30,"Primera",60,"Spline (df=33)",2117.81519270468
+2020-04-30,"Primera",60,"Cambio en spline",0.0351901053205269
+2020-04-30,"Primera",60,"Índice (día 1 = 100)",11153.0769230769
+2020-05-01,"Primera",61,"Casos",2989
+2020-05-01,"Primera",61,"Media móvil de 7 días",2147.28571428571
+2020-05-01,"Primera",61,"Spline (df=33)",2190.89439599297
+2020-05-01,"Primera",61,"Cambio en spline",0.0345068840473076
+2020-05-01,"Primera",61,"Índice (día 1 = 100)",11562.3076923077
+2020-05-02,"Primera",62,"Casos",2098
+2020-05-02,"Primera",62,"Media móvil de 7 días",2263.71428571429
+2020-05-02,"Primera",62,"Spline (df=33)",2265.11434046548
+2020-05-02,"Primera",62,"Cambio en spline",0.0338765504208016
+2020-05-02,"Primera",62,"Índice (día 1 = 100)",12189.2307692308
+2020-05-03,"Primera",63,"Casos",1980
+2020-05-03,"Primera",63,"Media móvil de 7 días",2366.71428571429
+2020-05-03,"Primera",63,"Spline (df=33)",2340.52927269807
+2020-05-03,"Primera",63,"Cambio en spline",0.0332940950862081
+2020-05-03,"Primera",63,"Índice (día 1 = 100)",12743.8461538462
+2020-05-04,"Primera",64,"Casos",2513
+2020-05-04,"Primera",64,"Media móvil de 7 días",2418
+2020-05-04,"Primera",64,"Spline (df=33)",2417.19343926661
+2020-05-04,"Primera",64,"Cambio en spline",0.0327550556460953
+2020-05-04,"Primera",64,"Índice (día 1 = 100)",13020
+2020-05-05,"Primera",65,"Casos",2553
+2020-05-05,"Primera",65,"Media móvil de 7 días",2406.57142857143
+2020-05-05,"Primera",65,"Spline (df=33)",2495.16108674696
+2020-05-05,"Primera",65,"Cambio en spline",0.0322554439432909
+2020-05-05,"Primera",65,"Índice (día 1 = 100)",12958.4615384615
+2020-05-06,"Primera",66,"Casos",2285
+2020-05-06,"Primera",66,"Media móvil de 7 días",2476.85714285714
+2020-05-06,"Primera",66,"Spline (df=33)",2574.45144498398
+2020-05-06,"Primera",66,"Cambio en spline",0.0317776510134608
+2020-05-06,"Primera",66,"Índice (día 1 = 100)",13336.9230769231
+2020-05-07,"Primera",67,"Casos",2508
+2020-05-07,"Primera",67,"Media móvil de 7 días",2693.57142857143
+2020-05-07,"Primera",67,"Spline (df=33)",2654.94367689841
+2020-05-07,"Primera",67,"Cambio en spline",0.0312657797727203
+2020-05-07,"Primera",67,"Índice (día 1 = 100)",14503.8461538462
+2020-05-08,"Primera",68,"Casos",2909
+2020-05-08,"Primera",68,"Media móvil de 7 días",2793.71428571429
+2020-05-08,"Primera",68,"Spline (df=33)",2736.48192868
+2020-05-08,"Primera",68,"Cambio en spline",0.0307118574646543
+2020-05-08,"Primera",68,"Índice (día 1 = 100)",15043.0769230769
+2020-05-09,"Primera",69,"Casos",2590
+2020-05-09,"Primera",69,"Media móvil de 7 días",2846.42857142857
+2020-05-09,"Primera",69,"Spline (df=33)",2818.91034651848
+2020-05-09,"Primera",69,"Cambio en spline",0.0301220398989617
+2020-05-09,"Primera",69,"Índice (día 1 = 100)",15326.9230769231
+2020-05-10,"Primera",70,"Casos",3497
+2020-05-10,"Primera",70,"Media móvil de 7 días",2926
+2020-05-10,"Primera",70,"Spline (df=33)",2902.07307660361
+2020-05-10,"Primera",70,"Cambio en spline",0.0295017293429834
+2020-05-10,"Primera",70,"Índice (día 1 = 100)",15755.3846153846
+2020-05-11,"Primera",71,"Casos",3214
+2020-05-11,"Primera",71,"Media móvil de 7 días",2978.14285714286
+2020-05-11,"Primera",71,"Spline (df=33)",2985.81426512511
+2020-05-11,"Primera",71,"Cambio en spline",0.0288556443311568
+2020-05-11,"Primera",71,"Índice (día 1 = 100)",16036.1538461538
+2020-05-12,"Primera",72,"Casos",2922
+2020-05-12,"Primera",72,"Media móvil de 7 días",3166.28571428571
+2020-05-12,"Primera",72,"Spline (df=33)",3069.97805827272
+2020-05-12,"Primera",72,"Cambio en spline",0.0281878863433221
+2020-05-12,"Primera",72,"Índice (día 1 = 100)",17049.2307692308
+2020-05-13,"Primera",73,"Casos",2842
+2020-05-13,"Primera",73,"Media móvil de 7 días",3244.57142857143
+2020-05-13,"Primera",73,"Spline (df=33)",3154.40860223619
+2020-05-13,"Primera",73,"Cambio en spline",0.0275020024120219
+2020-05-13,"Primera",73,"Índice (día 1 = 100)",17470.7692307692
+2020-05-14,"Primera",74,"Casos",2873
+2020-05-14,"Primera",74,"Media móvil de 7 días",3182
+2020-05-14,"Primera",74,"Spline (df=33)",3238.95004320526
+2020-05-14,"Primera",74,"Cambio en spline",0.0268010431207722
+2020-05-14,"Primera",74,"Índice (día 1 = 100)",17133.8461538462
+2020-05-15,"Primera",75,"Casos",4226
+2020-05-15,"Primera",75,"Media móvil de 7 días",3352.57142857143
+2020-05-15,"Primera",75,"Spline (df=33)",3323.44652736966
+2020-05-15,"Primera",75,"Cambio en spline",0.0260876157511782
+2020-05-15,"Primera",75,"Índice (día 1 = 100)",18052.3076923077
+2020-05-16,"Primera",76,"Casos",3138
+2020-05-16,"Primera",76,"Media móvil de 7 días",3423
+2020-05-16,"Primera",76,"Spline (df=33)",3407.74220091914
+2020-05-16,"Primera",76,"Cambio en spline",0.0253639325487181
+2020-05-16,"Primera",76,"Índice (día 1 = 100)",18431.5384615385
+2020-05-17,"Primera",77,"Casos",3059
+2020-05-17,"Primera",77,"Media móvil de 7 días",3687.71428571429
+2020-05-17,"Primera",77,"Spline (df=33)",3491.68121004342
+2020-05-17,"Primera",77,"Cambio en spline",0.0246318542234937
+2020-05-17,"Primera",77,"Índice (día 1 = 100)",19856.9230769231
+2020-05-18,"Primera",78,"Casos",4408
+2020-05-18,"Primera",78,"Media móvil de 7 días",3736.28571428571
+2020-05-18,"Primera",78,"Spline (df=33)",3575.10770093227
+2020-05-18,"Primera",78,"Cambio en spline",0.0238929288987995
+2020-05-18,"Primera",78,"Índice (día 1 = 100)",20118.4615384615
+2020-05-19,"Primera",79,"Casos",3415
+2020-05-19,"Primera",79,"Media móvil de 7 días",3707.28571428571
+2020-05-19,"Primera",79,"Spline (df=33)",3657.8658197754
+2020-05-19,"Primera",79,"Cambio en spline",0.0231484267792977
+2020-05-19,"Primera",79,"Índice (día 1 = 100)",19962.3076923077
+2020-05-20,"Primera",80,"Casos",4695
+2020-05-20,"Primera",80,"Media móvil de 7 días",3788.28571428571
+2020-05-20,"Primera",80,"Spline (df=33)",3739.79971276257
+2020-05-20,"Primera",80,"Cambio en spline",0.0223993708419291
+2020-05-20,"Primera",80,"Índice (día 1 = 100)",20398.4615384615
+2020-05-21,"Primera",81,"Casos",3213
+2020-05-21,"Primera",81,"Media móvil de 7 días",3849
+2020-05-21,"Primera",81,"Spline (df=33)",3820.7535260835
+2020-05-21,"Primera",81,"Cambio en spline",0.0216465638640145
+2020-05-21,"Primera",81,"Índice (día 1 = 100)",20725.3846153846
+2020-05-22,"Primera",82,"Casos",4023
+2020-05-22,"Primera",82,"Media móvil de 7 días",3967.28571428571
+2020-05-22,"Primera",82,"Spline (df=33)",3900.59200530508
+2020-05-22,"Primera",82,"Cambio en spline",0.0208960035439445
+2020-05-22,"Primera",82,"Índice (día 1 = 100)",21362.3076923077
+2020-05-23,"Primera",83,"Casos",3705
+2020-05-23,"Primera",83,"Media móvil de 7 días",4028.42857142857
+2020-05-23,"Primera",83,"Spline (df=33)",3979.2622935027
+2020-05-23,"Primera",83,"Cambio en spline",0.0201688072196772
+2020-05-23,"Primera",83,"Índice (día 1 = 100)",21691.5384615385
+2020-05-24,"Primera",84,"Casos",3484
+2020-05-24,"Primera",84,"Media móvil de 7 días",3883
+2020-05-24,"Primera",84,"Spline (df=33)",4056.73213312887
+2020-05-24,"Primera",84,"Cambio en spline",0.0194683923582173
+2020-05-24,"Primera",84,"Índice (día 1 = 100)",20908.4615384615
+2020-05-25,"Primera",85,"Casos",5236
+2020-05-25,"Primera",85,"Media móvil de 7 días",4021.85714285714
+2020-05-25,"Primera",85,"Spline (df=33)",4132.96926663611
+2020-05-25,"Primera",85,"Cambio en spline",0.0187927452455303
+2020-05-25,"Primera",85,"Índice (día 1 = 100)",21656.1538461538
+2020-05-26,"Primera",86,"Casos",3843
+2020-05-26,"Primera",86,"Media móvil de 7 días",4049
+2020-05-26,"Primera",86,"Spline (df=33)",4207.94143647697
+2020-05-26,"Primera",86,"Cambio en spline",0.0181400259726281
+2020-05-26,"Primera",86,"Índice (día 1 = 100)",21802.3076923077
+2020-05-27,"Primera",87,"Casos",3677
+2020-05-27,"Primera",87,"Media móvil de 7 días",4099.71428571429
+2020-05-27,"Primera",87,"Spline (df=33)",4281.61638510394
+2020-05-27,"Primera",87,"Cambio en spline",0.0175085489518261
+2020-05-27,"Primera",87,"Índice (día 1 = 100)",22075.3846153846
+2020-05-28,"Primera",88,"Casos",4185
+2020-05-28,"Primera",88,"Media móvil de 7 días",4141.71428571429
+2020-05-28,"Primera",88,"Spline (df=33)",4353.96185496957
+2020-05-28,"Primera",88,"Cambio en spline",0.016896765931044
+2020-05-28,"Primera",88,"Índice (día 1 = 100)",22301.5384615385
+2020-05-29,"Primera",89,"Casos",4213
+2020-05-29,"Primera",89,"Media móvil de 7 días",4379.57142857143
+2020-05-29,"Primera",89,"Spline (df=33)",4424.94558852636
+2020-05-29,"Primera",89,"Cambio en spline",0.0163032511356919
+2020-05-29,"Primera",89,"Índice (día 1 = 100)",23582.3076923077
+2020-05-30,"Primera",90,"Casos",4060
+2020-05-30,"Primera",90,"Media móvil de 7 días",4448
+2020-05-30,"Primera",90,"Spline (df=33)",4494.53532822685
+2020-05-30,"Primera",90,"Cambio en spline",0.0157266882288744
+2020-05-30,"Primera",90,"Índice (día 1 = 100)",23950.7692307692
+2020-05-31,"Primera",91,"Casos",3778
+2020-05-31,"Primera",91,"Media móvil de 7 días",4534.28571428571
+2020-05-31,"Primera",91,"Spline (df=33)",4562.69881652355
+2020-05-31,"Primera",91,"Cambio en spline",0.0151658588305266
+2020-05-31,"Primera",91,"Índice (día 1 = 100)",24415.3846153846
+2020-06-01,"Primera",92,"Casos",6901
+2020-06-01,"Primera",92,"Media móvil de 7 días",4565.14285714286
+2020-06-01,"Primera",92,"Spline (df=33)",4629.40379586899
+2020-06-01,"Primera",92,"Cambio en spline",0.014619632377196
+2020-06-01,"Primera",92,"Índice (día 1 = 100)",24581.5384615385
+2020-06-02,"Primera",93,"Casos",4322
+2020-06-02,"Primera",93,"Media móvil de 7 días",4743.85714285714
+2020-06-02,"Primera",93,"Spline (df=33)",4694.61800871569
+2020-06-02,"Primera",93,"Cambio en spline",0.0140869571379567
+2020-06-02,"Primera",93,"Índice (día 1 = 100)",25543.8461538462
+2020-06-03,"Primera",94,"Casos",4281
+2020-06-03,"Primera",94,"Media móvil de 7 días",4891.42857142857
+2020-06-03,"Primera",94,"Spline (df=33)",4758.30919751618
+2020-06-03,"Primera",94,"Cambio en spline",0.013566852229988
+2020-06-03,"Primera",94,"Índice (día 1 = 100)",26338.4615384615
+2020-06-04,"Primera",95,"Casos",4401
+2020-06-04,"Primera",95,"Media móvil de 7 días",4967.85714285714
+2020-06-04,"Primera",95,"Spline (df=33)",4820.44510472297
+2020-06-04,"Primera",95,"Cambio en spline",0.0130584005005869
+2020-06-04,"Primera",95,"Índice (día 1 = 100)",26750
+2020-06-05,"Primera",96,"Casos",5464
+2020-06-05,"Primera",96,"Media móvil de 7 días",4809.57142857143
+2020-06-05,"Primera",96,"Spline (df=33)",4880.99347278859
+2020-06-05,"Primera",96,"Cambio en spline",0.0125607421618179
+2020-06-05,"Primera",96,"Índice (día 1 = 100)",25897.6923076923
+2020-06-06,"Primera",97,"Casos",5093
+2020-06-06,"Primera",97,"Media móvil de 7 días",4861.85714285714
+2020-06-06,"Primera",97,"Spline (df=33)",4939.92204416557
+2020-06-06,"Primera",97,"Cambio en spline",0.0120730690801984
+2020-06-06,"Primera",97,"Índice (día 1 = 100)",26179.2307692308
+2020-06-07,"Primera",98,"Casos",4313
+2020-06-07,"Primera",98,"Media móvil de 7 días",5153.28571428571
+2020-06-07,"Primera",98,"Spline (df=33)",4997.25664266908
+2020-06-07,"Primera",98,"Cambio en spline",0.011606377183874
+2020-06-07,"Primera",98,"Índice (día 1 = 100)",27748.4615384615
+2020-06-08,"Primera",99,"Casos",5793
+2020-06-08,"Primera",99,"Media móvil de 7 días",5180.71428571429
+2020-06-08,"Primera",99,"Spline (df=33)",5053.25541756502
+2020-06-08,"Primera",99,"Cambio en spline",0.0112059033386026
+2020-06-08,"Primera",99,"Índice (día 1 = 100)",27896.1538461538
+2020-06-09,"Primera",100,"Casos",4688
+2020-06-09,"Primera",100,"Media móvil de 7 días",5169
+2020-06-09,"Primera",100,"Spline (df=33)",5108.23459948193
+2020-06-09,"Primera",100,"Cambio en spline",0.0108799530943553
+2020-06-09,"Primera",100,"Índice (día 1 = 100)",27833.0769230769
+2020-06-10,"Primera",101,"Casos",6321
+2020-06-10,"Primera",101,"Media móvil de 7 días",5120.57142857143
+2020-06-10,"Primera",101,"Spline (df=33)",5162.51041904834
+2020-06-10,"Primera",101,"Cambio en spline",0.01062516188507
+2020-06-10,"Primera",101,"Índice (día 1 = 100)",27572.3076923077
+2020-06-11,"Primera",102,"Casos",4593
+2020-06-11,"Primera",102,"Media móvil de 7 días",5166
+2020-06-11,"Primera",102,"Spline (df=33)",5216.39910689281
+2020-06-11,"Primera",102,"Cambio en spline",0.0104384656824383
+2020-06-11,"Primera",102,"Índice (día 1 = 100)",27816.9230769231
+2020-06-12,"Primera",103,"Casos",5382
+2020-06-12,"Primera",103,"Media móvil de 7 días",5356.14285714286
+2020-06-12,"Primera",103,"Spline (df=33)",5270.21689364387
+2020-06-12,"Primera",103,"Cambio en spline",0.0103170377971944
+2020-06-12,"Primera",103,"Índice (día 1 = 100)",28840.7692307692
+2020-06-13,"Primera",104,"Casos",4754
+2020-06-13,"Primera",104,"Media móvil de 7 días",5453
+2020-06-13,"Primera",104,"Spline (df=33)",5324.28000993008
+2020-06-13,"Primera",104,"Cambio en spline",0.0102582336509545
+2020-06-13,"Primera",104,"Índice (día 1 = 100)",29362.3076923077
+2020-06-14,"Primera",105,"Casos",4631
+2020-06-14,"Primera",105,"Media móvil de 7 días",5209.42857142857
+2020-06-14,"Primera",105,"Spline (df=33)",5378.90468637997
+2020-06-14,"Primera",105,"Cambio en spline",0.0102595423884575
+2020-06-14,"Primera",105,"Índice (día 1 = 100)",28050.7692307692
+2020-06-15,"Primera",106,"Casos",7124
+2020-06-15,"Primera",106,"Media móvil de 7 días",5359.57142857143
+2020-06-15,"Primera",106,"Spline (df=33)",5434.4071536221
+2020-06-15,"Primera",106,"Cambio en spline",0.0103185444766599
+2020-06-15,"Primera",106,"Índice (día 1 = 100)",28859.2307692308
+2020-06-16,"Primera",107,"Casos",5366
+2020-06-16,"Primera",107,"Media móvil de 7 días",5409.57142857143
+2020-06-16,"Primera",107,"Spline (df=33)",5491.103642285
+2020-06-16,"Primera",107,"Cambio en spline",0.010432874655907
+2020-06-16,"Primera",107,"Índice (día 1 = 100)",29128.4615384615
+2020-06-17,"Primera",108,"Casos",4616
+2020-06-17,"Primera",108,"Media móvil de 7 días",5804
+2020-06-17,"Primera",108,"Spline (df=33)",5549.31038299723
+2020-06-17,"Primera",108,"Cambio en spline",0.0106001897804288
+2020-06-17,"Primera",108,"Índice (día 1 = 100)",31252.3076923077
+2020-06-18,"Primera",109,"Casos",5644
+2020-06-18,"Primera",109,"Media móvil de 7 días",5823
+2020-06-18,"Primera",109,"Spline (df=33)",5609.34360638731
+2020-06-18,"Primera",109,"Cambio en spline",0.0108181412187769
+2020-06-18,"Primera",109,"Índice (día 1 = 100)",31354.6153846154
+2020-06-19,"Primera",110,"Casos",5732
+2020-06-19,"Primera",110,"Media móvil de 7 días",5675.14285714286
+2020-06-19,"Primera",110,"Spline (df=33)",5671.51954308382
+2020-06-19,"Primera",110,"Cambio en spline",0.0110843515853982
+2020-06-19,"Primera",110,"Índice (día 1 = 100)",30558.4615384615
+2020-06-20,"Primera",111,"Casos",7515
+2020-06-20,"Primera",111,"Media móvil de 7 días",5659.85714285714
+2020-06-20,"Primera",111,"Spline (df=33)",5736.15442371527
+2020-06-20,"Primera",111,"Cambio en spline",0.0113963956467851
+2020-06-20,"Primera",111,"Índice (día 1 = 100)",30476.1538461538
+2020-06-21,"Primera",112,"Casos",4764
+2020-06-21,"Primera",112,"Media móvil de 7 días",5745.71428571429
+2020-06-21,"Primera",112,"Spline (df=33)",5803.56447891023
+2020-06-21,"Primera",112,"Cambio en spline",0.0117517852929935
+2020-06-21,"Primera",112,"Índice (día 1 = 100)",30938.4615384615
+2020-06-22,"Primera",113,"Casos",6089
+2020-06-22,"Primera",113,"Media móvil de 7 días",5833.42857142857
+2020-06-22,"Primera",113,"Spline (df=33)",5874.06593929723
+2020-06-22,"Primera",113,"Cambio en spline",0.0121479584905447
+2020-06-22,"Primera",113,"Índice (día 1 = 100)",31410.7692307692
+2020-06-23,"Primera",114,"Casos",5259
+2020-06-23,"Primera",114,"Media móvil de 7 días",5983.85714285714
+2020-06-23,"Primera",114,"Spline (df=33)",5947.80346883264
+2020-06-23,"Primera",114,"Cambio en spline",0.0125530646569873
+2020-06-23,"Primera",114,"Índice (día 1 = 100)",32220.7692307692
+2020-06-24,"Primera",115,"Casos",5217
+2020-06-24,"Primera",115,"Media móvil de 7 días",5666.85714285714
+2020-06-24,"Primera",115,"Spline (df=33)",6024.23546478405
+2020-06-24,"Primera",115,"Cambio en spline",0.0128504575431807
+2020-06-24,"Primera",115,"Índice (día 1 = 100)",30513.8461538462
+2020-06-25,"Primera",116,"Casos",6258
+2020-06-25,"Primera",116,"Media móvil de 7 días",5894
+2020-06-25,"Primera",116,"Spline (df=33)",6102.64875774691
+2020-06-25,"Primera",116,"Cambio en spline",0.0130163061223686
+2020-06-25,"Primera",116,"Índice (día 1 = 100)",31736.9230769231
+2020-06-26,"Primera",117,"Casos",6785
+2020-06-26,"Primera",117,"Media móvil de 7 días",5983
+2020-06-26,"Primera",117,"Spline (df=33)",6182.33017831664
+2020-06-26,"Primera",117,"Cambio en spline",0.0130568583794983
+2020-06-26,"Primera",117,"Índice (día 1 = 100)",32216.1538461538
+2020-06-27,"Primera",118,"Casos",5296
+2020-06-27,"Primera",118,"Media móvil de 7 días",6191.14285714286
+2020-06-27,"Primera",118,"Spline (df=33)",6262.56655708865
+2020-06-27,"Primera",118,"Cambio en spline",0.0129783393086036
+2020-06-27,"Primera",118,"Índice (día 1 = 100)",33336.9230769231
+2020-06-28,"Primera",119,"Casos",6354
+2020-06-28,"Primera",119,"Media móvil de 7 días",6681.85714285714
+2020-06-28,"Primera",119,"Spline (df=33)",6342.64472465837
+2020-06-28,"Primera",119,"Cambio en spline",0.0127867970487412
+2020-06-28,"Primera",119,"Índice (día 1 = 100)",35979.2307692308
+2020-06-29,"Primera",120,"Casos",6712
+2020-06-29,"Primera",120,"Media móvil de 7 días",6691.57142857143
+2020-06-29,"Primera",120,"Spline (df=33)",6421.85151162124
+2020-06-29,"Primera",120,"Cambio en spline",0.0124879747173813
+2020-06-29,"Primera",120,"Índice (día 1 = 100)",36031.5384615385
+2020-06-30,"Primera",121,"Casos",6716
+2020-06-30,"Primera",121,"Media móvil de 7 días",6689.28571428571
+2020-06-30,"Primera",121,"Spline (df=33)",6499.47374857267
+2020-06-30,"Primera",121,"Cambio en spline",0.012087205194789
+2020-06-30,"Primera",121,"Índice (día 1 = 100)",36019.2307692308
+2020-07-01,"Primera",122,"Casos",8652
+2020-07-01,"Primera",122,"Media móvil de 7 días",6774.14285714286
+2020-07-01,"Primera",122,"Spline (df=33)",6574.79826610809
+2020-07-01,"Primera",122,"Cambio en spline",0.0115893256053174
+2020-07-01,"Primera",122,"Índice (día 1 = 100)",36476.1538461538
+2020-07-02,"Primera",123,"Casos",6326
+2020-07-02,"Primera",123,"Media móvil de 7 días",6794.14285714286
+2020-07-02,"Primera",123,"Spline (df=33)",6647.11189482293
+2020-07-02,"Primera",123,"Cambio en spline",0.0109986079858297
+2020-07-02,"Primera",123,"Índice (día 1 = 100)",36583.8461538461
+2020-07-03,"Primera",124,"Casos",6769
+2020-07-03,"Primera",124,"Media móvil de 7 días",6864
+2020-07-03,"Primera",124,"Spline (df=33)",6715.70146531261
+2020-07-03,"Primera",124,"Cambio en spline",0.0103187025545782
+2020-07-03,"Primera",124,"Índice (día 1 = 100)",36960
+2020-07-04,"Primera",125,"Casos",5890
+2020-07-04,"Primera",125,"Media móvil de 7 días",6845.14285714286
+2020-07-04,"Primera",125,"Spline (df=33)",6779.85380817254
+2020-07-04,"Primera",125,"Cambio en spline",0.00955259002969293
+2020-07-04,"Primera",125,"Índice (día 1 = 100)",36858.4615384615
+2020-07-05,"Primera",126,"Casos",6494
+2020-07-05,"Primera",126,"Media móvil de 7 días",6468.85714285714
+2020-07-05,"Primera",126,"Spline (df=33)",6838.85575399818
+2020-07-05,"Primera",126,"Cambio en spline",0.00870253953772708
+2020-07-05,"Primera",126,"Índice (día 1 = 100)",34832.3076923077
+2020-07-06,"Primera",127,"Casos",7201
+2020-07-06,"Primera",127,"Media móvil de 7 días",6447.42857142857
+2020-07-06,"Primera",127,"Spline (df=33)",6891.99413338492
+2020-07-06,"Primera",127,"Cambio en spline",0.00777006875100111
+2020-07-06,"Primera",127,"Índice (día 1 = 100)",34716.9230769231
+2020-07-07,"Primera",128,"Casos",6584
+2020-07-07,"Primera",128,"Media móvil de 7 días",6839.28571428571
+2020-07-07,"Primera",128,"Spline (df=33)",6938.55577692821
+2020-07-07,"Primera",128,"Cambio en spline",0.0067559029566989
+2020-07-07,"Primera",128,"Índice (día 1 = 100)",36826.9230769231
+2020-07-08,"Primera",129,"Casos",6018
+2020-07-08,"Primera",129,"Media móvil de 7 días",6865
+2020-07-08,"Primera",129,"Spline (df=33)",6977.82751522346
+2020-07-08,"Primera",129,"Cambio en spline",0.00565992975452272
+2020-07-08,"Primera",129,"Índice (día 1 = 100)",36965.3846153846
+2020-07-09,"Primera",130,"Casos",6176
+2020-07-09,"Primera",130,"Media móvil de 7 días",6845
+2020-07-09,"Primera",130,"Spline (df=33)",7009.23947439247
+2020-07-09,"Primera",130,"Cambio en spline",0.004501681805759
+2020-07-09,"Primera",130,"Índice (día 1 = 100)",36857.6923076923
+2020-07-10,"Primera",131,"Casos",9512
+2020-07-10,"Primera",131,"Media móvil de 7 días",6915.71428571429
+2020-07-10,"Primera",131,"Spline (df=33)",7032.79496266248
+2020-07-10,"Primera",131,"Cambio en spline",0.00336063396836018
+2020-07-10,"Primera",131,"Índice (día 1 = 100)",37238.4615384615
+2020-07-11,"Primera",132,"Casos",6070
+2020-07-11,"Primera",132,"Media móvil de 7 días",6896.85714285714
+2020-07-11,"Primera",132,"Spline (df=33)",7048.64058378712
+2020-07-11,"Primera",132,"Cambio en spline",0.00225310437866688
+2020-07-11,"Primera",132,"Índice (día 1 = 100)",37136.9230769231
+2020-07-12,"Primera",133,"Casos",6354
+2020-07-12,"Primera",133,"Media móvil de 7 días",7196
+2020-07-12,"Primera",133,"Spline (df=33)",7056.92294152
+2020-07-12,"Primera",133,"Cambio en spline",0.00117502909028066
+2020-07-12,"Primera",133,"Índice (día 1 = 100)",38747.6923076923
+2020-07-13,"Primera",134,"Casos",7696
+2020-07-13,"Primera",134,"Media móvil de 7 días",7239.57142857143
+2020-07-13,"Primera",134,"Spline (df=33)",7057.78863961475
+2020-07-13,"Primera",134,"Cambio en spline",0.000122673593280887
+2020-07-13,"Primera",134,"Índice (día 1 = 100)",38982.3076923077
+2020-07-14,"Primera",135,"Casos",6452
+2020-07-14,"Primera",135,"Media móvil de 7 días",6913.57142857143
+2020-07-14,"Primera",135,"Spline (df=33)",7051.38428182497
+2020-07-14,"Primera",135,"Cambio en spline",-0.000907417056077887
+2020-07-14,"Primera",135,"Índice (día 1 = 100)",37226.9230769231
+2020-07-15,"Primera",136,"Casos",8112
+2020-07-15,"Primera",136,"Media móvil de 7 días",7076.85714285714
+2020-07-15,"Primera",136,"Spline (df=33)",7037.85647190428
+2020-07-15,"Primera",136,"Cambio en spline",-0.00191846159279027
+2020-07-15,"Primera",136,"Índice (día 1 = 100)",38106.1538461538
+2020-07-16,"Primera",137,"Casos",6481
+2020-07-16,"Primera",137,"Media móvil de 7 días",7092.71428571429
+2020-07-16,"Primera",137,"Spline (df=33)",7017.35181360631
+2020-07-16,"Primera",137,"Cambio en spline",-0.0029134806002121
+2020-07-16,"Primera",137,"Índice (día 1 = 100)",38191.5384615385
+2020-07-17,"Primera",138,"Casos",7230
+2020-07-17,"Primera",138,"Media móvil de 7 días",7405.28571428571
+2020-07-17,"Primera",138,"Spline (df=33)",6990.01691068467
+2020-07-17,"Primera",138,"Cambio en spline",-0.00389533026812771
+2020-07-17,"Primera",138,"Índice (día 1 = 100)",39874.6153846154
+2020-07-18,"Primera",139,"Casos",7213
+2020-07-18,"Primera",139,"Media móvil de 7 días",7347.57142857143
+2020-07-18,"Primera",139,"Spline (df=33)",6955.99836689297
+2020-07-18,"Primera",139,"Cambio en spline",-0.0048667326883995
+2020-07-18,"Primera",139,"Índice (día 1 = 100)",39563.8461538461
+2020-07-19,"Primera",140,"Casos",6465
+2020-07-19,"Primera",140,"Media móvil de 7 días",7037.71428571429
+2020-07-19,"Primera",140,"Spline (df=33)",6915.44278598485
+2020-07-19,"Primera",140,"Cambio en spline",-0.00583030339701515
+2020-07-19,"Primera",140,"Índice (día 1 = 100)",37895.3846153846
+2020-07-20,"Primera",141,"Casos",9884
+2020-07-20,"Primera",141,"Media móvil de 7 días",6951.71428571429
+2020-07-20,"Primera",141,"Spline (df=33)",6868.4967717139
+2020-07-20,"Primera",141,"Cambio en spline",-0.00678857677285521
+2020-07-20,"Primera",141,"Índice (día 1 = 100)",37432.3076923077
+2020-07-21,"Primera",142,"Casos",6048
+2020-07-21,"Primera",142,"Media móvil de 7 días",6832.14285714286
+2020-07-21,"Primera",142,"Spline (df=33)",6815.30692783375
+2020-07-21,"Primera",142,"Cambio en spline",-0.0077440298289423
+2020-07-21,"Primera",142,"Índice (día 1 = 100)",36788.4615384615
+2020-07-22,"Primera",143,"Casos",5943
+2020-07-22,"Primera",143,"Media móvil de 7 días",6869.85714285714
+2020-07-22,"Primera",143,"Spline (df=33)",6756.01985809803
+2020-07-22,"Primera",143,"Cambio en spline",-0.00869910487722846
+2020-07-22,"Primera",143,"Índice (día 1 = 100)",36991.5384615385
+2020-07-23,"Primera",144,"Casos",5879
+2020-07-23,"Primera",144,"Media móvil de 7 días",6759.57142857143
+2020-07-23,"Primera",144,"Spline (df=33)",6690.78216626033
+2020-07-23,"Primera",144,"Cambio en spline",-0.00965623151025772
+2020-07-23,"Primera",144,"Índice (día 1 = 100)",36397.6923076923
+2020-07-24,"Primera",145,"Casos",6393
+2020-07-24,"Primera",145,"Media móvil de 7 días",6396
+2020-07-24,"Primera",145,"Spline (df=33)",6619.74045607429
+2020-07-24,"Primera",145,"Cambio en spline",-0.0106178483203778
+2020-07-24,"Primera",145,"Índice (día 1 = 100)",34440
+2020-07-25,"Primera",146,"Casos",7477
+2020-07-25,"Primera",146,"Media móvil de 7 días",6390
+2020-07-25,"Primera",146,"Spline (df=33)",6543.19324475685
+2020-07-25,"Primera",146,"Cambio en spline",-0.011563476215628
+2020-07-25,"Primera",146,"Índice (día 1 = 100)",34407.6923076923
+2020-07-26,"Primera",147,"Casos",5693
+2020-07-26,"Primera",147,"Media móvil de 7 días",6280.57142857143
+2020-07-26,"Primera",147,"Spline (df=33)",6462.04670337824
+2020-07-26,"Primera",147,"Cambio en spline",-0.0124016727526164
+2020-07-26,"Primera",147,"Índice (día 1 = 100)",33818.4615384615
+2020-07-27,"Primera",148,"Casos",7339
+2020-07-27,"Primera",148,"Media móvil de 7 días",6199
+2020-07-27,"Primera",148,"Spline (df=33)",6377.35891647205
+2020-07-27,"Primera",148,"Cambio en spline",-0.0131054123861287
+2020-07-27,"Primera",148,"Índice (día 1 = 100)",33379.2307692308
+2020-07-28,"Primera",149,"Casos",6006
+2020-07-28,"Primera",149,"Media móvil de 7 días",6084.71428571429
+2020-07-28,"Primera",149,"Spline (df=33)",6290.18796857183
+2020-07-28,"Primera",149,"Cambio en spline",-0.0136688163614347
+2020-07-28,"Primera",149,"Índice (día 1 = 100)",32763.8461538461
+2020-07-29,"Primera",150,"Casos",5177
+2020-07-29,"Primera",150,"Media móvil de 7 días",6200.42857142857
+2020-07-29,"Primera",150,"Spline (df=33)",6201.59194421117
+2020-07-29,"Primera",150,"Cambio en spline",-0.014084797593224
+2020-07-29,"Primera",150,"Índice (día 1 = 100)",33386.9230769231
+2020-07-30,"Primera",151,"Casos",5308
+2020-07-30,"Primera",151,"Media móvil de 7 días",6140.42857142857
+2020-07-30,"Primera",151,"Spline (df=33)",6112.62892792362
+2020-07-30,"Primera",151,"Cambio en spline",-0.0143451902491889
+2020-07-30,"Primera",151,"Índice (día 1 = 100)",33063.8461538461
+2020-07-31,"Primera",152,"Casos",5593
+2020-07-31,"Primera",152,"Media móvil de 7 días",5997.42857142857
+2020-07-31,"Primera",152,"Spline (df=33)",6024.35700424276
+2020-07-31,"Primera",152,"Cambio en spline",-0.0144409099131826
+2020-07-31,"Primera",152,"Índice (día 1 = 100)",32293.8461538462
+2020-08-01,"Primera",153,"Casos",8287
+2020-08-01,"Primera",153,"Media móvil de 7 días",5842.28571428571
+2020-08-01,"Primera",153,"Spline (df=33)",5937.83425770216
+2020-08-01,"Primera",153,"Cambio en spline",-0.0143621545800924
+2020-08-01,"Primera",153,"Índice (día 1 = 100)",31458.4615384615
+2020-08-02,"Primera",154,"Casos",5273
+2020-08-02,"Primera",154,"Media móvil de 7 días",5912.14285714286
+2020-08-02,"Primera",154,"Spline (df=33)",5854.11877283539
+2020-08-02,"Primera",154,"Cambio en spline",-0.0140986563843844
+2020-08-02,"Primera",154,"Índice (día 1 = 100)",31834.6153846154
+2020-08-03,"Primera",155,"Casos",6338
+2020-08-03,"Primera",155,"Media móvil de 7 días",5853.28571428571
+2020-08-03,"Primera",155,"Spline (df=33)",5774.26863417602
+2020-08-03,"Primera",155,"Cambio en spline",-0.0136399929276965
+2020-08-03,"Primera",155,"Índice (día 1 = 100)",31517.6923076923
+2020-08-04,"Primera",156,"Casos",4920
+2020-08-04,"Primera",156,"Media móvil de 7 días",5824.42857142857
+2020-08-04,"Primera",156,"Spline (df=33)",5699.34192625762
+2020-08-04,"Primera",156,"Cambio en spline",-0.0129759650382274
+2020-08-04,"Primera",156,"Índice (día 1 = 100)",31362.3076923077
+2020-08-05,"Primera",157,"Casos",5666
+2020-08-05,"Primera",157,"Media móvil de 7 días",5440.71428571429
+2020-08-05,"Primera",157,"Spline (df=33)",5630.39673361376
+2020-08-05,"Primera",157,"Cambio en spline",-0.0120970444545928
+2020-08-05,"Primera",157,"Índice (día 1 = 100)",29296.1538461538
+2020-08-06,"Primera",158,"Casos",4896
+2020-08-06,"Primera",158,"Media móvil de 7 días",5352
+2020-08-06,"Primera",158,"Spline (df=33)",5568.49114077801
+2020-08-06,"Primera",158,"Cambio en spline",-0.0109948900165726
+2020-08-06,"Primera",158,"Índice (día 1 = 100)",28818.4615384615
+2020-08-07,"Primera",159,"Casos",5391
+2020-08-07,"Primera",159,"Media móvil de 7 días",5571.14285714286
+2020-08-07,"Primera",159,"Spline (df=33)",5514.68323228393
+2020-08-07,"Primera",159,"Cambio en spline",-0.00966292432433622
+2020-08-07,"Primera",159,"Índice (día 1 = 100)",29998.4615384615
+2020-08-08,"Primera",160,"Casos",5601
+2020-08-08,"Primera",160,"Media móvil de 7 días",5568.28571428571
+2020-08-08,"Primera",160,"Spline (df=33)",5470.03109266511
+2020-08-08,"Primera",160,"Cambio en spline",-0.00809695457346033
+2020-08-08,"Primera",160,"Índice (día 1 = 100)",29983.0769230769
+2020-08-09,"Primera",161,"Casos",4652
+2020-08-09,"Primera",161,"Media móvil de 7 días",5461
+2020-08-09,"Primera",161,"Spline (df=33)",5435.5928064551
+2020-08-09,"Primera",161,"Cambio en spline",-0.00629581178362723
+2020-08-09,"Primera",161,"Índice (día 1 = 100)",29405.3846153846
+2020-08-10,"Primera",162,"Casos",7872
+2020-08-10,"Primera",162,"Media móvil de 7 días",5447.71428571429
+2020-08-10,"Primera",162,"Spline (df=33)",5412.0301376404
+2020-08-10,"Primera",162,"Cambio en spline",-0.00433488483293154
+2020-08-10,"Primera",162,"Índice (día 1 = 100)",29333.8461538461
+2020-08-11,"Primera",163,"Casos",4900
+2020-08-11,"Primera",163,"Media móvil de 7 días",5463.57142857143
+2020-08-11,"Primera",163,"Spline (df=33)",5398.41956801922
+2020-08-11,"Primera",163,"Cambio en spline",-0.00251487321301498
+2020-08-11,"Primera",163,"Índice (día 1 = 100)",29419.2307692308
+2020-08-12,"Primera",164,"Casos",4915
+2020-08-12,"Primera",164,"Media móvil de 7 días",5517.57142857143
+2020-08-12,"Primera",164,"Spline (df=33)",5393.44125884268
+2020-08-12,"Primera",164,"Cambio en spline",-0.000922179003283498
+2020-08-12,"Primera",164,"Índice (día 1 = 100)",29710
+2020-08-13,"Primera",165,"Casos",4803
+2020-08-13,"Primera",165,"Media móvil de 7 días",5520.71428571429
+2020-08-13,"Primera",165,"Spline (df=33)",5395.7753713619
+2020-08-13,"Primera",165,"Cambio en spline",0.000432768692046703
+2020-08-13,"Primera",165,"Índice (día 1 = 100)",29726.9230769231
+2020-08-14,"Primera",166,"Casos",5502
+2020-08-14,"Primera",166,"Media móvil de 7 días",5224.85714285714
+2020-08-14,"Primera",166,"Spline (df=33)",5404.10206682801
+2020-08-14,"Primera",166,"Cambio en spline",0.00154318793741889
+2020-08-14,"Primera",166,"Índice (día 1 = 100)",28133.8461538462
+2020-08-15,"Primera",167,"Casos",5979
+2020-08-15,"Primera",167,"Media móvil de 7 días",5353.28571428571
+2020-08-15,"Primera",167,"Spline (df=33)",5417.10150649213
+2020-08-15,"Primera",167,"Cambio en spline",0.00240547634063296
+2020-08-15,"Primera",167,"Índice (día 1 = 100)",28825.3846153846
+2020-08-16,"Primera",168,"Casos",4674
+2020-08-16,"Primera",168,"Media móvil de 7 días",5333.71428571429
+2020-08-16,"Primera",168,"Spline (df=33)",5433.45385160539
+2020-08-16,"Primera",168,"Cambio en spline",0.00301865215072327
+2020-08-16,"Primera",168,"Índice (día 1 = 100)",28720
+2020-08-17,"Primera",169,"Casos",5801
+2020-08-17,"Primera",169,"Media móvil de 7 días",5722
+2020-08-17,"Primera",169,"Spline (df=33)",5451.83926341891
+2020-08-17,"Primera",169,"Cambio en spline",0.00338374306944528
+2020-08-17,"Primera",169,"Índice (día 1 = 100)",30810.7692307692
+2020-08-18,"Primera",170,"Casos",5799
+2020-08-18,"Primera",170,"Media móvil de 7 días",5682.14285714286
+2020-08-18,"Primera",170,"Spline (df=33)",5470.93790318382
+2020-08-18,"Primera",170,"Cambio en spline",0.00350315532834188
+2020-08-18,"Primera",170,"Índice (día 1 = 100)",30596.1538461538
+2020-08-19,"Primera",171,"Casos",4778
+2020-08-19,"Primera",171,"Media móvil de 7 días",5531.42857142857
+2020-08-19,"Primera",171,"Spline (df=33)",5489.42993215124
+2020-08-19,"Primera",171,"Cambio en spline",0.0033800473144942
+2020-08-19,"Primera",171,"Índice (día 1 = 100)",29784.6153846154
+2020-08-20,"Primera",172,"Casos",7521
+2020-08-20,"Primera",172,"Media móvil de 7 días",5518.85714285714
+2020-08-20,"Primera",172,"Spline (df=33)",5505.9955115723
+2020-08-20,"Primera",172,"Cambio en spline",0.00301772308341839
+2020-08-20,"Primera",172,"Índice (día 1 = 100)",29716.9230769231
+2020-08-21,"Primera",173,"Casos",5223
+2020-08-21,"Primera",173,"Media móvil de 7 días",5546.57142857143
+2020-08-21,"Primera",173,"Spline (df=33)",5519.31480269812
+2020-08-21,"Primera",173,"Cambio en spline",0.0024190523035891
+2020-08-21,"Primera",173,"Índice (día 1 = 100)",29866.1538461538
+2020-08-22,"Primera",174,"Casos",4924
+2020-08-22,"Primera",174,"Media móvil de 7 días",5555.85714285714
+2020-08-22,"Primera",174,"Spline (df=33)",5528.06796677983
+2020-08-22,"Primera",174,"Cambio en spline",0.00158591499028643
+2020-08-22,"Primera",174,"Índice (día 1 = 100)",29916.1538461538
+2020-08-23,"Primera",175,"Casos",4586
+2020-08-23,"Primera",175,"Media móvil de 7 días",5575.14285714286
+2020-08-23,"Primera",175,"Spline (df=33)",5530.93516506855
+2020-08-23,"Primera",175,"Cambio en spline",0.0005186619097216
+2020-08-23,"Primera",175,"Índice (día 1 = 100)",30020
+2020-08-24,"Primera",176,"Casos",5995
+2020-08-24,"Primera",176,"Media móvil de 7 días",5211
+2020-08-24,"Primera",176,"Spline (df=33)",5526.59655881541
+2020-08-24,"Primera",176,"Cambio en spline",-0.000784425440482822
+2020-08-24,"Primera",176,"Índice (día 1 = 100)",28059.2307692308
+2020-08-25,"Primera",177,"Casos",5864
+2020-08-25,"Primera",177,"Media móvil de 7 días",5358.85714285714
+2020-08-25,"Primera",177,"Spline (df=33)",5513.73230927153
+2020-08-25,"Primera",177,"Cambio en spline",-0.00232769832336689
+2020-08-25,"Primera",177,"Índice (día 1 = 100)",28855.3846153846
+2020-08-26,"Primera",178,"Casos",4913
+2020-08-26,"Primera",178,"Media móvil de 7 días",5293.28571428571
+2020-08-26,"Primera",178,"Spline (df=33)",5491.40527769713
+2020-08-26,"Primera",178,"Cambio en spline",-0.00404934993613199
+2020-08-26,"Primera",178,"Índice (día 1 = 100)",28502.3076923077
+2020-08-27,"Primera",179,"Casos",4972
+2020-08-27,"Primera",179,"Media móvil de 7 días",5341.85714285714
+2020-08-27,"Primera",179,"Spline (df=33)",5460.20912538881
+2020-08-27,"Primera",179,"Cambio en spline",-0.00568090511094071
+2020-08-27,"Primera",179,"Índice (día 1 = 100)",28763.8461538462
+2020-08-28,"Primera",180,"Casos",6258
+2020-08-28,"Primera",180,"Media móvil de 7 días",5301.57142857143
+2020-08-28,"Primera",180,"Spline (df=33)",5421.12021365228
+2020-08-28,"Primera",180,"Cambio en spline",-0.00715886714938858
+2020-08-28,"Primera",180,"Índice (día 1 = 100)",28546.9230769231
+2020-08-29,"Primera",181,"Casos",4465
+2020-08-29,"Primera",181,"Media móvil de 7 días",5494.57142857143
+2020-08-29,"Primera",181,"Spline (df=33)",5375.11490379321
+2020-08-29,"Primera",181,"Cambio en spline",-0.0084863105863636
+2020-08-29,"Primera",181,"Índice (día 1 = 100)",29586.1538461538
+2020-08-30,"Primera",182,"Casos",4926
+2020-08-30,"Primera",182,"Media móvil de 7 días",5490.14285714286
+2020-08-30,"Primera",182,"Spline (df=33)",5323.16955711731
+2020-08-30,"Primera",182,"Cambio en spline",-0.00966404395173767
+2020-08-30,"Primera",182,"Índice (día 1 = 100)",29562.3076923077
+2020-08-31,"Primera",183,"Casos",5713
+2020-08-31,"Primera",183,"Media móvil de 7 días",5451.42857142857
+2020-08-31,"Primera",183,"Spline (df=33)",5266.26053493027
+2020-08-31,"Primera",183,"Cambio en spline",-0.010690815232618
+2020-08-31,"Primera",183,"Índice (día 1 = 100)",29353.8461538462
+2020-09-01,"Primera",184,"Casos",7215
+2020-09-01,"Primera",184,"Media móvil de 7 días",5243.85714285714
+2020-09-01,"Primera",184,"Spline (df=33)",5205.36419853779
+2020-09-01,"Primera",184,"Cambio en spline",-0.0115634872199287
+2020-09-01,"Primera",184,"Índice (día 1 = 100)",28236.1538461538
+2020-09-02,"Primera",185,"Casos",4882
+2020-09-02,"Primera",185,"Media móvil de 7 días",5345.85714285714
+2020-09-02,"Primera",185,"Spline (df=33)",5141.45690924556
+2020-09-02,"Primera",185,"Cambio en spline",-0.0122771984542754
+2020-09-02,"Primera",185,"Índice (día 1 = 100)",28785.3846153846
+2020-09-03,"Primera",186,"Casos",4701
+2020-09-03,"Primera",186,"Media móvil de 7 días",5239.71428571429
+2020-09-03,"Primera",186,"Spline (df=33)",5075.51502835928
+2020-09-03,"Primera",186,"Cambio en spline",-0.0128255243698925
+2020-09-03,"Primera",186,"Índice (día 1 = 100)",28213.8461538461
+2020-09-04,"Primera",187,"Casos",4805
+2020-09-04,"Primera",187,"Media móvil de 7 días",5163.85714285714
+2020-09-04,"Primera",187,"Spline (df=33)",5008.51491718464
+2020-09-04,"Primera",187,"Cambio en spline",-0.013200652702293
+2020-09-04,"Primera",187,"Índice (día 1 = 100)",27805.3846153846
+2020-09-05,"Primera",188,"Casos",5179
+2020-09-05,"Primera",188,"Media móvil de 7 días",4793.71428571429
+2020-09-05,"Primera",188,"Spline (df=33)",4941.43293702734
+2020-09-05,"Primera",188,"Cambio en spline",-0.0133935869746816
+2020-09-05,"Primera",188,"Índice (día 1 = 100)",25812.3076923077
+2020-09-06,"Primera",189,"Casos",4183
+2020-09-06,"Primera",189,"Media móvil de 7 días",4715.42857142857
+2020-09-06,"Primera",189,"Spline (df=33)",4875.24544919307
+2020-09-06,"Primera",189,"Cambio en spline",-0.0133943916021429
+2020-09-06,"Primera",189,"Índice (día 1 = 100)",25390.7692307692
+2020-09-07,"Primera",190,"Casos",5182
+2020-09-07,"Primera",190,"Media móvil de 7 días",4832.28571428571
+2020-09-07,"Primera",190,"Spline (df=33)",4810.92881498753
+2020-09-07,"Primera",190,"Cambio en spline",-0.0131924915116199
+2020-09-07,"Primera",190,"Índice (día 1 = 100)",26020
+2020-09-08,"Primera",191,"Casos",4624
+2020-09-08,"Primera",191,"Media móvil de 7 días",4754
+2020-09-08,"Primera",191,"Spline (df=33)",4749.4593957164
+2020-09-08,"Primera",191,"Cambio en spline",-0.012777037789382
+2020-09-08,"Primera",191,"Índice (día 1 = 100)",25598.4615384615
+2020-09-09,"Primera",192,"Casos",4334
+2020-09-09,"Primera",192,"Media móvil de 7 días",4534.85714285714
+2020-09-09,"Primera",192,"Spline (df=33)",4691.8135526854
+2020-09-09,"Primera",192,"Cambio en spline",-0.0121373483228422
+2020-09-09,"Primera",192,"Índice (día 1 = 100)",24418.4615384615
+2020-09-10,"Primera",193,"Casos",5519
+2020-09-10,"Primera",193,"Media móvil de 7 días",4430.42857142857
+2020-09-10,"Primera",193,"Spline (df=33)",4638.9676472002
+2020-09-10,"Primera",193,"Cambio en spline",-0.0112634282866901
+2020-09-10,"Primera",193,"Índice (día 1 = 100)",23856.1538461538
+2020-09-11,"Primera",194,"Casos",4257
+2020-09-11,"Primera",194,"Media móvil de 7 días",4373
+2020-09-11,"Primera",194,"Spline (df=33)",4591.73929254354
+2020-09-11,"Primera",194,"Cambio en spline",-0.0101807898326627
+2020-09-11,"Primera",194,"Índice (día 1 = 100)",23546.9230769231
+2020-09-12,"Primera",195,"Casos",3645
+2020-09-12,"Primera",195,"Media móvil de 7 días",4433.42857142857
+2020-09-12,"Primera",195,"Spline (df=33)",4550.3111099062
+2020-09-12,"Primera",195,"Cambio en spline",-0.00902232901258413
+2020-09-12,"Primera",195,"Índice (día 1 = 100)",23872.3076923077
+2020-09-13,"Primera",196,"Casos",3452
+2020-09-13,"Primera",196,"Media móvil de 7 días",4335.71428571429
+2020-09-13,"Primera",196,"Spline (df=33)",4514.706972456
+2020-09-13,"Primera",196,"Cambio en spline",-0.00782455014398555
+2020-09-13,"Primera",196,"Índice (día 1 = 100)",23346.1538461538
+2020-09-14,"Primera",197,"Casos",4780
+2020-09-14,"Primera",197,"Media móvil de 7 días",4183
+2020-09-14,"Primera",197,"Spline (df=33)",4484.95075336077
+2020-09-14,"Primera",197,"Cambio en spline",-0.0065909524752704
+2020-09-14,"Primera",197,"Índice (día 1 = 100)",22523.8461538462
+2020-09-15,"Primera",198,"Casos",5047
+2020-09-15,"Primera",198,"Media móvil de 7 días",4292.57142857143
+2020-09-15,"Primera",198,"Spline (df=33)",4461.06632578833
+2020-09-15,"Primera",198,"Cambio en spline",-0.00532546038650462
+2020-09-15,"Primera",198,"Índice (día 1 = 100)",23113.8461538462
+2020-09-16,"Primera",199,"Casos",3650
+2020-09-16,"Primera",199,"Media móvil de 7 días",4449.57142857143
+2020-09-16,"Primera",199,"Spline (df=33)",4443.07756290648
+2020-09-16,"Primera",199,"Cambio en spline",-0.00403239081603777
+2020-09-16,"Primera",199,"Índice (día 1 = 100)",23959.2307692308
+2020-09-17,"Primera",200,"Casos",4450
+2020-09-17,"Primera",200,"Media móvil de 7 días",4794.42857142857
+2020-09-17,"Primera",200,"Spline (df=33)",4431.00833788306
+2020-09-17,"Primera",200,"Cambio en spline",-0.0027164110579981
+2020-09-17,"Primera",200,"Índice (día 1 = 100)",25816.1538461538
+2020-09-18,"Primera",201,"Casos",5024
+2020-09-18,"Primera",201,"Media móvil de 7 días",4824.57142857143
+2020-09-18,"Primera",201,"Spline (df=33)",4424.88252388588
+2020-09-18,"Primera",201,"Cambio en spline",-0.00138248758071785
+2020-09-18,"Primera",201,"Índice (día 1 = 100)",25978.4615384615
+2020-09-19,"Primera",202,"Casos",4744
+2020-09-19,"Primera",202,"Media móvil de 7 días",4700.14285714286
+2020-09-19,"Primera",202,"Spline (df=33)",4424.72399408276
+2020-09-19,"Primera",202,"Cambio en spline",-0.0000358268953504699
+2020-09-19,"Primera",202,"Índice (día 1 = 100)",25308.4615384615
+2020-09-20,"Segunda",1,"Casos",5866
+2020-09-20,"Segunda",1,"Media móvil de 7 días",4758.85714285714
+2020-09-20,"Segunda",1,"Spline (df=33)",4430.55662164152
+2020-09-20,"Segunda",1,"Cambio en spline",0.00131819014396351
+2020-09-20,"Segunda",1,"Índice (día 1 = 100)",100
+2020-09-21,"Segunda",2,"Casos",4991
+2020-09-21,"Segunda",2,"Media móvil de 7 días",4698.42857142857
+2020-09-21,"Segunda",2,"Spline (df=33)",4442.40427972998
+2020-09-21,"Segunda",2,"Cambio en spline",0.00267407892511449
+2020-09-21,"Segunda",2,"Índice (día 1 = 100)",98.7301873198847
+2020-09-22,"Segunda",3,"Casos",4176
+2020-09-22,"Segunda",3,"Media móvil de 7 días",4724.28571428571
+2020-09-22,"Segunda",3,"Spline (df=33)",4460.29084151595
+2020-09-22,"Segunda",3,"Cambio en spline",0.00402632463406997
+2020-09-22,"Segunda",3,"Índice (día 1 = 100)",99.27353506244
+2020-09-23,"Segunda",4,"Casos",4061
+2020-09-23,"Segunda",4,"Media móvil de 7 días",4626
+2020-09-23,"Segunda",4,"Spline (df=33)",4484.24018016726
+2020-09-23,"Segunda",4,"Cambio en spline",0.00536945672429996
+2020-09-23,"Segunda",4,"Índice (día 1 = 100)",97.2082132564841
+2020-09-24,"Segunda",5,"Casos",4027
+2020-09-24,"Segunda",5,"Media móvil de 7 días",4372
+2020-09-24,"Segunda",5,"Spline (df=33)",4514.27616885173
+2020-09-24,"Segunda",5,"Cambio en spline",0.00669812219633332
+2020-09-24,"Segunda",5,"Índice (día 1 = 100)",91.8707973102786
+2020-09-25,"Segunda",6,"Casos",5205
+2020-09-25,"Segunda",6,"Media móvil de 7 días",4401
+2020-09-25,"Segunda",6,"Spline (df=33)",4550.42268073717
+2020-09-25,"Segunda",6,"Cambio en spline",0.0080071556398904
+2020-09-25,"Segunda",6,"Índice (día 1 = 100)",92.4801873198847
+2020-09-26,"Segunda",7,"Casos",4056
+2020-09-26,"Segunda",7,"Media móvil de 7 días",4435.57142857143
+2020-09-26,"Segunda",7,"Spline (df=33)",4592.70358899141
+2020-09-26,"Segunda",7,"Cambio en spline",0.00929164414400897
+2020-09-26,"Segunda",7,"Índice (día 1 = 100)",93.2066522574448
+2020-09-27,"Segunda",8,"Casos",4088
+2020-09-27,"Segunda",8,"Media móvil de 7 días",4482.28571428571
+2020-09-27,"Segunda",8,"Spline (df=33)",4641.04059961571
+2020-09-27,"Segunda",8,"Cambio en spline",0.0105247398809195
+2020-09-27,"Segunda",8,"Índice (día 1 = 100)",94.1882804995197
+2020-09-28,"Segunda",9,"Casos",5194
+2020-09-28,"Segunda",9,"Media móvil de 7 días",4797.42857142857
+2020-09-28,"Segunda",9,"Spline (df=33)",4694.94674994514
+2020-09-28,"Segunda",9,"Cambio en spline",0.0116150999269189
+2020-09-28,"Segunda",9,"Índice (día 1 = 100)",100.810518731988
+2020-09-29,"Segunda",10,"Casos",4418
+2020-09-29,"Segunda",10,"Media móvil de 7 días",4735.71428571429
+2020-09-29,"Segunda",10,"Spline (df=33)",4753.83291014819
+2020-09-29,"Segunda",10,"Cambio en spline",0.012542455397124
+2020-09-29,"Segunda",10,"Índice (día 1 = 100)",99.5136887608069
+2020-09-30,"Segunda",11,"Casos",4388
+2020-09-30,"Segunda",11,"Media móvil de 7 días",4766.85714285714
+2020-09-30,"Segunda",11,"Spline (df=33)",4817.1099503934
+2020-09-30,"Segunda",11,"Cambio en spline",0.0133107413409771
+2020-09-30,"Segunda",11,"Índice (día 1 = 100)",100.168107588857
+2020-10-01,"Segunda",12,"Casos",6233
+2020-10-01,"Segunda",12,"Media móvil de 7 días",4767.42857142857
+2020-10-01,"Segunda",12,"Spline (df=33)",4884.18874084927
+2020-10-01,"Segunda",12,"Cambio en spline",0.0139251109371889
+2020-10-01,"Segunda",12,"Índice (día 1 = 100)",100.180115273775
+2020-10-02,"Segunda",13,"Casos",4773
+2020-10-02,"Segunda",13,"Media móvil de 7 días",4886.28571428571
+2020-10-02,"Segunda",13,"Spline (df=33)",4954.4801516843
+2020-10-02,"Segunda",13,"Cambio en spline",0.014391624600242
+2020-10-02,"Segunda",13,"Índice (día 1 = 100)",102.677713736792
+2020-10-03,"Segunda",14,"Casos",4274
+2020-10-03,"Segunda",14,"Media móvil de 7 días",4925
+2020-10-03,"Segunda",14,"Spline (df=33)",5027.39505306701
+2020-10-03,"Segunda",14,"Cambio en spline",0.0147169630617905
+2020-10-03,"Segunda",14,"Índice (día 1 = 100)",103.49123439001
+2020-10-04,"Segunda",15,"Casos",4092
+2020-10-04,"Segunda",15,"Media móvil de 7 días",4999.28571428571
+2020-10-04,"Segunda",15,"Spline (df=33)",5102.34431516591
+2020-10-04,"Segunda",15,"Cambio en spline",0.0149081703959546
+2020-10-04,"Segunda",15,"Índice (día 1 = 100)",105.052233429395
+2020-10-05,"Segunda",16,"Casos",6026
+2020-10-05,"Segunda",16,"Media móvil de 7 días",4816
+2020-10-05,"Segunda",16,"Spline (df=33)",5178.73880814951
+2020-10-05,"Segunda",16,"Cambio en spline",0.0149724299782222
+2020-10-05,"Segunda",16,"Índice (día 1 = 100)",101.200768491835
+2020-10-06,"Segunda",17,"Casos",4689
+2020-10-06,"Segunda",17,"Media móvil de 7 días",4886.14285714286
+2020-10-06,"Segunda",17,"Spline (df=33)",5255.98940218633
+2020-10-06,"Segunda",17,"Cambio en spline",0.014916873953027
+2020-10-06,"Segunda",17,"Índice (día 1 = 100)",102.674711815562
+2020-10-07,"Segunda",18,"Casos",4908
+2020-10-07,"Segunda",18,"Media móvil de 7 días",5335.57142857143
+2020-10-07,"Segunda",18,"Spline (df=33)",5333.50696744487
+2020-10-07,"Segunda",18,"Cambio en spline",0.0147484249542614
+2020-10-07,"Segunda",18,"Índice (día 1 = 100)",112.118756003842
+2020-10-08,"Segunda",19,"Casos",4950
+2020-10-08,"Segunda",19,"Media móvil de 7 días",5431.85714285714
+2020-10-08,"Segunda",19,"Spline (df=33)",5410.70237409364
+2020-10-08,"Segunda",19,"Cambio en spline",0.0144736675361939
+2020-10-08,"Segunda",19,"Índice (día 1 = 100)",114.142050912584
+2020-10-09,"Segunda",20,"Casos",5264
+2020-10-09,"Segunda",20,"Media móvil de 7 días",5518.71428571429
+2020-10-09,"Segunda",20,"Spline (df=33)",5486.98649230116
+2020-10-09,"Segunda",20,"Cambio en spline",0.0140987459544558
+2020-10-09,"Segunda",20,"Índice (día 1 = 100)",115.967219020173
+2020-10-10,"Segunda",21,"Casos",7420
+2020-10-10,"Segunda",21,"Media móvil de 7 días",5629.85714285714
+2020-10-10,"Segunda",21,"Spline (df=33)",5561.77019223593
+2020-10-10,"Segunda",21,"Cambio en spline",0.0136292844970008
+2020-10-10,"Segunda",21,"Índice (día 1 = 100)",118.302713736792
+2020-10-11,"Segunda",22,"Casos",4766
+2020-10-11,"Segunda",22,"Media móvil de 7 días",5665.28571428571
+2020-10-11,"Segunda",22,"Spline (df=33)",5634.46434406647
+2020-10-11,"Segunda",22,"Cambio en spline",0.0130703264101092
+2020-10-11,"Segunda",22,"Índice (día 1 = 100)",119.047190201729
+2020-10-12,"Segunda",23,"Casos",6634
+2020-10-12,"Segunda",23,"Media móvil de 7 días",5896.71428571429
+2020-10-12,"Segunda",23,"Spline (df=33)",5704.47981796128
+2020-10-12,"Segunda",23,"Cambio en spline",0.0124262875083323
+2020-10-12,"Segunda",23,"Índice (día 1 = 100)",123.91030259366
+2020-10-13,"Segunda",24,"Casos",5467
+2020-10-13,"Segunda",24,"Media móvil de 7 días",5999.57142857143
+2020-10-13,"Segunda",24,"Spline (df=33)",5771.29811981617
+2020-10-13,"Segunda",24,"Cambio en spline",0.0117133032260894
+2020-10-13,"Segunda",24,"Índice (día 1 = 100)",126.071685878963
+2020-10-14,"Segunda",25,"Casos",5156
+2020-10-14,"Segunda",25,"Media móvil de 7 días",5722.28571428571
+2020-10-14,"Segunda",25,"Spline (df=33)",5834.68329843605
+2020-10-14,"Segunda",25,"Cambio en spline",0.0109828286988405
+2020-10-14,"Segunda",25,"Índice (día 1 = 100)",120.244956772334
+2020-10-15,"Segunda",26,"Casos",6570
+2020-10-15,"Segunda",26,"Media móvil de 7 días",5893.42857142857
+2020-10-15,"Segunda",26,"Spline (df=33)",5894.47003835313
+2020-10-15,"Segunda",26,"Cambio en spline",0.0102467840770561
+2020-10-15,"Segunda",26,"Índice (día 1 = 100)",123.841258405379
+2020-10-16,"Segunda",27,"Casos",5984
+2020-10-16,"Segunda",27,"Media móvil de 7 días",6012.57142857143
+2020-10-16,"Segunda",27,"Spline (df=33)",5950.49302409962
+2020-10-16,"Segunda",27,"Cambio en spline",0.00950432954650055
+2020-10-16,"Segunda",27,"Índice (día 1 = 100)",126.344860710855
+2020-10-17,"Segunda",28,"Casos",5479
+2020-10-17,"Segunda",28,"Media móvil de 7 días",6404.85714285714
+2020-10-17,"Segunda",28,"Spline (df=33)",6002.58694020771
+2020-10-17,"Segunda",28,"Cambio en spline",0.00875455460532583
+2020-10-17,"Segunda",28,"Índice (día 1 = 100)",134.588136407301
+2020-10-18,"Segunda",29,"Casos",5964
+2020-10-18,"Segunda",29,"Media móvil de 7 días",6448.14285714286
+2020-10-18,"Segunda",29,"Spline (df=33)",6050.58647120961
+2020-10-18,"Segunda",29,"Cambio en spline",0.00799647410025554
+2020-10-18,"Segunda",29,"Índice (día 1 = 100)",135.497718539866
+2020-10-19,"Segunda",30,"Casos",7468
+2020-10-19,"Segunda",30,"Media móvil de 7 días",6336.71428571429
+2020-10-19,"Segunda",30,"Spline (df=33)",6094.32630163753
+2020-10-19,"Segunda",30,"Cambio en spline",0.00722902327502384
+2020-10-19,"Segunda",30,"Índice (día 1 = 100)",133.156219980788
+2020-10-20,"Segunda",31,"Casos",8213
+2020-10-20,"Segunda",31,"Media móvil de 7 días",6325.85714285714
+2020-10-20,"Segunda",31,"Spline (df=33)",6133.64111602367
+2020-10-20,"Segunda",31,"Cambio en spline",0.00645105175539699
+2020-10-20,"Segunda",31,"Índice (día 1 = 100)",132.928073967339
+2020-10-21,"Segunda",32,"Casos",5459
+2020-10-21,"Segunda",32,"Media móvil de 7 días",6283.42857142857
+2020-10-21,"Segunda",32,"Spline (df=33)",6168.36559890024
+2020-10-21,"Segunda",32,"Cambio en spline",0.00566131637305185
+2020-10-21,"Segunda",32,"Índice (día 1 = 100)",132.036503362152
+2020-10-22,"Segunda",33,"Casos",5790
+2020-10-22,"Segunda",33,"Media móvil de 7 días",6304.14285714286
+2020-10-22,"Segunda",33,"Spline (df=33)",6198.33443479944
+2020-10-22,"Segunda",33,"Cambio en spline",0.00485847270540223
+2020-10-22,"Segunda",33,"Índice (día 1 = 100)",132.471781940442
+2020-10-23,"Segunda",34,"Casos",5908
+2020-10-23,"Segunda",34,"Media móvil de 7 días",6222.57142857143
+2020-10-23,"Segunda",34,"Spline (df=33)",6223.38230825347
+2020-10-23,"Segunda",34,"Cambio en spline",0.00404106517928572
+2020-10-23,"Segunda",34,"Índice (día 1 = 100)",130.757684918348
+2020-10-24,"Segunda",35,"Casos",5182
+2020-10-24,"Segunda",35,"Media móvil de 7 días",5857
+2020-10-24,"Segunda",35,"Spline (df=33)",6243.34390379455
+2020-10-24,"Segunda",35,"Cambio en spline",0.00320751555221062
+2020-10-24,"Segunda",35,"Índice (día 1 = 100)",123.075768491835
+2020-10-25,"Segunda",36,"Casos",6109
+2020-10-25,"Segunda",36,"Media móvil de 7 días",5907.42857142857
+2020-10-25,"Segunda",36,"Spline (df=33)",6258.05390595487
+2020-10-25,"Segunda",36,"Cambio en spline",0.00235610954433899
+2020-10-25,"Segunda",36,"Índice (día 1 = 100)",124.135446685879
+2020-10-26,"Segunda",37,"Casos",6897
+2020-10-26,"Segunda",37,"Media móvil de 7 días",5796.14285714286
+2020-10-26,"Segunda",37,"Spline (df=33)",6267.34699926664
+2020-10-26,"Segunda",37,"Cambio en spline",0.00148498134586672
+2020-10-26,"Segunda",37,"Índice (día 1 = 100)",121.796950048031
+2020-10-27,"Segunda",38,"Casos",5654
+2020-10-27,"Segunda",38,"Media móvil de 7 días",5818.14285714286
+2020-10-27,"Segunda",38,"Spline (df=33)",6271.05786826207
+2020-10-27,"Segunda",38,"Cambio en spline",0.000592095665974906
+2020-10-27,"Segunda",38,"Índice (día 1 = 100)",122.259245917387
+2020-10-28,"Segunda",39,"Casos",5812
+2020-10-28,"Segunda",39,"Media móvil de 7 días",5775.85714285714
+2020-10-28,"Segunda",39,"Spline (df=33)",6269.02119747335
+2020-10-28,"Segunda",39,"Cambio en spline",-0.00032477308159152
+2020-10-28,"Segunda",39,"Índice (día 1 = 100)",121.370677233429
+2020-10-29,"Segunda",40,"Casos",5011
+2020-10-29,"Segunda",40,"Media móvil de 7 días",6021.71428571429
+2020-10-29,"Segunda",40,"Spline (df=33)",6261.38846043444
+2020-10-29,"Segunda",40,"Cambio en spline",-0.00121753249805449
+2020-10-29,"Segunda",40,"Índice (día 1 = 100)",126.536983669548
+2020-10-30,"Segunda",41,"Casos",6062
+2020-10-30,"Segunda",41,"Media móvil de 7 días",5990.71428571429
+2020-10-30,"Segunda",41,"Spline (df=33)",6249.57828668619
+2020-10-30,"Segunda",41,"Cambio en spline",-0.00188619087010381
+2020-10-30,"Segunda",41,"Índice (día 1 = 100)",125.885566762728
+2020-10-31,"Segunda",42,"Casos",4886
+2020-10-31,"Segunda",42,"Media móvil de 7 días",6098.57142857143
+2020-10-31,"Segunda",42,"Spline (df=33)",6235.32609477123
+2020-10-31,"Segunda",42,"Cambio en spline",-0.00228050458145731
+2020-10-31,"Segunda",42,"Índice (día 1 = 100)",128.152017291066
+2020-11-01,"Segunda",43,"Casos",7830
+2020-11-01,"Segunda",43,"Media móvil de 7 días",6125.57142857143
+2020-11-01,"Segunda",43,"Spline (df=33)",6220.36730323215
+2020-11-01,"Segunda",43,"Cambio en spline",-0.0023990391700003
+2020-11-01,"Segunda",43,"Índice (día 1 = 100)",128.719380403458
+2020-11-02,"Segunda",44,"Casos",6680
+2020-11-02,"Segunda",44,"Media móvil de 7 días",6340.42857142857
+2020-11-02,"Segunda",44,"Spline (df=33)",6206.43733061156
+2020-11-02,"Segunda",44,"Cambio en spline",-0.00223941319564025
+2020-11-02,"Segunda",44,"Índice (día 1 = 100)",133.234269932757
+2020-11-03,"Segunda",45,"Casos",6409
+2020-11-03,"Segunda",45,"Media móvil de 7 días",6415.57142857143
+2020-11-03,"Segunda",45,"Spline (df=33)",6195.27159545207
+2020-11-03,"Segunda",45,"Cambio en spline",-0.00179905710227967
+2020-11-03,"Segunda",45,"Índice (día 1 = 100)",134.81328049952
+2020-11-04,"Segunda",46,"Casos",6001
+2020-11-04,"Segunda",46,"Media móvil de 7 días",6591.57142857143
+2020-11-04,"Segunda",46,"Spline (df=33)",6188.60551629629
+2020-11-04,"Segunda",46,"Cambio en spline",-0.00107599466029479
+2020-11-04,"Segunda",46,"Índice (día 1 = 100)",138.511647454371
+2020-11-05,"Segunda",47,"Casos",6515
+2020-11-05,"Segunda",47,"Media móvil de 7 días",6310
+2020-11-05,"Segunda",47,"Spline (df=33)",6188.17451168682
+2020-11-05,"Segunda",47,"Cambio en spline",-0.0000696448672212228
+2020-11-05,"Segunda",47,"Índice (día 1 = 100)",132.594860710855
+2020-11-06,"Segunda",48,"Casos",6588
+2020-11-06,"Segunda",48,"Media móvil de 7 días",6469.85714285714
+2020-11-06,"Segunda",48,"Spline (df=33)",6195.71400016627
+2020-11-06,"Segunda",48,"Cambio en spline",0.00121837037161969
+2020-11-06,"Segunda",48,"Índice (día 1 = 100)",135.954010566763
+2020-11-07,"Segunda",49,"Casos",6118
+2020-11-07,"Segunda",49,"Media móvil de 7 días",6736
+2020-11-07,"Segunda",49,"Spline (df=33)",6212.95940027725
+2020-11-07,"Segunda",49,"Cambio en spline",0.00278344031220877
+2020-11-07,"Segunda",49,"Índice (día 1 = 100)",141.546589817483
+2020-11-08,"Segunda",50,"Casos",5859
+2020-11-08,"Segunda",50,"Media móvil de 7 días",6778.42857142857
+2020-11-08,"Segunda",50,"Spline (df=33)",6241.64613056237
+2020-11-08,"Segunda",50,"Cambio en spline",0.00461724090516927
+2020-11-08,"Segunda",50,"Índice (día 1 = 100)",142.438160422671
+2020-11-09,"Segunda",51,"Casos",7799
+2020-11-09,"Segunda",51,"Media móvil de 7 días",6695.57142857143
+2020-11-09,"Segunda",51,"Spline (df=33)",6283.50960956422
+2020-11-09,"Segunda",51,"Cambio en spline",0.00670712150707625
+2020-11-09,"Segunda",51,"Índice (día 1 = 100)",140.69704610951
+2020-11-10,"Segunda",52,"Casos",8272
+2020-11-10,"Segunda",52,"Media móvil de 7 días",6600.14285714286
+2020-11-10,"Segunda",52,"Spline (df=33)",6340.28525582542
+2020-11-10,"Segunda",52,"Cambio en spline",0.00903565838027608
+2020-11-10,"Segunda",52,"Índice (día 1 = 100)",138.691762728146
+2020-11-11,"Segunda",53,"Casos",6298
+2020-11-11,"Segunda",53,"Media móvil de 7 días",6541.14285714286
+2020-11-11,"Segunda",53,"Spline (df=33)",6413.70848788858
+2020-11-11,"Segunda",53,"Cambio en spline",0.0115804303908407
+2020-11-11,"Segunda",53,"Índice (día 1 = 100)",137.451969260327
+2020-11-12,"Segunda",54,"Casos",5935
+2020-11-12,"Segunda",54,"Media móvil de 7 días",6738.28571428571
+2020-11-12,"Segunda",54,"Spline (df=33)",6505.51472429631
+2020-11-12,"Segunda",54,"Cambio en spline",0.0143140644107985
+2020-11-12,"Segunda",54,"Índice (día 1 = 100)",141.594620557157
+2020-11-13,"Segunda",55,"Casos",5920
+2020-11-13,"Segunda",55,"Media móvil de 7 días",6630
+2020-11-13,"Segunda",55,"Spline (df=33)",6617.4393835912
+2020-11-13,"Segunda",55,"Cambio en spline",0.0172045816569878
+2020-11-13,"Segunda",55,"Índice (día 1 = 100)",139.31916426513
+2020-11-14,"Segunda",56,"Casos",5705
+2020-11-14,"Segunda",56,"Media móvil de 7 días",6490.42857142857
+2020-11-14,"Segunda",56,"Spline (df=33)",6750.48137293229
+2020-11-14,"Segunda",56,"Cambio en spline",0.0201047537618531
+2020-11-14,"Segunda",56,"Índice (día 1 = 100)",136.386287223823
+2020-11-15,"Segunda",57,"Casos",7239
+2020-11-15,"Segunda",57,"Media móvil de 7 días",6640.85714285714
+2020-11-15,"Segunda",57,"Spline (df=33)",6902.69355394429
+2020-11-15,"Segunda",57,"Cambio en spline",0.0225483447183977
+2020-11-15,"Segunda",57,"Índice (día 1 = 100)",139.547310278578
+2020-11-16,"Segunda",58,"Casos",7041
+2020-11-16,"Segunda",58,"Media móvil de 7 días",6784.57142857143
+2020-11-16,"Segunda",58,"Spline (df=33)",7071.39227686833
+2020-11-16,"Segunda",58,"Cambio en spline",0.0244395498084431
+2020-11-16,"Segunda",58,"Índice (día 1 = 100)",142.567243035543
+2020-11-17,"Segunda",59,"Casos",7295
+2020-11-17,"Segunda",59,"Media móvil de 7 días",7508.71428571429
+2020-11-17,"Segunda",59,"Spline (df=33)",7253.89389194554
+2020-11-17,"Segunda",59,"Cambio en spline",0.0258084416663193
+2020-11-17,"Segunda",59,"Índice (día 1 = 100)",157.783981748319
+2020-11-18,"Segunda",60,"Casos",7351
+2020-11-18,"Segunda",60,"Media móvil de 7 días",7666.57142857143
+2020-11-18,"Segunda",60,"Spline (df=33)",7447.51474941707
+2020-11-18,"Segunda",60,"Cambio en spline",0.0266919892068613
+2020-11-18,"Segunda",60,"Índice (día 1 = 100)",161.101104707012
+2020-11-19,"Segunda",61,"Casos",6941
+2020-11-19,"Segunda",61,"Media móvil de 7 días",7637.71428571429
+2020-11-19,"Segunda",61,"Spline (df=33)",7649.57119952404
+2020-11-19,"Segunda",61,"Cambio en spline",0.0271307217112634
+2020-11-19,"Segunda",61,"Índice (día 1 = 100)",160.494716618636
+2020-11-20,"Segunda",62,"Casos",10989
+2020-11-20,"Segunda",62,"Media móvil de 7 días",7919.28571428571
+2020-11-20,"Segunda",62,"Spline (df=33)",7857.37959250758
+2020-11-20,"Segunda",62,"Cambio en spline",0.0271660185340154
+2020-11-20,"Segunda",62,"Índice (día 1 = 100)",166.411503362152
+2020-11-21,"Segunda",63,"Casos",6810
+2020-11-21,"Segunda",63,"Media móvil de 7 días",7983.14285714286
+2020-11-21,"Segunda",63,"Spline (df=33)",8068.25627860882
+2020-11-21,"Segunda",63,"Cambio en spline",0.026838042329319
+2020-11-21,"Segunda",63,"Índice (día 1 = 100)",167.753362151777
+2020-11-22,"Segunda",64,"Casos",7037
+2020-11-22,"Segunda",64,"Media móvil de 7 días",8167
+2020-11-22,"Segunda",64,"Spline (df=33)",8279.51760806891
+2020-11-22,"Segunda",64,"Cambio en spline",0.0261842611544451
+2020-11-22,"Segunda",64,"Índice (día 1 = 100)",171.616834774256
+2020-11-23,"Segunda",65,"Casos",9012
+2020-11-23,"Segunda",65,"Media móvil de 7 días",8245.71428571429
+2020-11-23,"Segunda",65,"Spline (df=33)",8488.47993112896
+2020-11-23,"Segunda",65,"Cambio en spline",0.0252384659290308
+2020-11-23,"Segunda",65,"Índice (día 1 = 100)",173.270893371758
+2020-11-24,"Segunda",66,"Casos",7742
+2020-11-24,"Segunda",66,"Media móvil de 7 días",7849
+2020-11-24,"Segunda",66,"Spline (df=33)",8692.45959803013
+2020-11-24,"Segunda",66,"Cambio en spline",0.0240301760216373
+2020-11-24,"Segunda",66,"Índice (día 1 = 100)",164.934558117195
+2020-11-25,"Segunda",67,"Casos",8638
+2020-11-25,"Segunda",67,"Media móvil de 7 días",8081.14285714286
+2020-11-25,"Segunda",67,"Spline (df=33)",8888.77295901353
+2020-11-25,"Segunda",67,"Cambio en spline",0.0225843282639918
+2020-11-25,"Segunda",67,"Índice (día 1 = 100)",169.812680115274
+2020-11-26,"Segunda",68,"Casos",7492
+2020-11-26,"Segunda",68,"Media móvil de 7 días",8161
+2020-11-26,"Segunda",68,"Spline (df=33)",9074.7363643203
+2020-11-26,"Segunda",68,"Cambio en spline",0.0209211559530497
+2020-11-26,"Segunda",68,"Índice (día 1 = 100)",171.490754082613
+2020-11-27,"Segunda",69,"Casos",8212
+2020-11-27,"Segunda",69,"Media móvil de 7 días",8510.85714285714
+2020-11-27,"Segunda",69,"Spline (df=33)",9247.66616419157
+2020-11-27,"Segunda",69,"Cambio en spline",0.0190561789267171
+2020-11-27,"Segunda",69,"Índice (día 1 = 100)",178.842459173871
+2020-11-28,"Segunda",70,"Casos",8435
+2020-11-28,"Segunda",70,"Media móvil de 7 días",9244.71428571429
+2020-11-28,"Segunda",70,"Spline (df=33)",9404.87870886849
+2020-11-28,"Segunda",70,"Cambio en spline",0.0170002400482041
+2020-11-28,"Segunda",70,"Índice (día 1 = 100)",194.263328530259
+2020-11-29,"Segunda",71,"Casos",7596
+2020-11-29,"Segunda",71,"Media móvil de 7 días",9338.85714285714
+2020-11-29,"Segunda",71,"Spline (df=33)",9543.69034859217
+2020-11-29,"Segunda",71,"Cambio en spline",0.0147595353454996
+2020-11-29,"Segunda",71,"Índice (día 1 = 100)",196.241594620557
+2020-11-30,"Segunda",72,"Casos",11461
+2020-11-30,"Segunda",72,"Media móvil de 7 días",9581.85714285714
+2020-11-30,"Segunda",72,"Spline (df=33)",9662.22869430571
+2020-11-30,"Segunda",72,"Cambio en spline",0.0124205984670309
+2020-11-30,"Segunda",72,"Índice (día 1 = 100)",201.347862632085
+2020-12-01,"Segunda",73,"Casos",12879
+2020-12-01,"Segunda",73,"Media móvil de 7 días",9776
+2020-12-01,"Segunda",73,"Spline (df=33)",9761.86639976003
+2020-12-01,"Segunda",73,"Cambio en spline",0.010312083123539
+2020-12-01,"Segunda",73,"Índice (día 1 = 100)",205.427473583093
+2020-12-02,"Segunda",74,"Casos",9297
+2020-12-02,"Segunda",74,"Media móvil de 7 días",10065.1428571429
+2020-12-02,"Segunda",74,"Spline (df=33)",9844.78737940803
+2020-12-02,"Segunda",74,"Cambio en spline",0.00849437763766504
+2020-12-02,"Segunda",74,"Índice (día 1 = 100)",211.503362151777
+2020-12-03,"Segunda",75,"Casos",9193
+2020-12-03,"Segunda",75,"Media móvil de 7 días",10190.4285714286
+2020-12-03,"Segunda",75,"Spline (df=33)",9913.17554770258
+2020-12-03,"Segunda",75,"Cambio en spline",0.00694663740911189
+2020-12-03,"Segunda",75,"Índice (día 1 = 100)",214.136047070125
+2020-12-04,"Segunda",76,"Casos",9571
+2020-12-04,"Segunda",76,"Media móvil de 7 días",10290.1428571429
+2020-12-04,"Segunda",76,"Spline (df=33)",9969.21481909656
+2020-12-04,"Segunda",76,"Cambio en spline",0.00565300908112868
+2020-12-04,"Segunda",76,"Índice (día 1 = 100)",216.231388088377
+2020-12-05,"Segunda",77,"Casos",10459
+2020-12-05,"Segunda",77,"Media móvil de 7 días",9946.57142857143
+2020-12-05,"Segunda",77,"Spline (df=33)",10015.0891080429
+2020-12-05,"Segunda",77,"Cambio en spline",0.00460159498804523
+2020-12-05,"Segunda",77,"Índice (día 1 = 100)",209.01176753122
+2020-12-06,"Segunda",78,"Casos",8473
+2020-12-06,"Segunda",78,"Media móvil de 7 días",10135.5714285714
+2020-12-06,"Segunda",78,"Spline (df=33)",10052.9823289944
+2020-12-06,"Segunda",78,"Cambio en spline",0.00378361296067518
+2020-12-06,"Segunda",78,"Índice (día 1 = 100)",212.983309317964
+2020-12-07,"Segunda",79,"Casos",12159
+2020-12-07,"Segunda",79,"Media móvil de 7 días",10626.2857142857
+2020-12-07,"Segunda",79,"Spline (df=33)",10085.078396404
+2020-12-07,"Segunda",79,"Cambio en spline",0.00319269111983049
+2020-12-07,"Segunda",79,"Índice (día 1 = 100)",223.294908741595
+2020-12-08,"Segunda",80,"Casos",10474
+2020-12-08,"Segunda",80,"Media móvil de 7 días",10811.1428571429
+2020-12-08,"Segunda",80,"Spline (df=33)",10113.5612247245
+2020-12-08,"Segunda",80,"Cambio en spline",0.00282425452743318
+2020-12-08,"Segunda",80,"Índice (día 1 = 100)",227.17939481268
+2020-12-09,"Segunda",81,"Casos",10620
+2020-12-09,"Segunda",81,"Media móvil de 7 días",10862.4285714286
+2020-12-09,"Segunda",81,"Spline (df=33)",10140.6147284089
+2020-12-09,"Segunda",81,"Cambio en spline",0.00267497304691035
+2020-12-09,"Segunda",81,"Índice (día 1 = 100)",228.257084534102
+2020-12-10,"Segunda",82,"Casos",12628
+2020-12-10,"Segunda",82,"Media móvil de 7 días",10982.4285714286
+2020-12-10,"Segunda",82,"Spline (df=33)",10168.4228219101
+2020-12-10,"Segunda",82,"Cambio en spline",0.00274224928625387
+2020-12-10,"Segunda",82,"Índice (día 1 = 100)",230.778698366955
+2020-12-11,"Segunda",83,"Casos",10865
+2020-12-11,"Segunda",83,"Media móvil de 7 días",11051.1428571429
+2020-12-11,"Segunda",83,"Spline (df=33)",10199.1694196809
+2020-12-11,"Segunda",83,"Cambio en spline",0.00302373320909909
+2020-12-11,"Segunda",83,"Índice (día 1 = 100)",232.222622478386
+2020-12-12,"Segunda",84,"Casos",10818
+2020-12-12,"Segunda",84,"Media móvil de 7 días",11275.1428571429
+2020-12-12,"Segunda",84,"Spline (df=33)",10235.0384361741
+2020-12-12,"Segunda",84,"Cambio en spline",0.00351685662011469
+2020-12-12,"Segunda",84,"Índice (día 1 = 100)",236.929634966378
+2020-12-13,"Segunda",85,"Casos",9313
+2020-12-13,"Segunda",85,"Media móvil de 7 días",11183
+2020-12-13,"Segunda",85,"Spline (df=33)",10278.2137858428
+2020-12-13,"Segunda",85,"Cambio en spline",0.00421838666634318
+2020-12-13,"Segunda",85,"Índice (día 1 = 100)",234.993395773295
+2020-12-14,"Segunda",86,"Casos",12640
+2020-12-14,"Segunda",86,"Media móvil de 7 días",10760.5714285714
+2020-12-14,"Segunda",86,"Spline (df=33)",10330.8793831397
+2020-12-14,"Segunda",86,"Cambio en spline",0.00512400290500633
+2020-12-14,"Segunda",86,"Índice (día 1 = 100)",226.116714697406
+2020-12-15,"Segunda",87,"Casos",12042
+2020-12-15,"Segunda",87,"Media móvil de 7 días",10834.4285714286
+2020-12-15,"Segunda",87,"Spline (df=33)",10395.2191425178
+2020-12-15,"Segunda",87,"Cambio en spline",0.00622790732443302
+2020-12-15,"Segunda",87,"Índice (día 1 = 100)",227.668707973103
+2020-12-16,"Segunda",88,"Casos",9975
+2020-12-16,"Segunda",88,"Media móvil de 7 días",10650.7142857143
+2020-12-16,"Segunda",88,"Spline (df=33)",10472.9956922366
+2020-12-16,"Segunda",88,"Cambio en spline",0.00748195383401299
+2020-12-16,"Segunda",88,"Índice (día 1 = 100)",223.808237271854
+2020-12-17,"Segunda",89,"Casos",9671
+2020-12-17,"Segunda",89,"Media móvil de 7 días",10905.8571428571
+2020-12-17,"Segunda",89,"Spline (df=33)",10564.2865157821
+2020-12-17,"Segunda",89,"Cambio en spline",0.00871678230644055
+2020-12-17,"Segunda",89,"Índice (día 1 = 100)",229.169668587896
+2020-12-18,"Segunda",90,"Casos",11382
+2020-12-18,"Segunda",90,"Media móvil de 7 días",10579.2857142857
+2020-12-18,"Segunda",90,"Spline (df=33)",10668.7478104471
+2020-12-18,"Segunda",90,"Cambio en spline",0.00988815425527557
+2020-12-18,"Segunda",90,"Índice (día 1 = 100)",222.30727665706
+2020-12-19,"Segunda",91,"Casos",9532
+2020-12-19,"Segunda",91,"Media móvil de 7 días",10204.8571428571
+2020-12-19,"Segunda",91,"Spline (df=33)",10786.0357735243
+2020-12-19,"Segunda",91,"Cambio en spline",0.0109936016073331
+2020-12-19,"Segunda",91,"Índice (día 1 = 100)",214.439241114313
+2020-12-20,"Segunda",92,"Casos",11099
+2020-12-20,"Segunda",92,"Media móvil de 7 días",10089.8571428571
+2020-12-20,"Segunda",92,"Spline (df=33)",10915.8066023063
+2020-12-20,"Segunda",92,"Cambio en spline",0.0120313738529027
+2020-12-20,"Segunda",92,"Índice (día 1 = 100)",212.022694524496
+2020-12-21,"Segunda",93,"Casos",10354
+2020-12-21,"Segunda",93,"Media móvil de 7 días",10216.7142857143
+2020-12-21,"Segunda",93,"Spline (df=33)",11057.716494086
+2020-12-21,"Segunda",93,"Cambio en spline",0.0130004036302428
+2020-12-21,"Segunda",93,"Índice (día 1 = 100)",214.688400576369
+2020-12-22,"Segunda",94,"Casos",9421
+2020-12-22,"Segunda",94,"Media móvil de 7 días",10072.8571428571
+2020-12-22,"Segunda",94,"Spline (df=33)",11211.4216461559
+2020-12-22,"Segunda",94,"Cambio en spline",0.0139002616093642
+2020-12-22,"Segunda",94,"Índice (día 1 = 100)",211.665465898175
+2020-12-23,"Segunda",95,"Casos",9170
+2020-12-23,"Segunda",95,"Media móvil de 7 días",10221.1428571429
+2020-12-23,"Segunda",95,"Spline (df=33)",11376.578255809
+2020-12-23,"Segunda",95,"Cambio en spline",0.0147311032325358
+2020-12-23,"Segunda",95,"Índice (día 1 = 100)",214.781460134486
+2020-12-24,"Segunda",96,"Casos",10559
+2020-12-24,"Segunda",96,"Media móvil de 7 días",10163.5714285714
+2020-12-24,"Segunda",96,"Spline (df=33)",11552.8425203377
+2020-12-24,"Segunda",96,"Cambio en spline",0.015493609815302
+2020-12-24,"Segunda",96,"Índice (día 1 = 100)",213.571685878963
+2020-12-25,"Segunda",97,"Casos",10375
+2020-12-25,"Segunda",97,"Media móvil de 7 días",10677.8571428571
+2020-12-25,"Segunda",97,"Spline (df=33)",11739.8706370349
+2020-12-25,"Segunda",97,"Cambio en spline",0.0161889263502006
+2020-12-25,"Segunda",97,"Índice (día 1 = 100)",224.378602305476
+2020-12-26,"Segunda",98,"Casos",10570
+2020-12-26,"Segunda",98,"Media móvil de 7 días",10765.2857142857
+2020-12-26,"Segunda",98,"Spline (df=33)",11937.3188031933
+2020-12-26,"Segunda",98,"Cambio en spline",0.0168185981143192
+2020-12-26,"Segunda",98,"Índice (día 1 = 100)",226.215778097983
+2020-12-27,"Segunda",99,"Casos",10696
+2020-12-27,"Segunda",99,"Media móvil de 7 días",10978.4285714286
+2020-12-27,"Segunda",99,"Spline (df=33)",12144.8432161056
+2020-12-27,"Segunda",99,"Cambio en spline",0.0173845078893893
+2020-12-27,"Segunda",99,"Índice (día 1 = 100)",230.694644572526
+2020-12-28,"Segunda",100,"Casos",13954
+2020-12-28,"Segunda",100,"Media móvil de 7 días",11264.8571428571
+2020-12-28,"Segunda",100,"Spline (df=33)",12362.1000730644
+2020-12-28,"Segunda",100,"Cambio en spline",0.0178888152850551
+2020-12-28,"Segunda",100,"Índice (día 1 = 100)",236.713496637848
+2020-12-29,"Segunda",101,"Casos",10033
+2020-12-29,"Segunda",101,"Media móvil de 7 días",12241.5714285714
+2020-12-29,"Segunda",101,"Spline (df=33)",12588.7455713626
+2020-12-29,"Segunda",101,"Cambio en spline",0.0183338993341446
+2020-12-29,"Segunda",101,"Índice (día 1 = 100)",257.237632084534
+2020-12-30,"Segunda",102,"Casos",10662
+2020-12-30,"Segunda",102,"Media móvil de 7 días",12686.4285714286
+2020-12-30,"Segunda",102,"Spline (df=33)",12824.4359082928
+2020-12-30,"Segunda",102,"Cambio en spline",0.0187223052204953
+2020-12-30,"Segunda",102,"Índice (día 1 = 100)",266.585614793468
+2020-12-31,"Segunda",103,"Casos",12564
+2020-12-31,"Segunda",103,"Media móvil de 7 días",13173.4285714286
+2020-12-31,"Segunda",103,"Spline (df=33)",13068.8272811478
+2020-12-31,"Segunda",103,"Cambio en spline",0.0190566957176585
+2020-12-31,"Segunda",103,"Índice (día 1 = 100)",276.81916426513
+2021-01-01,"Segunda",104,"Casos",17212
+2021-01-01,"Segunda",104,"Media móvil de 7 días",13833.7142857143
+2021-01-01,"Segunda",104,"Spline (df=33)",13320.8655437738
+2021-01-01,"Segunda",104,"Cambio en spline",0.0192854536374222
+2021-01-01,"Segunda",104,"Índice (día 1 = 100)",290.69404418828
+2021-01-02,"Segunda",105,"Casos",13684
+2021-01-02,"Segunda",105,"Media móvil de 7 días",14775.2857142857
+2021-01-02,"Segunda",105,"Spline (df=33)",13576.655176232
+2021-01-02,"Segunda",105,"Cambio en spline",0.0192021780880208
+2021-01-02,"Segunda",105,"Índice (día 1 = 100)",310.479707012488
+2021-01-03,"Segunda",106,"Casos",14105
+2021-01-03,"Segunda",106,"Media móvil de 7 días",15331.8571428571
+2021-01-03,"Segunda",106,"Spline (df=33)",13831.5903151368
+2021-01-03,"Segunda",106,"Cambio en spline",0.0187774629019912
+2021-01-03,"Segunda",106,"Índice (día 1 = 100)",322.175192122959
+2021-01-04,"Segunda",107,"Casos",18576
+2021-01-04,"Segunda",107,"Media móvil de 7 días",15615.5714285714
+2021-01-04,"Segunda",107,"Spline (df=33)",14081.0650971029
+2021-01-04,"Segunda",107,"Cambio en spline",0.0180365942225109
+2021-01-04,"Segunda",107,"Índice (día 1 = 100)",328.137007684918
+2021-01-05,"Segunda",108,"Casos",16624
+2021-01-05,"Segunda",108,"Media móvil de 7 días",15409.5714285714
+2021-01-05,"Segunda",108,"Spline (df=33)",14320.473658745
+2021-01-05,"Segunda",108,"Cambio en spline",0.0170021628329329
+2021-01-05,"Segunda",108,"Índice (día 1 = 100)",323.808237271854
+2021-01-06,"Segunda",109,"Casos",14558
+2021-01-06,"Segunda",109,"Media móvil de 7 días",15528.5714285714
+2021-01-06,"Segunda",109,"Spline (df=33)",14545.2101366776
+2021-01-06,"Segunda",109,"Cambio en spline",0.0156933690384872
+2021-01-06,"Segunda",109,"Índice (día 1 = 100)",326.3088376561
+2021-01-07,"Segunda",110,"Casos",14550
+2021-01-07,"Segunda",110,"Media móvil de 7 días",15955.4285714286
+2021-01-07,"Segunda",110,"Spline (df=33)",14750.6686675154
+2021-01-07,"Segunda",110,"Cambio en spline",0.0141255113475265
+2021-01-07,"Segunda",110,"Índice (día 1 = 100)",335.278578290106
+2021-01-08,"Segunda",111,"Casos",15770
+2021-01-08,"Segunda",111,"Media móvil de 7 días",15775.8571428571
+2021-01-08,"Segunda",111,"Spline (df=33)",14932.243387873
+2021-01-08,"Segunda",111,"Cambio en spline",0.0123095924971499
+2021-01-08,"Segunda",111,"Índice (día 1 = 100)",331.505163304515
+2021-01-09,"Segunda",112,"Casos",14517
+2021-01-09,"Segunda",112,"Media móvil de 7 días",15499.1428571429
+2021-01-09,"Segunda",112,"Spline (df=33)",15085.328434365
+2021-01-09,"Segunda",112,"Cambio en spline",0.0102519790573686
+2021-01-09,"Segunda",112,"Índice (día 1 = 100)",325.690441882805
+2021-01-10,"Segunda",113,"Casos",17093
+2021-01-10,"Segunda",113,"Media móvil de 7 días",15423.8571428571
+2021-01-10,"Segunda",113,"Spline (df=33)",15205.317943606
+2021-01-10,"Segunda",113,"Cambio en spline",0.00795405348734069
+2021-01-10,"Segunda",113,"Índice (día 1 = 100)",324.108429394813
+2021-01-11,"Segunda",114,"Casos",17319
+2021-01-11,"Segunda",114,"Media móvil de 7 días",15352.2857142857
+2021-01-11,"Segunda",114,"Spline (df=33)",15287.6060522107
+2021-01-11,"Segunda",114,"Cambio en spline",0.00541179795844382
+2021-01-11,"Segunda",114,"Índice (día 1 = 100)",322.60446685879
+2021-01-12,"Segunda",115,"Casos",14687
+2021-01-12,"Segunda",115,"Media móvil de 7 días",15454
+2021-01-12,"Segunda",115,"Spline (df=33)",15327.5868967937
+2021-01-12,"Segunda",115,"Cambio en spline",0.00261524560787489
+2021-01-12,"Segunda",115,"Índice (día 1 = 100)",324.741834774255
+2021-01-13,"Segunda",116,"Casos",14031
+2021-01-13,"Segunda",116,"Media móvil de 7 días",15271.1428571429
+2021-01-13,"Segunda",116,"Spline (df=33)",15320.6546139696
+2021-01-13,"Segunda",116,"Cambio en spline",-0.000452274899552718
+2021-01-13,"Segunda",116,"Índice (día 1 = 100)",320.899375600384
+2021-01-14,"Segunda",117,"Casos",14049
+2021-01-14,"Segunda",117,"Media móvil de 7 días",14475.5714285714
+2021-01-14,"Segunda",117,"Spline (df=33)",15262.203340353
+2021-01-14,"Segunda",117,"Cambio en spline",-0.00381519426482763
+2021-01-14,"Segunda",117,"Índice (día 1 = 100)",304.181676272815
+2021-01-15,"Segunda",118,"Casos",16482
+2021-01-15,"Segunda",118,"Media móvil de 7 días",14404.2857142857
+2021-01-15,"Segunda",118,"Spline (df=33)",15147.6272125585
+2021-01-15,"Segunda",118,"Cambio en spline",-0.00750718131841087
+2021-01-15,"Segunda",118,"Índice (día 1 = 100)",302.683717579251
+2021-01-16,"Segunda",119,"Casos",13237
+2021-01-16,"Segunda",119,"Media móvil de 7 días",14221.4285714286
+2021-01-16,"Segunda",119,"Spline (df=33)",14972.3203672007
+2021-01-16,"Segunda",119,"Cambio en spline",-0.0115732215282131
+2021-01-16,"Segunda",119,"Índice (día 1 = 100)",298.841258405379
+2021-01-17,"Segunda",120,"Casos",11524
+2021-01-17,"Segunda",120,"Media móvil de 7 días",14552.8571428571
+2021-01-17,"Segunda",120,"Spline (df=33)",14733.6138640622
+2021-01-17,"Segunda",120,"Cambio en spline",-0.0159431869799837
+2021-01-17,"Segunda",120,"Índice (día 1 = 100)",305.805715658021
+2021-01-18,"Segunda",121,"Casos",16820
+2021-01-18,"Segunda",121,"Media móvil de 7 días",14225
+2021-01-18,"Segunda",121,"Spline (df=33)",14436.5864555969
+2021-01-18,"Segunda",121,"Cambio en spline",-0.0201598474892744
+2021-01-18,"Segunda",121,"Índice (día 1 = 100)",298.916306436119
+2021-01-19,"Segunda",122,"Casos",13407
+2021-01-19,"Segunda",122,"Media móvil de 7 días",13623.2857142857
+2021-01-19,"Segunda",122,"Spline (df=33)",14088.2538174264
+2021-01-19,"Segunda",122,"Cambio en spline",-0.0241284627250231
+2021-01-19,"Segunda",122,"Índice (día 1 = 100)",286.272214217099
+2021-01-20,"Segunda",123,"Casos",16351
+2021-01-20,"Segunda",123,"Media móvil de 7 días",13328.5714285714
+2021-01-20,"Segunda",123,"Spline (df=33)",13695.6316251727
+2021-01-20,"Segunda",123,"Cambio en spline",-0.0278687619730502
+2021-01-20,"Segunda",123,"Índice (día 1 = 100)",280.079250720461
+2021-01-21,"Segunda",124,"Casos",11754
+2021-01-21,"Segunda",124,"Media móvil de 7 días",13086
+2021-01-21,"Segunda",124,"Spline (df=33)",13265.7355544573
+2021-01-21,"Segunda",124,"Cambio en spline",-0.0313892840053594
+2021-01-21,"Segunda",124,"Índice (día 1 = 100)",274.981988472622
+2021-01-22,"Segunda",125,"Casos",12270
+2021-01-22,"Segunda",125,"Media móvil de 7 días",12725.1428571429
+2021-01-22,"Segunda",125,"Spline (df=33)",12805.5812809022
+2021-01-22,"Segunda",125,"Cambio en spline",-0.0346874300083951
+2021-01-22,"Segunda",125,"Índice (día 1 = 100)",267.399135446686
+2021-01-23,"Segunda",126,"Casos",11174
+2021-01-23,"Segunda",126,"Media móvil de 7 días",12316
+2021-01-23,"Segunda",126,"Spline (df=33)",12322.1844801291
+2021-01-23,"Segunda",126,"Cambio en spline",-0.0377489151151667
+2021-01-23,"Segunda",126,"Índice (día 1 = 100)",258.801633045149
+2021-01-24,"Segunda",127,"Casos",9826
+2021-01-24,"Segunda",127,"Media móvil de 7 días",11307.2857142857
+2021-01-24,"Segunda",127,"Spline (df=33)",11822.5608277597
+2021-01-24,"Segunda",127,"Cambio en spline",-0.0405466784866839
+2021-01-24,"Segunda",127,"Índice (día 1 = 100)",237.605067243036
+2021-01-25,"Segunda",128,"Casos",14294
+2021-01-25,"Segunda",128,"Media móvil de 7 días",11023.8571428571
+2021-01-25,"Segunda",128,"Spline (df=33)",11313.7259994158
+2021-01-25,"Segunda",128,"Cambio en spline",-0.0430393072835062
+2021-01-25,"Segunda",128,"Índice (día 1 = 100)",231.649255523535
+2021-01-26,"Segunda",129,"Casos",10543
+2021-01-26,"Segunda",129,"Media móvil de 7 días",10420.7142857143
+2021-01-26,"Segunda",129,"Spline (df=33)",10802.6956707192
+2021-01-26,"Segunda",129,"Cambio en spline",-0.0451690564826304
+2021-01-26,"Segunda",129,"Índice (día 1 = 100)",218.975144092219
+2021-01-27,"Segunda",130,"Casos",9290
+2021-01-27,"Segunda",130,"Media móvil de 7 días",9930.14285714286
+2021-01-27,"Segunda",130,"Spline (df=33)",10296.4855172916
+2021-01-27,"Segunda",130,"Cambio en spline",-0.0468596143830709
+2021-01-27,"Segunda",130,"Índice (día 1 = 100)",208.666546589817
+2021-01-28,"Segunda",131,"Casos",9770
+2021-01-28,"Segunda",131,"Media móvil de 7 días",9488.42857142857
+2021-01-28,"Segunda",131,"Spline (df=33)",9802.11121475484
+2021-01-28,"Segunda",131,"Cambio en spline",-0.0480138880112569
+2021-01-28,"Segunda",131,"Índice (día 1 = 100)",199.384606147935
+2021-01-29,"Segunda",132,"Casos",8048
+2021-01-29,"Segunda",132,"Media móvil de 7 días",8966.28571428571
+2021-01-29,"Segunda",132,"Spline (df=33)",9326.58843873065
+2021-01-29,"Segunda",132,"Cambio en spline",-0.0485122812428812
+2021-01-29,"Segunda",132,"Índice (día 1 = 100)",188.412584053794
+2021-01-30,"Segunda",133,"Casos",7740
+2021-01-30,"Segunda",133,"Media móvil de 7 días",8771.42857142857
+2021-01-30,"Segunda",133,"Spline (df=33)",8876.9328648408
+2021-01-30,"Segunda",133,"Cambio en spline",-0.0482122243137216
+2021-01-30,"Segunda",133,"Índice (día 1 = 100)",184.317963496638
+2021-01-31,"Segunda",134,"Casos",6734
+2021-01-31,"Segunda",134,"Media móvil de 7 días",8546.71428571429
+2021-01-31,"Segunda",134,"Spline (df=33)",8460.16016870707
+2021-01-31,"Segunda",134,"Cambio en spline",-0.0469500786453464
+2021-01-31,"Segunda",134,"Índice (día 1 = 100)",179.595941402498
+2021-02-01,"Segunda",135,"Casos",10639
+2021-02-01,"Segunda",135,"Media móvil de 7 días",8194.71428571429
+2021-02-01,"Segunda",135,"Spline (df=33)",8083.28602595121
+2021-02-01,"Segunda",135,"Cambio en spline",-0.0445469276279028
+2021-02-01,"Segunda",135,"Índice (día 1 = 100)",172.199207492795
+2021-02-02,"Segunda",136,"Casos",9179
+2021-02-02,"Segunda",136,"Media móvil de 7 días",8243
+2021-02-02,"Segunda",136,"Spline (df=33)",7751.59616770387
+2021-02-02,"Segunda",136,"Cambio en spline",-0.0410340370466237
+2021-02-02,"Segunda",136,"Índice (día 1 = 100)",173.213856868396
+2021-02-03,"Segunda",137,"Casos",7717
+2021-02-03,"Segunda",137,"Media móvil de 7 días",8061
+2021-02-03,"Segunda",137,"Spline (df=33)",7463.45654713122
+2021-02-03,"Segunda",137,"Cambio en spline",-0.0371716501142248
+2021-02-03,"Segunda",137,"Índice (día 1 = 100)",169.389409221902
+2021-02-04,"Segunda",138,"Casos",7306
+2021-02-04,"Segunda",138,"Media móvil de 7 días",7906.71428571429
+2021-02-04,"Segunda",138,"Spline (df=33)",7215.50317290828
+2021-02-04,"Segunda",138,"Cambio en spline",-0.0332223243556287
+2021-02-04,"Segunda",138,"Índice (día 1 = 100)",166.147334293948
+2021-02-05,"Segunda",139,"Casos",8386
+2021-02-05,"Segunda",139,"Media móvil de 7 días",7586.14285714286
+2021-02-05,"Segunda",139,"Spline (df=33)",7004.37205371011
+2021-02-05,"Segunda",139,"Cambio en spline",-0.0292607617429779
+2021-02-05,"Segunda",139,"Índice (día 1 = 100)",159.411023054755
+2021-02-06,"Segunda",140,"Casos",6466
+2021-02-06,"Segunda",140,"Media móvil de 7 días",7188.28571428571
+2021-02-06,"Segunda",140,"Spline (df=33)",6826.69919821175
+2021-02-06,"Segunda",140,"Cambio en spline",-0.0253659934303828
+2021-02-06,"Segunda",140,"Índice (día 1 = 100)",151.050672430355
+2021-02-07,"Segunda",141,"Casos",5654
+2021-02-07,"Segunda",141,"Media móvil de 7 días",7179
+2021-02-07,"Segunda",141,"Spline (df=33)",6679.12061508822
+2021-02-07,"Segunda",141,"Cambio en spline",-0.0216178534953153
+2021-02-07,"Segunda",141,"Índice (día 1 = 100)",150.855547550432
+2021-02-08,"Segunda",142,"Casos",8395
+2021-02-08,"Segunda",142,"Media móvil de 7 días",6923.57142857143
+2021-02-08,"Segunda",142,"Spline (df=33)",6558.27231301457
+2021-02-08,"Segunda",142,"Cambio en spline",-0.0180934450862661
+2021-02-08,"Segunda",142,"Índice (día 1 = 100)",145.488112391931
+2021-02-09,"Segunda",143,"Casos",6394
+2021-02-09,"Segunda",143,"Media móvil de 7 días",6581.42857142857
+2021-02-09,"Segunda",143,"Spline (df=33)",6460.79030066584
+2021-02-09,"Segunda",143,"Cambio en spline",-0.0148639775379985
+2021-02-09,"Segunda",143,"Índice (día 1 = 100)",138.29851104707
+2021-02-10,"Segunda",144,"Casos",7652
+2021-02-10,"Segunda",144,"Media móvil de 7 días",6403
+2021-02-10,"Segunda",144,"Spline (df=33)",6383.31058671708
+2021-02-10,"Segunda",144,"Cambio en spline",-0.0119922966607939
+2021-02-10,"Segunda",144,"Índice (día 1 = 100)",134.549111431316
+2021-02-11,"Segunda",145,"Casos",5518
+2021-02-11,"Segunda",145,"Media móvil de 7 días",6299.71428571429
+2021-02-11,"Segunda",145,"Spline (df=33)",6322.46917984332
+2021-02-11,"Segunda",145,"Cambio en spline",-0.00953132485835292
+2021-02-11,"Segunda",145,"Índice (día 1 = 100)",132.378722382325
+2021-02-12,"Segunda",146,"Casos",5991
+2021-02-12,"Segunda",146,"Media móvil de 7 días",6195.71428571429
+2021-02-12,"Segunda",146,"Spline (df=33)",6274.90208871959
+2021-02-12,"Segunda",146,"Cambio en spline",-0.00752349909041434
+2021-02-12,"Segunda",146,"Índice (día 1 = 100)",130.193323727185
+2021-02-13,"Segunda",147,"Casos",5217
+2021-02-13,"Segunda",147,"Media móvil de 7 días",6117.14285714286
+2021-02-13,"Segunda",147,"Spline (df=33)",6237.24532202095
+2021-02-13,"Segunda",147,"Cambio en spline",-0.00600117199698484
+2021-02-13,"Segunda",147,"Índice (día 1 = 100)",128.542267050913
+2021-02-14,"Segunda",148,"Casos",4931
+2021-02-14,"Segunda",148,"Media móvil de 7 días",5808.42857142857
+2021-02-14,"Segunda",148,"Spline (df=33)",6206.13488842242
+2021-02-14,"Segunda",148,"Cambio en spline",-0.00498784831962412
+2021-02-14,"Segunda",148,"Índice (día 1 = 100)",122.055115273775
+2021-02-15,"Segunda",149,"Casos",7667
+2021-02-15,"Segunda",149,"Media móvil de 7 días",5859.57142857143
+2021-02-15,"Segunda",149,"Spline (df=33)",6178.20679659906
+2021-02-15,"Segunda",149,"Cambio en spline",-0.00450007812035561
+2021-02-15,"Segunda",149,"Índice (día 1 = 100)",123.129803073967
+2021-02-16,"Segunda",150,"Casos",5844
+2021-02-16,"Segunda",150,"Media móvil de 7 días",5836.42857142857
+2021-02-16,"Segunda",150,"Spline (df=33)",6150.09705522589
+2021-02-16,"Segunda",150,"Cambio en spline",-0.0045498220274272
+2021-02-16,"Segunda",150,"Índice (día 1 = 100)",122.643491834774
+2021-02-17,"Segunda",151,"Casos",5491
+2021-02-17,"Segunda",151,"Media móvil de 7 días",6043.71428571429
+2021-02-17,"Segunda",151,"Spline (df=33)",6118.44167297796
+2021-02-17,"Segunda",151,"Cambio en spline",-0.00514713539699845
+2021-02-17,"Segunda",151,"Índice (día 1 = 100)",126.999279538905
+2021-02-18,"Segunda",152,"Casos",5876
+2021-02-18,"Segunda",152,"Media móvil de 7 días",5989
+2021-02-18,"Segunda",152,"Spline (df=33)",6080.50476328697
+2021-02-18,"Segunda",152,"Cambio en spline",-0.00620042025709471
+2021-02-18,"Segunda",152,"Índice (día 1 = 100)",125.849543707973
+2021-02-19,"Segunda",153,"Casos",5829
+2021-02-19,"Segunda",153,"Media móvil de 7 días",5851.14285714286
+2021-02-19,"Segunda",153,"Spline (df=33)",6036.06285861129
+2021-02-19,"Segunda",153,"Cambio en spline",-0.00730891700702427
+2021-02-19,"Segunda",153,"Índice (día 1 = 100)",122.952689721422
+2021-02-20,"Segunda",154,"Casos",6668
+2021-02-20,"Segunda",154,"Media móvil de 7 días",5803.42857142857
+2021-02-20,"Segunda",154,"Spline (df=33)",5985.52059616595
+2021-02-20,"Segunda",154,"Cambio en spline",-0.00837338239001938
+2021-02-20,"Segunda",154,"Índice (día 1 = 100)",121.95004803074
+2021-02-21,"Segunda",155,"Casos",4548
+2021-02-21,"Segunda",155,"Media móvil de 7 días",5729.71428571429
+2021-02-21,"Segunda",155,"Spline (df=33)",5929.28261316596
+2021-02-21,"Segunda",155,"Cambio en spline",-0.00939567111940223
+2021-02-21,"Segunda",155,"Índice (día 1 = 100)",120.401056676273
+2021-02-22,"Segunda",156,"Casos",6702
+2021-02-22,"Segunda",156,"Media móvil de 7 días",5691.71428571429
+2021-02-22,"Segunda",156,"Spline (df=33)",5867.75354682637
+2021-02-22,"Segunda",156,"Cambio en spline",-0.0103771519007995
+2021-02-22,"Segunda",156,"Índice (día 1 = 100)",119.602545629203
+2021-02-23,"Segunda",157,"Casos",5510
+2021-02-23,"Segunda",157,"Media móvil de 7 días",5682.28571428571
+2021-02-23,"Segunda",157,"Spline (df=33)",5801.33803436219
+2021-02-23,"Segunda",157,"Cambio en spline",-0.0113187290390032
+2021-02-23,"Segunda",157,"Índice (día 1 = 100)",119.40441882805
+2021-02-24,"Segunda",158,"Casos",4975
+2021-02-24,"Segunda",158,"Media móvil de 7 días",5428.28571428571
+2021-02-24,"Segunda",158,"Spline (df=33)",5730.44071298846
+2021-02-24,"Segunda",158,"Cambio en spline",-0.012220856801275
+2021-02-24,"Segunda",158,"Índice (día 1 = 100)",114.067002881844
+2021-02-25,"Segunda",159,"Casos",5610
+2021-02-25,"Segunda",159,"Media móvil de 7 días",5607
+2021-02-25,"Segunda",159,"Spline (df=33)",5655.46621992021
+2021-02-25,"Segunda",159,"Cambio en spline",-0.0130835474657862
+2021-02-25,"Segunda",159,"Índice (día 1 = 100)",117.822406340058
+2021-02-26,"Segunda",160,"Casos",5763
+2021-02-26,"Segunda",160,"Media móvil de 7 días",5794.85714285714
+2021-02-26,"Segunda",160,"Spline (df=33)",5576.81919237245
+2021-02-26,"Segunda",160,"Cambio en spline",-0.013906373849558
+2021-02-26,"Segunda",160,"Índice (día 1 = 100)",121.769932756964
+2021-02-27,"Segunda",161,"Casos",4890
+2021-02-27,"Segunda",161,"Media móvil de 7 días",5774
+2021-02-27,"Segunda",161,"Spline (df=33)",5494.90426756022
+2021-02-27,"Segunda",161,"Cambio en spline",-0.0146884670251215
+2021-02-27,"Segunda",161,"Índice (día 1 = 100)",121.331652257445
+2021-02-28,"Segunda",162,"Casos",5799
+2021-02-28,"Segunda",162,"Media móvil de 7 días",5797.85714285714
+2021-02-28,"Segunda",162,"Spline (df=33)",5410.12608269855
+2021-02-28,"Segunda",162,"Cambio en spline",-0.0154285098945523
+2021-02-28,"Segunda",162,"Índice (día 1 = 100)",121.832973102786
+2021-03-01,"Segunda",163,"Casos",8017
+2021-03-01,"Segunda",163,"Media móvil de 7 días",5662
+2021-03-01,"Segunda",163,"Spline (df=33)",5322.88927500246
+2021-03-01,"Segunda",163,"Cambio en spline",-0.0161247272914891
+2021-03-01,"Segunda",163,"Índice (día 1 = 100)",118.978146013449
+2021-03-02,"Segunda",164,"Casos",5364
+2021-03-02,"Segunda",164,"Media móvil de 7 días",5580.85714285714
+2021-03-02,"Segunda",164,"Spline (df=33)",5233.59848168699
+2021-03-02,"Segunda",164,"Cambio en spline",-0.016774873325809
+2021-03-02,"Segunda",164,"Índice (día 1 = 100)",117.273054755043
+2021-03-03,"Segunda",165,"Casos",5142
+2021-03-03,"Segunda",165,"Media móvil de 7 días",5487.57142857143
+2021-03-03,"Segunda",165,"Spline (df=33)",5142.65833996716
+2021-03-03,"Segunda",165,"Cambio en spline",-0.0173762167728465
+2021-03-03,"Segunda",165,"Índice (día 1 = 100)",115.312800192123
+2021-03-04,"Segunda",166,"Casos",4659
+2021-03-04,"Segunda",166,"Media móvil de 7 días",5206.14285714286
+2021-03-04,"Segunda",166,"Spline (df=33)",5050.47348705799
+2021-03-04,"Segunda",166,"Cambio en spline",-0.0179255254413334
+2021-03-04,"Segunda",166,"Índice (día 1 = 100)",109.399015369837
+2021-03-05,"Segunda",167,"Casos",5195
+2021-03-05,"Segunda",167,"Media móvil de 7 días",4817
+2021-03-05,"Segunda",167,"Spline (df=33)",4957.44856017452
+2021-03-05,"Segunda",167,"Cambio en spline",-0.0184190506339353
+2021-03-05,"Segunda",167,"Índice (día 1 = 100)",101.221781940442
+2021-03-06,"Segunda",168,"Casos",4237
+2021-03-06,"Segunda",168,"Media móvil de 7 días",4686.28571428571
+2021-03-06,"Segunda",168,"Spline (df=33)",4863.9871781591
+2021-03-06,"Segunda",168,"Cambio en spline",-0.0188527184661566
+2021-03-06,"Segunda",168,"Índice (día 1 = 100)",98.4750240153698
+2021-03-07,"Segunda",169,"Casos",3829
+2021-03-07,"Segunda",169,"Media móvil de 7 días",4683.57142857143
+2021-03-07,"Segunda",169,"Spline (df=33)",4770.48888636337
+2021-03-07,"Segunda",169,"Cambio en spline",-0.019222561320796
+2021-03-07,"Segunda",169,"Índice (día 1 = 100)",98.4179875120077
+2021-03-08,"Segunda",170,"Casos",5293
+2021-03-08,"Segunda",170,"Media móvil de 7 días",4547.57142857143
+2021-03-08,"Segunda",170,"Spline (df=33)",4677.3522117663
+2021-03-08,"Segunda",170,"Cambio en spline",-0.019523507299913
+2021-03-08,"Segunda",170,"Índice (día 1 = 100)",95.5601585014409
+2021-03-09,"Segunda",171,"Casos",4449
+2021-03-09,"Segunda",171,"Media móvil de 7 días",4366.28571428571
+2021-03-09,"Segunda",171,"Spline (df=33)",4584.97568134686
+2021-03-09,"Segunda",171,"Cambio en spline",-0.0197497486263827
+2021-03-09,"Segunda",171,"Índice (día 1 = 100)",91.7507204610951
+2021-03-10,"Segunda",172,"Casos",5123
+2021-03-10,"Segunda",172,"Media móvil de 7 días",4262.85714285714
+2021-03-10,"Segunda",172,"Spline (df=33)",4493.75782208402
+2021-03-10,"Segunda",172,"Cambio en spline",-0.0198949494179308
+2021-03-10,"Segunda",172,"Índice (día 1 = 100)",89.5773294908742
+2021-03-11,"Segunda",173,"Casos",3707
+2021-03-11,"Segunda",173,"Media móvil de 7 días",4191.71428571429
+2021-03-11,"Segunda",173,"Spline (df=33)",4404.09716095675
+2021-03-11,"Segunda",173,"Cambio en spline",-0.0199522681633283
+2021-03-11,"Segunda",173,"Índice (día 1 = 100)",88.0823727185398
+2021-03-12,"Segunda",174,"Casos",3926
+2021-03-12,"Segunda",174,"Media móvil de 7 días",4091.28571428571
+2021-03-12,"Segunda",174,"Spline (df=33)",4316.39222494401
+2021-03-12,"Segunda",174,"Cambio en spline",-0.0199143962558913
+2021-03-12,"Segunda",174,"Índice (día 1 = 100)",85.9720220941402
+2021-03-13,"Segunda",175,"Casos",3513
+2021-03-13,"Segunda",175,"Media móvil de 7 días",4092.28571428571
+2021-03-13,"Segunda",175,"Spline (df=33)",4231.04154102477
+2021-03-13,"Segunda",175,"Cambio en spline",-0.0197736163609048
+2021-03-13,"Segunda",175,"Índice (día 1 = 100)",85.9930355427474
+2021-03-14,"Segunda",176,"Casos",3331
+2021-03-14,"Segunda",176,"Media móvil de 7 días",3933.14285714286
+2021-03-14,"Segunda",176,"Spline (df=33)",4148.44363617801
+2021-03-14,"Segunda",176,"Cambio en spline",-0.0195218846342866
+2021-03-14,"Segunda",176,"Índice (día 1 = 100)",82.6488952929875
+2021-03-15,"Segunda",177,"Casos",4590
+2021-03-15,"Segunda",177,"Media móvil de 7 días",3994.85714285714
+2021-03-15,"Segunda",177,"Spline (df=33)",4068.99703738269
+2021-03-15,"Segunda",177,"Cambio en spline",-0.0191509408739405
+2021-03-15,"Segunda",177,"Índice (día 1 = 100)",83.9457252641691
+2021-03-16,"Segunda",178,"Casos",4456
+2021-03-16,"Segunda",178,"Media móvil de 7 días",4006.57142857143
+2021-03-16,"Segunda",178,"Spline (df=33)",3993.10027161779
+2021-03-16,"Segunda",178,"Cambio en spline",-0.0186524504853726
+2021-03-16,"Segunda",178,"Índice (día 1 = 100)",84.1918828049952
+2021-03-17,"Segunda",179,"Casos",4009
+2021-03-17,"Segunda",179,"Media móvil de 7 días",4184
+2021-03-17,"Segunda",179,"Spline (df=33)",3921.15186586225
+2021-03-17,"Segunda",179,"Cambio en spline",-0.0180181815785914
+2021-03-17,"Segunda",179,"Índice (día 1 = 100)",87.9202689721422
+2021-03-18,"Segunda",180,"Casos",4139
+2021-03-18,"Segunda",180,"Media móvil de 7 días",4151.42857142857
+2021-03-18,"Segunda",180,"Spline (df=33)",3853.55034709507
+2021-03-18,"Segunda",180,"Cambio en spline",-0.0172402194762526
+2021-03-18,"Segunda",180,"Índice (día 1 = 100)",87.2358309317963
+2021-03-19,"Segunda",181,"Casos",4008
+2021-03-19,"Segunda",181,"Media móvil de 7 días",4126.42857142857
+2021-03-19,"Segunda",181,"Spline (df=33)",3790.6942422952
+2021-03-19,"Segunda",181,"Cambio en spline",-0.0163112193012478
+2021-03-19,"Segunda",181,"Índice (día 1 = 100)",86.7104947166186
+2021-03-20,"Segunda",182,"Casos",4755
+2021-03-20,"Segunda",182,"Media móvil de 7 días",4035.28571428571
+2021-03-20,"Segunda",182,"Spline (df=33)",3732.98207844162
+2021-03-20,"Segunda",182,"Cambio en spline",-0.0152246950465303
+2021-03-20,"Segunda",182,"Índice (día 1 = 100)",84.7952689721422
+2021-03-21,"Segunda",183,"Casos",3103
+2021-03-21,"Segunda",183,"Media móvil de 7 días",3957.14285714286
+2021-03-21,"Segunda",183,"Spline (df=33)",3680.81238251329
+2021-03-21,"Segunda",183,"Cambio en spline",-0.0139753405808228
+2021-03-21,"Segunda",183,"Índice (día 1 = 100)",83.1532180595581
+2021-03-22,"Segunda",184,"Casos",4415
+2021-03-22,"Segunda",184,"Media móvil de 7 días",3873.71428571429
+2021-03-22,"Segunda",184,"Spline (df=33)",3634.42932331443
+2021-03-22,"Segunda",184,"Cambio en spline",-0.0126013103572517
+2021-03-22,"Segunda",184,"Índice (día 1 = 100)",81.4000960614793
+2021-03-23,"Segunda",185,"Casos",3818
+2021-03-23,"Segunda",185,"Media móvil de 7 días",3749.28571428571
+2021-03-23,"Segunda",185,"Spline (df=33)",3593.4596369502
+2021-03-23,"Segunda",185,"Cambio en spline",-0.0112726600848741
+2021-03-23,"Segunda",185,"Índice (día 1 = 100)",78.7854226705091
+2021-03-24,"Segunda",186,"Casos",3462
+2021-03-24,"Segunda",186,"Media móvil de 7 días",3498.57142857143
+2021-03-24,"Segunda",186,"Spline (df=33)",3557.37570135105
+2021-03-24,"Segunda",186,"Cambio en spline",-0.0100415586217024
+2021-03-24,"Segunda",186,"Índice (día 1 = 100)",73.517050912584
+2021-03-25,"Segunda",187,"Casos",3555
+2021-03-25,"Segunda",187,"Media móvil de 7 días",3481
+2021-03-25,"Segunda",187,"Spline (df=33)",3525.64989444738
+2021-03-25,"Segunda",187,"Cambio en spline",-0.00891831776205746
+2021-03-25,"Segunda",187,"Índice (día 1 = 100)",73.1478146013449
+2021-03-26,"Segunda",188,"Casos",3137
+2021-03-26,"Segunda",188,"Media móvil de 7 días",3342.14285714286
+2021-03-26,"Segunda",188,"Spline (df=33)",3497.75459416961
+2021-03-26,"Segunda",188,"Cambio en spline",-0.0079121016303109
+2021-03-26,"Segunda",188,"Índice (día 1 = 100)",70.2299471661864
+2021-03-27,"Segunda",189,"Casos",3000
+2021-03-27,"Segunda",189,"Media móvil de 7 días",3244.71428571429
+2021-03-27,"Segunda",189,"Spline (df=33)",3473.16217844818
+2021-03-27,"Segunda",189,"Cambio en spline",-0.00703091513693597
+2021-03-27,"Segunda",189,"Índice (día 1 = 100)",68.1826368876081
+2021-03-28,"Segunda",190,"Casos",2980
+2021-03-28,"Segunda",190,"Media móvil de 7 días",3155.42857142857
+2021-03-28,"Segunda",190,"Spline (df=33)",3451.3450252135
+2021-03-28,"Segunda",190,"Cambio en spline",-0.00628163964529603
+2021-03-28,"Segunda",190,"Índice (día 1 = 100)",66.3064361191162
+2021-03-29,"Segunda",191,"Casos",3443
+2021-03-29,"Segunda",191,"Media móvil de 7 días",3177.71428571429
+2021-03-29,"Segunda",191,"Spline (df=33)",3431.77551239599
+2021-03-29,"Segunda",191,"Cambio en spline",-0.00567011199243973
+2021-03-29,"Segunda",191,"Índice (día 1 = 100)",66.7747358309318
+2021-03-30,"Segunda",192,"Casos",3136
+2021-03-30,"Segunda",192,"Media móvil de 7 días",3138.57142857143
+2021-03-30,"Segunda",192,"Spline (df=33)",3413.92601792607
+2021-03-30,"Segunda",192,"Cambio en spline",-0.00520124186603793
+2021-03-30,"Segunda",192,"Índice (día 1 = 100)",65.952209414025
+2021-03-31,"Segunda",193,"Casos",2837
+2021-03-31,"Segunda",193,"Media móvil de 7 días",3153
+2021-03-31,"Segunda",193,"Spline (df=33)",3397.26891973417
+2021-03-31,"Segunda",193,"Cambio en spline",-0.00487916202765865
+2021-03-31,"Segunda",193,"Índice (día 1 = 100)",66.2554034582133
+2021-04-01,"Segunda",194,"Casos",3711
+2021-04-01,"Segunda",194,"Media móvil de 7 días",3202
+2021-04-01,"Segunda",194,"Spline (df=33)",3381.2765957507
+2021-04-01,"Segunda",194,"Cambio en spline",-0.00470740596676571
+2021-04-01,"Segunda",194,"Índice (día 1 = 100)",67.2850624399616
+2021-04-02,"Segunda",195,"Casos",2863
+2021-04-02,"Segunda",195,"Media móvil de 7 días",3350.28571428571
+2021-04-02,"Segunda",195,"Spline (df=33)",3365.4214239061
+2021-04-02,"Segunda",195,"Cambio en spline",-0.00468910820976115
+2021-04-02,"Segunda",195,"Índice (día 1 = 100)",70.4010566762728
+2021-04-03,"Segunda",196,"Casos",3101
+2021-04-03,"Segunda",196,"Media móvil de 7 días",3387.28571428571
+2021-04-03,"Segunda",196,"Spline (df=33)",3349.17578213077
+2021-04-03,"Segunda",196,"Cambio en spline",-0.0048272236160161
+2021-04-03,"Segunda",196,"Índice (día 1 = 100)",71.1785542747358
+2021-04-04,"Segunda",197,"Casos",3323
+2021-04-04,"Segunda",197,"Media móvil de 7 días",3449
+2021-04-04,"Segunda",197,"Spline (df=33)",3332.01204835514
+2021-04-04,"Segunda",197,"Cambio en spline",-0.00512476349172256
+2021-04-04,"Segunda",197,"Índice (día 1 = 100)",72.4753842459174
+2021-04-05,"Segunda",198,"Casos",4481
+2021-04-05,"Segunda",198,"Media móvil de 7 días",3365.71428571429
+2021-04-05,"Segunda",198,"Spline (df=33)",3313.40260050964
+2021-04-05,"Segunda",198,"Cambio en spline",-0.00558504818573196
+2021-04-05,"Segunda",198,"Índice (día 1 = 100)",70.7252641690682
+2021-04-06,"Segunda",199,"Casos",3395
+2021-04-06,"Segunda",199,"Media móvil de 7 días",3422.28571428571
+2021-04-06,"Segunda",199,"Spline (df=33)",3292.81981652468
+2021-04-06,"Segunda",199,"Cambio en spline",-0.00621197797750055
+2021-04-06,"Segunda",199,"Índice (día 1 = 100)",71.9140249759846
+2021-04-07,"Segunda",200,"Casos",3269
+2021-04-07,"Segunda",200,"Media móvil de 7 días",3532.85714285714
+2021-04-07,"Segunda",200,"Spline (df=33)",3269.84359978717
+2021-04-07,"Segunda",200,"Cambio en spline",-0.00697767203119124
+2021-04-07,"Segunda",200,"Índice (día 1 = 100)",74.2375120076849
+2021-04-08,"Segunda",201,"Casos",3128
+2021-04-08,"Segunda",201,"Media móvil de 7 días",3444.85714285714
+2021-04-08,"Segunda",201,"Spline (df=33)",3244.48395550989
+2021-04-08,"Segunda",201,"Cambio en spline",-0.00775561384003942
+2021-04-08,"Segunda",201,"Índice (día 1 = 100)",72.3883285302594
+2021-04-09,"Segunda",202,"Casos",3259
+2021-04-09,"Segunda",202,"Media móvil de 7 días",3322.57142857143
+2021-04-09,"Segunda",202,"Spline (df=33)",3216.85841436214
+2021-04-09,"Segunda",202,"Cambio en spline",-0.00851461789503912
+2021-04-09,"Segunda",202,"Índice (día 1 = 100)",69.8186839577329
+2021-04-10,"Segunda",203,"Casos",3875
+2021-04-10,"Segunda",203,"Media móvil de 7 días",3255.85714285714
+2021-04-10,"Segunda",203,"Spline (df=33)",3187.08450701319
+2021-04-10,"Segunda",203,"Cambio en spline",-0.00925558526791957
+2021-04-10,"Segunda",203,"Índice (día 1 = 100)",68.4167867435158
+2021-04-11,"Segunda",204,"Casos",2707
+2021-04-11,"Segunda",204,"Media móvil de 7 días",3193.42857142857
+2021-04-11,"Segunda",204,"Spline (df=33)",3155.27976413231
+2021-04-11,"Segunda",204,"Cambio en spline",-0.00997925935471387
+2021-04-11,"Segunda",204,"Índice (día 1 = 100)",67.1049471661864
+2021-04-12,"Segunda",205,"Casos",3625
+2021-04-12,"Segunda",205,"Media móvil de 7 días",3191.71428571429
+2021-04-12,"Segunda",205,"Spline (df=33)",3121.56171638879
+2021-04-12,"Segunda",205,"Cambio en spline",-0.0106862307827064
+2021-04-12,"Segunda",205,"Índice (día 1 = 100)",67.0689241114313
+2021-04-13,"Segunda",206,"Casos",2928
+2021-04-13,"Segunda",206,"Media móvil de 7 días",3135.85714285714
+2021-04-13,"Segunda",206,"Spline (df=33)",3086.0478944519
+2021-04-13,"Segunda",206,"Cambio en spline",-0.0113769405071934
+2021-04-13,"Segunda",206,"Índice (día 1 = 100)",65.8951729106628
+2021-04-14,"Segunda",207,"Casos",2832
+2021-04-14,"Segunda",207,"Media móvil de 7 días",2938.42857142857
+2021-04-14,"Segunda",207,"Spline (df=33)",3048.85582899093
+2021-04-14,"Segunda",207,"Cambio en spline",-0.0120516812223948
+2021-04-14,"Segunda",207,"Índice (día 1 = 100)",61.7465177713737
+2021-04-15,"Segunda",208,"Casos",3116
+2021-04-15,"Segunda",208,"Media móvil de 7 días",2907.42857142857
+2021-04-15,"Segunda",208,"Spline (df=33)",3010.10305067514
+2021-04-15,"Segunda",208,"Cambio en spline",-0.0127105971844575
+2021-04-15,"Segunda",208,"Índice (día 1 = 100)",61.0951008645533
+2021-04-16,"Segunda",209,"Casos",2868
+2021-04-16,"Segunda",209,"Media móvil de 7 días",2868.14285714286
+2021-04-16,"Segunda",209,"Spline (df=33)",2969.90709017381
+2021-04-16,"Segunda",209,"Cambio en spline",-0.0133536825233634
+2021-04-16,"Segunda",209,"Índice (día 1 = 100)",60.2695725264169
+2021-04-17,"Segunda",210,"Casos",2493
+2021-04-17,"Segunda",210,"Media móvil de 7 días",2942.28571428571
+2021-04-17,"Segunda",210,"Spline (df=33)",2928.38547815624
+2021-04-17,"Segunda",210,"Cambio en spline",-0.0139807781041215
+2021-04-17,"Segunda",210,"Índice (día 1 = 100)",61.8275696445725
+2021-04-18,"Segunda",211,"Casos",2490
+2021-04-18,"Segunda",211,"Media móvil de 7 días",2899.28571428571
+2021-04-18,"Segunda",211,"Spline (df=33)",2885.65574529168
+2021-04-18,"Segunda",211,"Cambio en spline",-0.0145915669857305
+2021-04-18,"Segunda",211,"Índice (día 1 = 100)",60.9239913544669
+2021-04-19,"Segunda",212,"Casos",3350
+2021-04-19,"Segunda",212,"Media móvil de 7 días",2805.42857142857
+2021-04-19,"Segunda",212,"Spline (df=33)",2841.83542224942
+2021-04-19,"Segunda",212,"Cambio en spline",-0.0151855685189597
+2021-04-19,"Segunda",212,"Índice (día 1 = 100)",58.9517291066282
+2021-04-20,"Segunda",213,"Casos",3447
+2021-04-20,"Segunda",213,"Media móvil de 7 días",2752.42857142857
+2021-04-20,"Segunda",213,"Spline (df=33)",2797.04203969874
+2021-04-20,"Segunda",213,"Cambio en spline",-0.0157621311213099
+2021-04-20,"Segunda",213,"Índice (día 1 = 100)",57.8380163304515
+2021-04-21,"Segunda",214,"Casos",2531
+2021-04-21,"Segunda",214,"Media móvil de 7 días",2753.42857142857
+2021-04-21,"Segunda",214,"Spline (df=33)",2751.39312830892
+2021-04-21,"Segunda",214,"Cambio en spline",-0.0163204237697979
+2021-04-21,"Segunda",214,"Índice (día 1 = 100)",57.8590297790586
+2021-04-22,"Segunda",215,"Casos",2459
+2021-04-22,"Segunda",215,"Media móvil de 7 días",2783.14285714286
+2021-04-22,"Segunda",215,"Spline (df=33)",2705.00621874923
+2021-04-22,"Segunda",215,"Cambio en spline",-0.0168594262602525
+2021-04-22,"Segunda",215,"Índice (día 1 = 100)",58.4834293948127
+2021-04-23,"Segunda",216,"Casos",2497
+2021-04-23,"Segunda",216,"Media móvil de 7 días",2707
+2021-04-23,"Segunda",216,"Spline (df=33)",2658.02503496913
+2021-04-23,"Segunda",216,"Cambio en spline",-0.0173682350356378
+2021-04-23,"Segunda",216,"Índice (día 1 = 100)",56.8834053794428
+2021-04-24,"Segunda",217,"Casos",2500
+2021-04-24,"Segunda",217,"Media móvil de 7 días",2569
+2021-04-24,"Segunda",217,"Spline (df=33)",2610.6980740388
+2021-04-24,"Segunda",217,"Cambio en spline",-0.0178053104495603
+2021-04-24,"Segunda",217,"Índice (día 1 = 100)",53.9835494716619
+2021-04-25,"Segunda",218,"Casos",2698
+2021-04-25,"Segunda",218,"Media móvil de 7 días",2547.28571428571
+2021-04-25,"Segunda",218,"Spline (df=33)",2563.3000263086
+2021-04-25,"Segunda",218,"Cambio en spline",-0.0181553156994802
+2021-04-25,"Segunda",218,"Índice (día 1 = 100)",53.5272574447646
+2021-04-26,"Segunda",219,"Casos",2817
+2021-04-26,"Segunda",219,"Media móvil de 7 días",2489.42857142857
+2021-04-26,"Segunda",219,"Spline (df=33)",2516.10558212889
+2021-04-26,"Segunda",219,"Cambio en spline",-0.0184115958706856
+2021-04-26,"Segunda",219,"Índice (día 1 = 100)",52.3114793467819
+2021-04-27,"Segunda",220,"Casos",2481
+2021-04-27,"Segunda",220,"Media móvil de 7 días",2454.71428571429
+2021-04-27,"Segunda",220,"Spline (df=33)",2469.38943185003
+2021-04-27,"Segunda",220,"Cambio en spline",-0.0185668481524292
+2021-04-27,"Segunda",220,"Índice (día 1 = 100)",51.5820124879923
+2021-04-28,"Segunda",221,"Casos",2379
+2021-04-28,"Segunda",221,"Media móvil de 7 días",2459.57142857143
+2021-04-28,"Segunda",221,"Spline (df=33)",2423.42626582236
+2021-04-28,"Segunda",221,"Cambio en spline",-0.0186131702982249
+2021-04-28,"Segunda",221,"Índice (día 1 = 100)",51.6840778097983
+2021-04-29,"Segunda",222,"Casos",2054
+2021-04-29,"Segunda",222,"Media móvil de 7 días",2343.71428571429
+2021-04-29,"Segunda",222,"Spline (df=33)",2378.49077439627
+2021-04-29,"Segunda",222,"Cambio en spline",-0.0185421327068309
+2021-04-29,"Segunda",222,"Índice (día 1 = 100)",49.2495196926033
+2021-04-30,"Segunda",223,"Casos",2254
+2021-04-30,"Segunda",223,"Media móvil de 7 días",2308.71428571429
+2021-04-30,"Segunda",223,"Spline (df=33)",2334.85764792209
+2021-04-30,"Segunda",223,"Cambio en spline",-0.0183448794268505
+2021-04-30,"Segunda",223,"Índice (día 1 = 100)",48.5140489913545
+2021-05-01,"Segunda",224,"Casos",2534
+2021-05-01,"Segunda",224,"Media móvil de 7 días",2251.28571428571
+2021-05-01,"Segunda",224,"Spline (df=33)",2292.8015767502
+2021-05-01,"Segunda",224,"Cambio en spline",-0.0180122634925184
+2021-05-01,"Segunda",224,"Índice (día 1 = 100)",47.3072766570605
+2021-05-02,"Segunda",225,"Casos",1887
+2021-05-02,"Segunda",225,"Media móvil de 7 días",2253.42857142857
+2021-05-02,"Segunda",225,"Spline (df=33)",2252.59725123094
+2021-05-02,"Segunda",225,"Cambio en spline",-0.0175350217510929
+2021-05-02,"Segunda",225,"Índice (día 1 = 100)",47.3523054755043
+2021-05-03,"Segunda",226,"Casos",2572
+2021-05-03,"Segunda",226,"Media móvil de 7 días",2237.71428571429
+2021-05-03,"Segunda",226,"Spline (df=33)",2214.51936171469
+2021-05-03,"Segunda",226,"Cambio en spline",-0.0169039935991435
+2021-05-03,"Segunda",226,"Índice (día 1 = 100)",47.0220941402498
+2021-05-04,"Segunda",227,"Casos",2079
+2021-05-04,"Segunda",227,"Media móvil de 7 días",2197.85714285714
+2021-05-04,"Segunda",227,"Spline (df=33)",2178.84259855179
+2021-05-04,"Segunda",227,"Cambio en spline",-0.0161103866507971
+2021-05-04,"Segunda",227,"Índice (día 1 = 100)",46.184558117195
+2021-05-05,"Segunda",228,"Casos",2394
+2021-05-05,"Segunda",228,"Media móvil de 7 días",2098.71428571429
+2021-05-05,"Segunda",228,"Spline (df=33)",2145.8416520926
+2021-05-05,"Segunda",228,"Cambio en spline",-0.0151460901678342
+2021-05-05,"Segunda",228,"Índice (día 1 = 100)",44.1012247838617
+2021-05-06,"Segunda",229,"Casos",1944
+2021-05-06,"Segunda",229,"Media móvil de 7 días",2064.42857142857
+2021-05-06,"Segunda",229,"Spline (df=33)",2115.79121268749
+2021-05-06,"Segunda",229,"Cambio en spline",-0.0140040339769732
+2021-05-06,"Segunda",229,"Índice (día 1 = 100)",43.3807636887608
+2021-05-07,"Segunda",230,"Casos",1975
+2021-05-07,"Segunda",230,"Media móvil de 7 días",2067.28571428571
+2021-05-07,"Segunda",230,"Spline (df=33)",2088.96597068682
+2021-05-07,"Segunda",230,"Cambio en spline",-0.0126785865447484
+2021-05-07,"Segunda",230,"Índice (día 1 = 100)",43.4408021133525
+2021-05-08,"Segunda",231,"Casos",1840
+2021-05-08,"Segunda",231,"Media móvil de 7 días",2067
+2021-05-08,"Segunda",231,"Spline (df=33)",2065.64061644093
+2021-05-08,"Segunda",231,"Cambio en spline",-0.0111659809557428
+2021-05-08,"Segunda",231,"Índice (día 1 = 100)",43.4347982708934
+2021-05-09,"Segunda",232,"Casos",1647
+2021-05-09,"Segunda",232,"Media móvil de 7 días",2006.42857142857
+2021-05-09,"Segunda",232,"Spline (df=33)",2046.03160702501
+2021-05-09,"Segunda",232,"Cambio en spline",-0.00949294338029998
+2021-05-09,"Segunda",232,"Índice (día 1 = 100)",42.1619836695485
+2021-05-10,"Segunda",233,"Casos",2592
+2021-05-10,"Segunda",233,"Media móvil de 7 días",1993.71428571429
+2021-05-10,"Segunda",233,"Spline (df=33)",2030.12246641347
+2021-05-10,"Segunda",233,"Cambio en spline",-0.00777560842995824
+2021-05-10,"Segunda",233,"Índice (día 1 = 100)",41.8948126801153
+2021-05-11,"Segunda",234,"Casos",2077
+2021-05-11,"Segunda",234,"Media móvil de 7 días",2001.28571428571
+2021-05-11,"Segunda",234,"Spline (df=33)",2017.83848530553
+2021-05-11,"Segunda",234,"Cambio en spline",-0.00605085718283886
+2021-05-11,"Segunda",234,"Índice (día 1 = 100)",42.0539145052834
+2021-05-12,"Segunda",235,"Casos",1970
+2021-05-12,"Segunda",235,"Media móvil de 7 días",2055
+2021-05-12,"Segunda",235,"Spline (df=33)",2009.10495440042
+2021-05-12,"Segunda",235,"Cambio en spline",-0.00432816152963175
+2021-05-12,"Segunda",235,"Índice (día 1 = 100)",43.1826368876081
+2021-05-13,"Segunda",236,"Casos",1855
+2021-05-13,"Segunda",236,"Media móvil de 7 días",2051.14285714286
+2021-05-13,"Segunda",236,"Spline (df=33)",2003.84716439736
+2021-05-13,"Segunda",236,"Cambio en spline",-0.0026169812540336
+2021-05-13,"Segunda",236,"Índice (día 1 = 100)",43.1015850144092
+2021-05-14,"Tercera",1,"Casos",2028
+2021-05-14,"Tercera",1,"Media móvil de 7 días",2028.71428571429
+2021-05-14,"Tercera",1,"Spline (df=33)",2001.9904059956
+2021-05-14,"Tercera",1,"Cambio en spline",-0.00092659681574379
+2021-05-14,"Tercera",1,"Índice (día 1 = 100)",100
+2021-05-15,"Tercera",2,"Casos",2216
+2021-05-15,"Tercera",2,"Media móvil de 7 días",2048.28571428571
+2021-05-15,"Tercera",2,"Spline (df=33)",2003.45996989434
+2021-05-15,"Tercera",2,"Cambio en spline",0.000734051419198684
+2021-05-15,"Tercera",2,"Índice (día 1 = 100)",100.96472079431
+2021-05-16,"Tercera",3,"Casos",1620
+2021-05-16,"Tercera",3,"Media móvil de 7 días",2034.85714285714
+2021-05-16,"Tercera",3,"Spline (df=33)",2008.18114679282
+2021-05-16,"Tercera",3,"Cambio en spline",0.00235651171943825
+2021-05-16,"Tercera",3,"Índice (día 1 = 100)",100.302795577776
+2021-05-17,"Tercera",4,"Casos",2435
+2021-05-17,"Tercera",4,"Media móvil de 7 días",2107.71428571429
+2021-05-17,"Tercera",4,"Spline (df=33)",2016.07922739027
+2021-05-17,"Tercera",4,"Cambio en spline",0.0039329522688027
+2021-05-17,"Tercera",4,"Índice (día 1 = 100)",103.894091965355
+2021-05-18,"Tercera",5,"Casos",2214
+2021-05-18,"Tercera",5,"Media móvil de 7 días",2091
+2021-05-18,"Tercera",5,"Spline (df=33)",2027.0795023859
+2021-05-18,"Tercera",5,"Cambio en spline",0.00545627118527292
+2021-05-18,"Tercera",5,"Índice (día 1 = 100)",103.070206323498
+2021-05-19,"Tercera",6,"Casos",1876
+2021-05-19,"Tercera",6,"Media móvil de 7 días",2045.57142857143
+2021-05-19,"Tercera",6,"Spline (df=33)",2041.10726247896
+2021-05-19,"Tercera",6,"Cambio en spline",0.00692018249730435
+2021-05-19,"Tercera",6,"Índice (día 1 = 100)",100.830927399479
+2021-05-20,"Tercera",7,"Casos",2365
+2021-05-20,"Tercera",7,"Media móvil de 7 días",2077.57142857143
+2021-05-20,"Tercera",7,"Spline (df=33)",2058.08779836866
+2021-05-20,"Tercera",7,"Cambio en spline",0.008319276601405
+2021-05-20,"Tercera",7,"Índice (día 1 = 100)",102.408281106964
+2021-05-21,"Tercera",8,"Casos",1911
+2021-05-21,"Tercera",8,"Media móvil de 7 días",2098.85714285714
+2021-05-21,"Tercera",8,"Spline (df=33)",2077.94640075423
+2021-05-21,"Tercera",8,"Cambio en spline",0.00964905501179898
+2021-05-21,"Tercera",8,"Índice (día 1 = 100)",103.457502992747
+2021-05-22,"Tercera",9,"Casos",1898
+2021-05-22,"Tercera",9,"Media móvil de 7 días",2119.85714285714
+2021-05-22,"Tercera",9,"Spline (df=33)",2100.6083603349
+2021-05-22,"Tercera",9,"Cambio en spline",0.0109059403902062
+2021-05-22,"Tercera",9,"Índice (día 1 = 100)",104.492641363284
+2021-05-23,"Tercera",10,"Casos",1844
+2021-05-23,"Tercera",10,"Media móvil de 7 días",2160.57142857143
+2021-05-23,"Tercera",10,"Spline (df=33)",2125.99896780989
+2021-05-23,"Tercera",10,"Cambio en spline",0.0120872638395795
+2021-05-23,"Tercera",10,"Índice (día 1 = 100)",106.499542285755
+2021-05-24,"Tercera",11,"Casos",2584
+2021-05-24,"Tercera",11,"Media móvil de 7 días",2095.57142857143
+2021-05-24,"Tercera",11,"Spline (df=33)",2154.04351387844
+2021-05-24,"Tercera",11,"Cambio en spline",0.0131912322127965
+2021-05-24,"Tercera",11,"Índice (día 1 = 100)",103.295542567425
+2021-05-25,"Tercera",12,"Casos",2361
+2021-05-25,"Tercera",12,"Media móvil de 7 días",2158.28571428571
+2021-05-25,"Tercera",12,"Spline (df=33)",2184.68636734492
+2021-05-25,"Tercera",12,"Cambio en spline",0.014225735584752
+2021-05-25,"Tercera",12,"Índice (día 1 = 100)",106.386874163791
+2021-05-26,"Tercera",13,"Casos",2161
+2021-05-26,"Tercera",13,"Media móvil de 7 días",2161.71428571429
+2021-05-26,"Tercera",13,"Spline (df=33)",2217.94820943438
+2021-05-26,"Tercera",13,"Cambio en spline",0.0152249964052629
+2021-05-26,"Tercera",13,"Índice (día 1 = 100)",106.555876346736
+2021-05-27,"Tercera",14,"Casos",1910
+2021-05-27,"Tercera",14,"Media móvil de 7 días",2201.14285714286
+2021-05-27,"Tercera",14,"Spline (df=33)",2253.86879947699
+2021-05-27,"Tercera",14,"Cambio en spline",0.0161954142526044
+2021-05-27,"Tercera",14,"Índice (día 1 = 100)",108.499401450602
+2021-05-28,"Tercera",15,"Casos",2350
+2021-05-28,"Tercera",15,"Media móvil de 7 días",2206.57142857143
+2021-05-28,"Tercera",15,"Spline (df=33)",2292.48789680295
+2021-05-28,"Tercera",15,"Cambio en spline",0.0171345809192274
+2021-05-28,"Tercera",15,"Índice (día 1 = 100)",108.766988240265
+2021-05-29,"Tercera",16,"Casos",1922
+2021-05-29,"Tercera",16,"Media móvil de 7 días",2333.28571428571
+2021-05-29,"Tercera",16,"Spline (df=33)",2333.84526074245
+2021-05-29,"Tercera",16,"Cambio en spline",0.0180403848575059
+2021-05-29,"Tercera",16,"Índice (día 1 = 100)",115.013027251602
+2021-05-30,"Tercera",17,"Casos",2120
+2021-05-30,"Tercera",17,"Media móvil de 7 días",2363.28571428571
+2021-05-30,"Tercera",17,"Spline (df=33)",2377.98065062568
+2021-05-30,"Tercera",17,"Cambio en spline",0.018911018063463
+2021-05-30,"Tercera",17,"Índice (día 1 = 100)",116.49179635237
+2021-05-31,"Tercera",18,"Casos",2622
+2021-05-31,"Tercera",18,"Media móvil de 7 días",2411.14285714286
+2021-05-31,"Tercera",18,"Spline (df=33)",2424.93382578282
+2021-05-31,"Tercera",18,"Cambio en spline",0.0197449778007202
+2021-05-31,"Tercera",18,"Índice (día 1 = 100)",118.850785155975
+2021-06-01,"Tercera",19,"Casos",3248
+2021-06-01,"Tercera",19,"Media móvil de 7 días",2433.14285714286
+2021-06-01,"Tercera",19,"Spline (df=33)",2474.74454554408
+2021-06-01,"Tercera",19,"Cambio en spline",0.0205410635257955
+2021-06-01,"Tercera",19,"Índice (día 1 = 100)",119.935215829871
+2021-06-02,"Tercera",20,"Casos",2371
+2021-06-02,"Tercera",20,"Media móvil de 7 días",2539.28571428571
+2021-06-02,"Tercera",20,"Spline (df=33)",2527.45256923963
+2021-06-02,"Tercera",20,"Cambio en spline",0.0212983694783602
+2021-06-02,"Tercera",20,"Índice (día 1 = 100)",125.167241743539
+2021-06-03,"Tercera",21,"Casos",2245
+2021-06-03,"Tercera",21,"Media móvil de 7 días",2621.14285714286
+2021-06-03,"Tercera",21,"Spline (df=33)",2583.09765619968
+2021-06-03,"Tercera",21,"Cambio en spline",0.0220162734752266
+2021-06-03,"Tercera",21,"Índice (día 1 = 100)",129.202168861348
+2021-06-04,"Tercera",22,"Casos",2504
+2021-06-04,"Tercera",22,"Media móvil de 7 días",2706.14285714286
+2021-06-04,"Tercera",22,"Spline (df=33)",2641.7195657544
+2021-06-04,"Tercera",22,"Cambio en spline",0.0226944224946451
+2021-06-04,"Tercera",22,"Índice (día 1 = 100)",133.392014646856
+2021-06-05,"Tercera",23,"Casos",2665
+2021-06-05,"Tercera",23,"Media móvil de 7 días",2682.28571428571
+2021-06-05,"Tercera",23,"Spline (df=33)",2703.35805723399
+2021-06-05,"Tercera",23,"Cambio en spline",0.0233327156593887
+2021-06-05,"Tercera",23,"Índice (día 1 = 100)",132.216041123864
+2021-06-06,"Tercera",24,"Casos",2693
+2021-06-06,"Tercera",24,"Media móvil de 7 días",2753.57142857143
+2021-06-06,"Tercera",24,"Spline (df=33)",2768.05288996864
+2021-06-06,"Tercera",24,"Cambio en spline",0.0239312852256223
+2021-06-06,"Tercera",24,"Índice (día 1 = 100)",135.729878177593
+2021-06-07,"Tercera",25,"Casos",3217
+2021-06-07,"Tercera",25,"Media móvil de 7 días",2879.28571428571
+2021-06-07,"Tercera",25,"Spline (df=33)",2835.84382328854
+2021-06-07,"Tercera",25,"Cambio en spline",0.0244904761630723
+2021-06-07,"Tercera",25,"Índice (día 1 = 100)",141.926624885571
+2021-06-08,"Tercera",26,"Casos",3081
+2021-06-08,"Tercera",26,"Media móvil de 7 días",2948.57142857143
+2021-06-08,"Tercera",26,"Spline (df=33)",2906.77061652388
+2021-06-08,"Tercera",26,"Cambio en spline",0.0250108248743721
+2021-06-08,"Tercera",26,"Índice (día 1 = 100)",145.341877332582
+2021-06-09,"Tercera",27,"Casos",2870
+2021-06-09,"Tercera",27,"Media móvil de 7 días",2975
+2021-06-09,"Tercera",27,"Spline (df=33)",2980.87302900485
+2021-06-09,"Tercera",27,"Cambio en spline",0.0254930375516132
+2021-06-09,"Tercera",27,"Índice (día 1 = 100)",146.644602492782
+2021-06-10,"Tercera",28,"Casos",3125
+2021-06-10,"Tercera",28,"Media móvil de 7 días",2990.71428571429
+2021-06-10,"Tercera",28,"Spline (df=33)",3058.28264712285
+2021-06-10,"Tercera",28,"Cambio en spline",0.025968774035249
+2021-06-10,"Tercera",28,"Índice (día 1 = 100)",147.419195831279
+2021-06-11,"Tercera",29,"Casos",2989
+2021-06-11,"Tercera",29,"Media móvil de 7 días",3086.57142857143
+2021-06-11,"Tercera",29,"Spline (df=33)",3139.49836551408
+2021-06-11,"Tercera",29,"Cambio en spline",0.0265559883641374
+2021-06-11,"Tercera",29,"Índice (día 1 = 100)",152.144215196113
+2021-06-12,"Tercera",30,"Casos",2850
+2021-06-12,"Tercera",30,"Media móvil de 7 días",3187.57142857143
+2021-06-12,"Tercera",30,"Spline (df=33)",3225.11090587599
+2021-06-12,"Tercera",30,"Cambio en spline",0.0272694967139721
+2021-06-12,"Tercera",30,"Índice (día 1 = 100)",157.122737835364
+2021-06-13,"Tercera",31,"Casos",2803
+2021-06-13,"Tercera",31,"Media móvil de 7 días",3274.57142857143
+2021-06-13,"Tercera",31,"Spline (df=33)",3315.71098990599
+2021-06-13,"Tercera",31,"Cambio en spline",0.0280920832412092
+2021-06-13,"Tercera",31,"Índice (día 1 = 100)",161.41116822759
+2021-06-14,"Tercera",32,"Casos",3888
+2021-06-14,"Tercera",32,"Media móvil de 7 días",3294.57142857143
+2021-06-14,"Tercera",32,"Spline (df=33)",3411.88933930151
+2021-06-14,"Tercera",32,"Cambio en spline",0.0290068554491974
+2021-06-14,"Tercera",32,"Índice (día 1 = 100)",162.397014294768
+2021-06-15,"Tercera",33,"Casos",3788
+2021-06-15,"Tercera",33,"Media móvil de 7 días",3464
+2021-06-15,"Tercera",33,"Spline (df=33)",3514.23667575997
+2021-06-15,"Tercera",33,"Cambio en spline",0.0299972614233178
+2021-06-15,"Tercera",33,"Índice (día 1 = 100)",170.748538835293
+2021-06-16,"Tercera",34,"Casos",3479
+2021-06-16,"Tercera",34,"Media móvil de 7 días",3604.28571428571
+2021-06-16,"Tercera",34,"Spline (df=33)",3623.34372097879
+2021-06-16,"Tercera",34,"Cambio en spline",0.0310471534178132
+2021-06-16,"Tercera",34,"Índice (día 1 = 100)",177.663544820787
+2021-06-17,"Tercera",35,"Casos",3265
+2021-06-17,"Tercera",35,"Media móvil de 7 días",3891.71428571429
+2021-06-17,"Tercera",35,"Spline (df=33)",3739.80119665541
+2021-06-17,"Tercera",35,"Cambio en spline",0.0321408855037241
+2021-06-17,"Tercera",35,"Índice (día 1 = 100)",191.831561157665
+2021-06-18,"Tercera",36,"Casos",4175
+2021-06-18,"Tercera",36,"Media móvil de 7 días",4022.28571428571
+2021-06-18,"Tercera",36,"Spline (df=33)",3864.19982448724
+2021-06-18,"Tercera",36,"Cambio en spline",0.0332634333458915
+2021-06-18,"Tercera",36,"Índice (día 1 = 100)",198.267727624815
+2021-06-19,"Tercera",37,"Casos",3832
+2021-06-19,"Tercera",37,"Media móvil de 7 días",4131.71428571429
+2021-06-19,"Tercera",37,"Spline (df=33)",3997.13032617171
+2021-06-19,"Tercera",37,"Cambio en spline",0.034400524745666
+2021-06-19,"Tercera",37,"Índice (día 1 = 100)",203.661713963805
+2021-06-20,"Tercera",38,"Casos",4815
+2021-06-20,"Tercera",38,"Media móvil de 7 días",4263.71428571429
+2021-06-20,"Tercera",38,"Spline (df=33)",4139.18342340625
+2021-06-20,"Tercera",38,"Cambio en spline",0.035538770478517
+2021-06-20,"Tercera",38,"Índice (día 1 = 100)",210.168298007183
+2021-06-21,"Tercera",39,"Casos",4802
+2021-06-21,"Tercera",39,"Media móvil de 7 días",4416
+2021-06-21,"Tercera",39,"Spline (df=33)",4290.94983788827
+2021-06-21,"Tercera",39,"Cambio en spline",0.0366657862088972
+2021-06-21,"Tercera",39,"Índice (día 1 = 100)",217.674811632984
+2021-06-22,"Tercera",40,"Casos",4554
+2021-06-22,"Tercera",40,"Media móvil de 7 días",4540.14285714286
+2021-06-22,"Tercera",40,"Spline (df=33)",4453.02029131521
+2021-06-22,"Tercera",40,"Cambio en spline",0.0377702978477836
+2021-06-22,"Tercera",40,"Índice (día 1 = 100)",223.794099007112
+2021-06-23,"Tercera",41,"Casos",4403
+2021-06-23,"Tercera",41,"Media móvil de 7 días",4695
+2021-06-23,"Tercera",41,"Spline (df=33)",4625.98550538449
+2021-06-23,"Tercera",41,"Cambio en spline",0.0388422245473735
+2021-06-23,"Tercera",41,"Índice (día 1 = 100)",231.427364270122
+2021-06-24,"Tercera",42,"Casos",4331
+2021-06-24,"Tercera",42,"Media móvil de 7 días",4705
+2021-06-24,"Tercera",42,"Spline (df=33)",4810.43620179353
+2021-06-24,"Tercera",42,"Cambio en spline",0.0398727354840052
+2021-06-24,"Tercera",42,"Índice (día 1 = 100)",231.920287303711
+2021-06-25,"Tercera",43,"Casos",5044
+2021-06-25,"Tercera",43,"Media móvil de 7 días",4913.71428571429
+2021-06-25,"Tercera",43,"Spline (df=33)",5006.96310223975
+2021-06-25,"Tercera",43,"Cambio en spline",0.0408542785315296
+2021-06-25,"Tercera",43,"Índice (día 1 = 100)",242.20829519048
+2021-06-26,"Tercera",44,"Casos",4916
+2021-06-26,"Tercera",44,"Media móvil de 7 días",5023.85714285714
+2021-06-26,"Tercera",44,"Spline (df=33)",5216.41074655989
+2021-06-26,"Tercera",44,"Cambio en spline",0.0418312737768026
+2021-06-26,"Tercera",44,"Índice (día 1 = 100)",247.637490317583
+2021-06-27,"Tercera",45,"Casos",4885
+2021-06-27,"Tercera",45,"Media móvil de 7 días",5227.14285714286
+2021-06-27,"Tercera",45,"Spline (df=33)",5440.63894714789
+2021-06-27,"Tercera",45,"Cambio en spline",0.0429851504189685
+2021-06-27,"Tercera",45,"Índice (día 1 = 100)",257.657911414689
+2021-06-28,"Tercera",46,"Casos",6263
+2021-06-28,"Tercera",46,"Media móvil de 7 días",5642.42857142857
+2021-06-28,"Tercera",46,"Spline (df=33)",5681.76133453701
+2021-06-28,"Tercera",46,"Cambio en spline",0.0443187628753628
+2021-06-28,"Tercera",46,"Índice (día 1 = 100)",278.128300823886
+2021-06-29,"Tercera",47,"Casos",5325
+2021-06-29,"Tercera",47,"Media móvil de 7 días",5863.14285714286
+2021-06-29,"Tercera",47,"Spline (df=33)",5941.89153926047
+2021-06-29,"Tercera",47,"Cambio en spline",0.0457833740995506
+2021-06-29,"Tercera",47,"Índice (día 1 = 100)",289.007816350961
+2021-06-30,"Tercera",48,"Casos",5826
+2021-06-30,"Tercera",48,"Media móvil de 7 días",6125.57142857143
+2021-06-30,"Tercera",48,"Spline (df=33)",6223.14319185155
+2021-06-30,"Tercera",48,"Cambio en spline",0.0473336900770966
+2021-06-30,"Tercera",48,"Índice (día 1 = 100)",301.943525103866
+2021-07-01,"Tercera",49,"Casos",7238
+2021-07-01,"Tercera",49,"Media móvil de 7 días",6409.71428571429
+2021-07-01,"Tercera",49,"Spline (df=33)",6527.62992284349
+2021-07-01,"Tercera",49,"Cambio en spline",0.0489281254833771
+2021-07-01,"Tercera",49,"Índice (día 1 = 100)",315.949581015421
+2021-07-02,"Tercera",50,"Casos",6589
+2021-07-02,"Tercera",50,"Media móvil de 7 días",6938.28571428571
+2021-07-02,"Tercera",50,"Spline (df=33)",6857.46536276953
+2021-07-02,"Tercera",50,"Cambio en spline",0.0505291267772059
+2021-07-02,"Tercera",50,"Índice (día 1 = 100)",342.004084219421
+2021-07-03,"Tercera",51,"Casos",6753
+2021-07-03,"Tercera",51,"Media móvil de 7 días",7421
+2021-07-03,"Tercera",51,"Spline (df=33)",7214.76314216293
+2021-07-03,"Tercera",51,"Cambio en spline",0.0521034756271952
+2021-07-03,"Tercera",51,"Índice (día 1 = 100)",365.798183226533
+2021-07-04,"Tercera",52,"Casos",6874
+2021-07-04,"Tercera",52,"Media móvil de 7 días",7866.14285714286
+2021-07-04,"Tercera",52,"Spline (df=33)",7601.63689155693
+2021-07-04,"Tercera",52,"Cambio en spline",0.0536225156350764
+2021-07-04,"Tercera",52,"Índice (día 1 = 100)",387.740299978875
+2021-07-05,"Tercera",53,"Casos",9963
+2021-07-05,"Tercera",53,"Media móvil de 7 días",8035.85714285714
+2021-07-05,"Tercera",53,"Spline (df=33)",8020.20024148479
+2021-07-05,"Tercera",53,"Cambio en spline",0.0550622656539609
+2021-07-05,"Tercera",53,"Índice (día 1 = 100)",396.105908034645
+2021-07-06,"Tercera",54,"Casos",8704
+2021-07-06,"Tercera",54,"Media móvil de 7 días",8418
+2021-07-06,"Tercera",54,"Spline (df=33)",8472.56682247975
+2021-07-06,"Tercera",54,"Cambio en spline",0.0564034023309142
+2021-07-06,"Tercera",54,"Índice (día 1 = 100)",414.942609675375
+2021-07-07,"Tercera",55,"Casos",8942
+2021-07-07,"Tercera",55,"Media móvil de 7 días",9049.85714285714
+2021-07-07,"Tercera",55,"Spline (df=33)",8960.85026507507
+2021-07-07,"Tercera",55,"Cambio en spline",0.0576311114242005
+2021-07-07,"Tercera",55,"Índice (día 1 = 100)",446.088303640589
+2021-07-08,"Tercera",56,"Casos",8426
+2021-07-08,"Tercera",56,"Media móvil de 7 días",9315.42857142857
+2021-07-08,"Tercera",56,"Spline (df=33)",9487.16419980398
+2021-07-08,"Tercera",56,"Cambio en spline",0.0587348208216608
+2021-07-08,"Tercera",56,"Índice (día 1 = 100)",459.178931061193
+2021-07-09,"Tercera",57,"Casos",9264
+2021-07-09,"Tercera",57,"Media móvil de 7 días",NA
+2021-07-09,"Tercera",57,"Spline (df=33)",10053.6222571998
+2021-07-09,"Tercera",57,"Cambio en spline",0.0597078373964975
+2021-07-09,"Tercera",57,"Índice (día 1 = 100)",NA
+2021-07-10,"Tercera",58,"Casos",11176
+2021-07-10,"Tercera",58,"Media móvil de 7 días",NA
+2021-07-10,"Tercera",58,"Spline (df=33)",10662.3380677956
+2021-07-10,"Tercera",58,"Cambio en spline",0.0605469148355904
+2021-07-10,"Tercera",58,"Índice (día 1 = 100)",NA
+2021-07-11,"Tercera",59,"Casos",8733
+2021-07-11,"Tercera",59,"Media móvil de 7 días",NA
+2021-07-11,"Tercera",59,"Spline (df=33)",11315.4252621248
+2021-07-11,"Tercera",59,"Cambio en spline",0.0612517808173607
+2021-07-11,"Tercera",59,"Índice (día 1 = 100)",NA
