@@ -304,7 +304,7 @@ Por otro lado, analizando de manera análoga un índice de fallecimientos, el co
 fig.deaths.index
 ```
 
-Este comportamiento puede ser explicado por el programa de vacunación, que si bien no tiene como objetivo impedir el contagio, sino reducir la probabilidad de que los casos se agraven. Por supuesto, hay otros factores que pueden influir en estas tendencias, como la experiencia adquirida en el manejo de los casos.
+Este comportamiento puede ser explicado por el programa de vacunación, que si bien no tiene como objetivo impedir el contagio, sí tiene el potencial de reducir la probabilidad de que los casos se agraven. Por supuesto, hay otros factores que pueden influir en estas tendencias, como la experiencia adquirida en el manejo de los casos.
 
 Vale la pena enfatizar que estas diferencias en las tendencias no representan un pronóstico de lo que sucederá en el futuro, ni una invitación a relajar las medidas de prevención.
 

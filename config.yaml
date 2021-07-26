@@ -1,5 +1,5 @@
 theme: "hugo-PaperMod"
-#baseURL: http://example.org/
+baseURL: https://rojasirvin.netlify.app/
 languageCode: en-us
 title: Blog de Irvin Rojas
 
