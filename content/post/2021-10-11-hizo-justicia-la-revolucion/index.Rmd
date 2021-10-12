@@ -13,7 +13,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ```{r, echo=FALSE}
 # Define variable containing url
-url <- "https://s.france24.com/media/display/51adc7a2-2a7e-11ec-9ebe-005056a90284/w:1280/p:16x9/card_angrist_imbens.webp"
+url <- "https://media.news9live.com/h-upload/2021/10/11/35848-nobel-prize-for-economics.jpg"
 ```
 
 ![](`r url`)
